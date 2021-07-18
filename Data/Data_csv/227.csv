@@ -1,0 +1,143 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,1558,0,neutral,The service is not transparent regarding government requests or inquiries that may involve your data. ,Privacy Notice,"Twitch may disclose user information if we believe in good faith that such disclosure is necessary to comply with U.S.
+state and federal laws or other applicable laws around the world (for example, in the country of your residence), or respond to a court order, judicial or other government request, subpoena, or warrant in the manner legally required."
+1,5617,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Notice,"However, Twitch does not recognize or respond to browser-initiated DNT signals."
+2,5827,50,neutral,There is a date of the last update of the agreements,Cookie Policy,please take a look at the “last modified” legend at the top of this page to see when this Cookie Policy was last revised.
+3,5828,50,neutral,Blocking first party cookies may limit your ability to use the service,Cookie Policy,"Essential Cookies</strong> These cookies are essential to the operation of the Twitch Services in order to enable you to move around it and to use its features.
+Without these cookies, services you have asked for, such as accessing secure areas of the website or paid for content, cannot be provided.
+These cookies are essential for using the website and therefore cannot be turned off without severely affecting your use of the website."
+4,5830,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"THE TWITCH SERVICES AND THE CONTENT AND MATERIALS CONTAINED THEREIN ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, EXCEPT AS EXPRESSLY PROVIDED TO THE CONTRARY IN WRITING BY TWITCH"
+5,5831,25,bad,This service retains rights to your content even after you stop using your account,Privacy Notice,"If you close your account, Twitch may retain certain information about you for the activities described in this Privacy Notice, or as permitted or required by applicable law"
+6,13080,10,bad,Third-party cookies are used for statistics,Cookie Policy,"Performance cookies on this Twitch Services may include:</p>
+<p>
+<strong>Cookie Name</strong>
+</p>
+<p>
+<strong>Further information</strong>
+</p>
+<p>Google Analytics</p>
+<p>tools.google.com/dlpage/gaoptout</p>"
+7,13081,70,bad,Third-party cookies are used for advertising,Cookie Policy,We and our service providers may use targeting or advertising cookies to deliver ads that we believe are more relevant to you and your interests.
+8,13082,40,good, A list of all cookies set by the website is provided,Cookie Policy,"What Cookies do we use?</strong>
+<p>Below we list the different types of cookies we may use on the Twitch Services.</p>"
+9,13083,25,good,You can opt out of targeted advertising,Cookie Policy,"<p>For more information about targeting and advertising cookies and how you can opt out, you can visit youronlinechoices.com/uk/your-ad-choices or allaboutcookies.org/manage-cookies/index.html"
+10,13084,5,bad,"Third party cookies are employed, but with opt out instructions",Cookie Policy,"
+<p>We do not control these cookies.
+To disable or reject third-party cookies, please refer to the relevant third party’s website.
+For Extensions in particular, we encourage you to visit an Extension’s detail pages to review any privacy policy posted by the relevant developer, which may include additional information on their cookie practices.
+You can also learn more about controlling cookies in the “How do I control Cookies” section below.</p>"
+11,13085,50,bad, You are being tracked via social media cookies/pixels,Cookie Policy,"Third-party cookies on the Twitch Services may include:</p>
+<p>
+<strong>Cookie Name</strong>
+</p>
+<p>
+<strong>Further Information</strong>
+</p>
+<p>Facebook Social Plugin</p>
+<p>https://www.facebook.com/help/206635839404055"
+12,13086,40,good,You are informed about the risk of publishing personal info online,Privacy Notice,"Given the social nature of some of the Twitch Services, that information may be collected, used, or disclosed by others who are part of that social interaction.
+In addition, some features of the Twitch Services are designed to provide others with information about user activity, such as identifying the user who created a particular Clip or the subscription status of users for a given channel.
+We encourage you to be mindful of this when considering your activity on the Twitch Services."
+13,13087,30,good,Details are provided about what kind of information they collect,Privacy Notice,Personal Information Twitch Collects About You
+14,13088,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Notice,Examples of such information we automatically collect include Internet Protocol address (“IP Address”)
+15,13089,50,good,Information is provided about how they collect personal data,Privacy Notice,We obtain information about you through the means discussed below when we provide the Twitch Services.
+16,13090,50,bad,Extra data may be collected about you through promotions,Privacy Notice,enter contests or sweepstakes.
+17,13091,10,neutral,First-party cookies are used,Privacy Notice,we automatically record and store certain information about your system by using cookies and other types of technologies.
+18,13092,50,bad,This service tracks which web page referred you to it,Privacy Notice,"referring and exit page addresses,"
+19,13093,10,neutral,Your personal data is aggregated into statistics,Privacy Notice,(e) monitor and store aggregate site usage metrics such as total number of visitors and pages accessed.
+20,13492,15,neutral,This service is only available to users over a certain age,Privacy Notice,"IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE TWITCH SERVICES AT ANY TIME OR IN ANY MANNER."
+21,13674,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Notice,"Once you have asked us to close your account and delete your profile information, we will delete all information that we are not required or permitted to retain by law.</p>"
+22,13675,50,good,The data retention period is kept to the minimum necessary for fulfilling its purposes,Privacy Notice,"Twitch maintains data related to your usage of Twitch for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required (or permitted) by law such as for tax and accounting purposes, or as otherwise communicated to you."
+23,13676,50,bad,Information is gathered about you through third parties,Privacy Notice,"We may obtain additional information from third parties and sources other than the Twitch Services.
+For example, we may obtain additional information from advertisers, games or services you use, or social media networks (such as Facebook) for which you have approved our access."
+24,13677,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Notice,"We require that these parties process such information in compliance with this Privacy Notice, we authorize them to use the information only for the purposes for which it is provided to them, and we require them to use reasonable confidentiality measures."
+25,13678,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Notice,"We disclose such information to service providers working on our behalf, such as, to: provide website hosting, maintenance, and security services.
+fulfill orders.
+conduct data analysis and create reports.
+offer certain functionality.
+or assist Twitch in improving the Twitch Services and creating new services and features."
+26,13679,50,bad,Your personal data may be used for marketing purposes,Privacy Notice,"We use your email address and/or telephone number to communicate with you, including to notify you of major Twitch Services updates, for customer service purposes, or to contact you regarding any content that you have posted to or downloaded from the Twitch Services."
+27,13680,10,good,You can opt out of promotional communications,Privacy Notice,"If you want to stop receiving notifications by telephone, reply STOP to any text message from us.
+Note that we may still send you additional informational or transactional notifications.</li>
+<li>Twitch may periodically send promotional materials or notifications to you related to the Twitch Services.
+If you want to stop receiving promotional materials, you can go to your account settings once you have logged in to the Twitch Services or follow the unsubscribe instructions at the bottom of any email from us.
+If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.</li>"
+28,13681,50,good,You can opt out of providing personal information to third parties,Privacy Notice,"Other than as set out in this Privacy Notice, you will receive notice when personal information about you might be shared with third parties and you will have an opportunity to choose not to share the information."
+29,13682,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"You are solely responsible for maintaining the confidentiality of your account, your password and for restricting access to your computer.
+If you permit others to use your account credentials, you agree to these Terms of Service on behalf of all other persons who use the Services under your account or password, and you are responsible for all activities that occur under your account or password."
+30,13683,10,neutral,You cannot distribute or disclose your account to third parties,Terms of Service,"Unless expressly permitted in writing by Twitch, you may not sell, rent, lease, share, or provide access to your account to anyone else, including without limitation, charging anyone for access to administrative rights on your account."
+31,13684,50,bad,"Instead of asking directly, this Service will assume your consent merely from your usage.",Terms of Service,Your continued use of the Twitch Services after the effective date of the revised Terms of Service constitutes your acceptance of the terms.</p>
+32,13685,50,bad,Your content can be licensed to third parties,Terms of Service,"Unless otherwise agreed to in a written agreement between you and Twitch that was signed by an authorized representative of Twitch, if you submit, transmit, display, perform, post, or store User Content using the Twitch Services, you grant Twitch and its sub-licensees, to the furthest extent and for the maximum duration permitted by applicable law (including in perpetuity if permitted under applicable law), an unrestricted, worldwide, irrevocable, fully sub-licenseable,"
+33,13686,10,good,The service has non-exclusive use of your content,Terms of Service,"nonexclusive, and royalty-free right to:"
+34,13687,50,bad,Your content can be distributed through any media known now or in the future,Terms of Service,"(a) use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, and display such User Content (including without limitation for promoting and redistributing part or all of the Twitch Services (and derivative works thereof) in any form, format, media, or media channels now known or later developed or discovered.
+and (b) use the name, identity, likeness, and voice (or other biographical information) that you submit in connection with such User Content."
+35,13688,10,neutral,You agree not to use the service for illegal purposes,Terms of Service,"YOU AGREE NOT TO violate any law, contract, intellectual property, or other third-party right.
+not to commit a tort, and that you are solely responsible for your conduct while on the Twitch Services.</p>"
+36,13689,15,neutral,The posting of pornographic content is prohibited,Terms of Service,"<p>You agree that you will comply with these Terms of Service and Twitch’s Community Guidelines and will not:</p>
+<p>i.
+create, upload, transmit, distribute, or store any content that is inaccurate, unlawful, infringing, defamatory, obscene, pornographic,"
+37,13690,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"invasive of privacy or publicity rights, harassing, threatening, abusive, inflammatory, or otherwise objectionable;</p>"
+38,13691,20,neutral,You are prohibited from attempting to gain unauthorized access to other computer systems,Terms of Service,"access the Twitch Services accounts of others without permission.
+forge another person’s digital signature.
+misrepresent the source, identity, or content of information transmitted via the Twitch Services.
+or perform any other similar fraudulent activity;</p>"
+39,13692,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms of Service,"iii.
+send junk mail or spam to users of the Twitch Services, including without limitation unsolicited advertising, promotional materials, or other solicitation material.
+bulk mailing of commercial advertising, chain mail, informational announcements, charity requests, petitions for signatures, or any of the preceding things related to promotional giveaways (such as raffles and contests).
+and other similar activities;"
+40,13693,25,bad,You shall not interfere with another person's enjoyment of the service,Terms of Service,"ix.
+interfere with or damage the operation of the Twitch Services or any user’s enjoyment of them, by any means, including uploading or otherwise disseminating viruses, adware, spyware, worms, or other malicious code;</p>"
+41,13694,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms of Service,"xi.
+access any website, server, software application, or other computer resource owned, used, and/or licensed by Twitch, including but not limited to the Twitch Services, by means of any robot, spider, scraper, crawler, or other automated means for any purpose, or bypass any measures Twitch may use to prevent or restrict access to any website, server, software application, or other computer resource owned, used, and/or licensed by Twitch, including but not limited to the Twitch Services;</p>"
+42,13695,35,neutral,This service does not condone any ideas contained in its user-generated contents,Terms of Service,"Twitch does not endorse any User Content, opinion, recommendation, or advice expressed therein, and Twitch expressly disclaims any and all liability in connection with User Content"
+43,13696,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Terms of Service,"To the fullest extent permitted by applicable law, Twitch reserves the right to remove, screen, or edit any User Content posted or stored on the Twitch Services at any time and without notice, including where such User Content violates these Terms of Service or applicable law, and you are solely responsible for creating backup copies of and replacing any User Content you post or store on the Twitch Services at your sole cost and expense.
+Any use of the Twitch Services in violation of the foregoing violates these Terms of Service and may result in, among other things, termination or suspension of your rights to use the Twitch Services.</p>"
+44,13697,10,neutral,Instructions are provided on how to submit a copyright claim,Terms of Service,"If you are the copyright owner or agent thereof and believe that content posted on the Twitch Services infringes upon your copyright, please submit a notice following our DMCA Guidelines, which include further information about our policies, what to include in your notice, and where to submit your notice.</p> "
+45,13698,50,neutral,The service is not responsible for linked or (clearly) quoted content from third-party content providers,Terms of Service,"In addition to the User Content, Twitch may provide other third-party content on the Twitch Services (collectively, the “Third-Party Content”).
+Twitch does not control or endorse any Third-Party Content and makes no representation or warranties of any kind regarding the Third-Party Content, including without limitation regarding its accuracy or completeness.
+Please be aware that we do not create Third-Party Content, update, or monitor it.
+Therefore we are not responsible for any Third-Party Content on the Twitch Services."
+46,13699,50,bad,"If you offer suggestions to the service, they become the owner of the ideas that you give them",Terms of Service,"By submitting ideas, suggestions, documents, and/or proposals (the “Submissions”) to Twitch or its employees, you acknowledge and agree that Twitch shall be entitled to use or disclose such Submissions for any purpose in any way without providing compensation or credit to you.</p>"
+47,13700,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Service,"<p>To the fullest extent permitted by applicable law, Twitch reserves the right, without notice and in our sole discretion, to terminate your license to use the Twitch Services (including to post User Content) and to block or prevent your future access to and use of the Twitch Services, including where we reasonably consider that: (a) your use of the Twitch Services violates these Terms of Service or applicable law.
+(b) you fraudulently use or misuse the Twitch Services.
+or (c) we are unable to continue providing the Twitch Services to you due to technical or legitimate business reasons.
+Our right to terminate your license includes the ability to terminate or to suspend your access to any purchased products or services, including any subscriptions, Prime Gaming, or Turbo accounts.
+"
+48,13701,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service,"To the fullest extent permitted by applicable law, you agree to indemnify, defend, and hold harmless Twitch, its affiliated companies, and each of our respective contractors, employees, officers, directors, agents,&nbsp.
+third-party suppliers, licensors, and partners (individually and collectively, the “Twitch Parties”) from any claims, losses, damages, demands, expenses, costs, and liabilities, including legal fees and expenses, arising out of or related to your access, use, or misuse of the Twitch Services, any User Content you post, store, or otherwise transmit in or through the Twitch Services, your violation of the rights of any third party, any violation by you of these Terms of Service, or any breach of the representations, warranties, and covenants made by you herein.
+You agree to promptly notify the Twitch Parties of any third-party claim, and Twitch reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Twitch, and you agree to cooperate with Twitch’s defense of these claims."
+49,13702,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Service,"THE TWITCH PARTIES DISCLAIM ALL OTHER WARRANTIES, STATUTORY, EXPRESS, OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT AS TO THE TWITCH SERVICES, INCLUDING ANY INFORMATION, CONTENT, OR MATERIALS CONTAINED THEREIN."
+50,13703,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Service,"TWITCH DOES NOT REPRESENT OR WARRANT THAT THE CONTENT OR MATERIALS ON THE TWITCH SERVICES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR-FREE."
+51,13704,50,neutral,"You are responsible for any risks, damages, or losses that may incur by downloading materials",Terms of Service,"WHILE TWITCH ATTEMPTS TO MAKE YOUR ACCESS AND USE OF THE TWITCH SERVICES SAFE, TWITCH CANNOT AND DOES NOT REPRESENT OR WARRANT THAT THE TWITCH SERVICES OR OUR SERVER(S) ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, AND THEREFORE, YOU SHOULD USE INDUSTRY-RECOGNIZED SOFTWARE TO DETECT AND DISINFECT VIRUSES FROM ANY DOWNLOAD.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM TWITCH OR THROUGH THE TWITCH SERVICES WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN."
+52,13705,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of Service,"AND (B) IN NO EVENT SHALL THE AGGREGATE LIABILITY OF TWITCH, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY, OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE USE OF OR INABILITY TO USE THE TWITCH SERVICES EXCEED THE AMOUNT PAID BY YOU, IF ANY, FOR ACCESSING THE TWITCH SERVICES DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE DATE OF THE CLAIM OR ONE HUNDRED DOLLARS, WHICHEVER IS GREATER.
+TO THE EXTENT THAT APPLICABLE LAW PROHIBITS LIMITATION OF SUCH LIABILITY, TWITCH SHALL LIMIT ITS LIABILITY TO THE FULL EXTENT ALLOWED BY APPLICABLE LAW.</p>
+"
+53,13706,50,bad,You are forced into binding arbitration in case of disputes,Terms of Service,"You and Twitch agree to arbitrate any dispute arising from these Terms of Service or your use of the Twitch Services, except that you and Twitch are not required to arbitrate any dispute in which either party seeks equitable and other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents.
+ARBITRATION PREVENTS YOU FROM SUING IN COURT OR FROM HAVING A JURY TRIAL."
+54,13707,0,neutral,The court of law governing the terms is in location X,Terms of Service,"Any dispute between the parties will be governed by this Agreement and the laws of the State of California and applicable United States law, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction."
+55,13708,50,bad,You have a reduced time period to take legal action against the service,Terms of Service,"YOU AND TWITCH AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE TWITCH SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES.
+OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.</p>"
+56,13709,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Service,"If we fail to exercise or enforce any right or provision of these Terms of Service, it will not constitute a waiver of such right or provision.
+Any waiver of any provision of these Terms of Service will be effective only if in writing and signed by the relevant party."
+57,13710,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Service,"If any provision of these Terms of Service is held to be unlawful, void, or for any reason unenforceable, then that provision will be limited or eliminated from these Terms of Service to the minimum extent necessary and will not affect the validity and enforceability of any remaining provisions.</p>"
+58,13711,35,bad,"Defend, indemnify, hold harmless; survives termination",Terms of Service,"Upon termination of these Terms of Service, any provision which, by its nature or express terms should survive, will survive such termination or expiration, including, but not limited to, Sections 7, 8, 11, 12, and 15-17.</p>"
+59,13712,50,neutral,There is a date of the last update of the agreements,Terms of Service,last modified on 10/14/2020
+60,13713,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Notice,", a unique user ID, device and browser types and identifiers, "
+61,13714,50,bad,Your profile is combined across various products,Privacy Notice,"We may also obtain information from third-party services (such as Riot or Steam) regarding your use of such services, including about your use of the content you choose to broadcast through the Twitch Services.
+We use this information to supplement the information we collect about you in order to provide more relevant, safer experiences for you with the Twitch Services and improve the Twitch Services, analytics, and advertising.
+If we combine or associate information from other sources with information that we collect through the Twitch Services, we will treat the combined information in accordance with this Privacy Notice."
+62,13764,30,bad,Your personal data is used for advertising,Privacy Notice,"
+<li>Twitch uses such information to operate, maintain, enhance, provide, create, and develop all of the features, functionality, and services (new or existing) found on the Twitch Services.
+provide security for our websites, products, software, or applications.
+manage relationships with Twitch account holders (e.g., Partners, Affiliates), including making or receiving payment.
+improve users’ experience with Twitch by providing content recommendations and by delivering content that we hope users will find relevant and interesting, including advertising and marketing messages.
+"
+63,13765,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Notice,"we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users as part of that merger, acquisition, sale, or other change of control event, including in the course of diligence.</p>"
+64,13766,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms of Service,Service <p>Twitch may amend any of the terms of these Terms of Service by posting the amended terms.
+65,13767,40,good,You can retrieve an archive of your data,Privacy Notice,"
+If these rights apply to you, they may permit you to request that we:</p>
+<ul>
+<li>Obtain access to or a copy of certain personal information we hold about you.</li>
+"
+66,13768,15,good,You have the right to leave this service at any time,Privacy Notice,<p>If you would like to close your account and delete your profile information on www.twitch.tv go to https://www.twitch.tv/user/delete_account.

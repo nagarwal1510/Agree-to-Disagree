@@ -1,0 +1,74 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,9764,50,blocker,You waive your moral rights,Terms of Service,"By granting these licenses, you waive any so-called “moral rights” that you may have.
+"
+1,9765,50,neutral,There is a date of the last update of the agreements,Terms of Service,"<p>Last Updated: December 15, 2020</p>"
+2,9767,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Service,"Automatic Renewal:</strong>&nbsp;<strong>To the extent permitted by applicable law, subscriptions automatically renew at the end of each subscription period unless cancelled beforehand."
+3,9768,15,neutral,The posting of pornographic content is prohibited,Terms of Service,"<p>You may not submit any content that:</p>
+<ul>
+<li>Infringes any third party’s copyrights or other rights (e.g., trademark, privacy rights, etc.);</li>
+<li>Is sexually explicit or promotes a sexual service;</li>"
+4,9769,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"VIMEO PROVIDES THE SERVICES ON AN “AS IS” AND “AS AVAILABLE” BASIS.
+YOU USE THE SERVICES AT YOUR OWN RISK.
+"
+5,9896,50,bad,You waive your right to a class action.,Terms of Service,"EACH PARTY WAIVES ITS RIGHT TO GO TO COURT, TO A TRIAL BY JURY, AND TO PARTICIPATE IN A CLASS ACTION, CLASS ARBITRATION, OR OTHER REPRESENTATIVE PROCEEDING WITH RESPECT TO ANY COVERED PRIVACY CLAIM.</p>"
+6,9897,15,neutral,This service is only available to users over a certain age,Terms of Service,"You must be at least 16 years old or the applicable age of majority in your jurisdiction, whichever is greater, to create an account or otherwise use our Services."
+7,9898,90,blocker,Your identity is used in ads that are shown to other users,Terms of Service,"You grant Vimeo permission to use your name, likeness, biography, trademarks, logos, or other identifiers used by you in your account profile for the purpose of displaying such properties to the public or the audiences you have specified.
+You may revoke the foregoing permission by deleting your account.
+Vimeo shall have the right to identify public profiles in its marketing and investor materials.</p>"
+8,9899,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"mong other things, Vimeo makes no representations or warranties:</p>
+<ul>
+<li>That our Services, or any part thereof, will be available or permitted in your jurisdiction, uninterrupted or error-free, completely secure, or accessible from all devices or browsers;</li>"
+9,9900,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service,"You will indemnify, defend, and hold harmless Vimeo and its subsidiaries, parents, and affiliates, and their and our respective directors, officers, employees, and agents, from and against all third-party complaints, demands, claims, damages, losses, costs, liabilities, and expenses, including attorney’s fees, arising from or relating to: (a) the content you submit to or through the Services.
+and (b) allegations of actions or omissions by you that (regardless if proven) would constitute a breach of this Agreement.</p>
+<strong>"
+10,9901,0,neutral,The court of law governing the terms is in location X,Terms of Service,"<p>Any disputes relating to this Agreement or your use of our Services will be governed by the laws of New York State and the United States of America (with respect to matters subject to federal jurisdiction such as copyright), without regard to principles of conflicts of law."
+11,9903,50,good,"If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",Terms of Service,"
+If you make suggestions to Vimeo on improving our products or services, Vimeo may use your suggestions without any compensation to you.</p>
+"
+12,11262,10,good,The service has non-exclusive use of your content,Terms of Service,"All licenses granted by you in this <strong>Section 6</strong>: (a) are non-exclusive,"
+13,16626,50,bad,You are forced into binding arbitration in case of disputes,Terms of Service,"By using our Services and accepting this Agreement, you (1) agree to binding arbitration of these claims before a neutral arbitrator."
+14,16627,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms of Service,"We may update this Agreement by posting a revised version on our website.
+By continuing to use our Services, you accept any revised Agreement.</p>"
+15,16628,0,neutral,"Other applicable rules, terms, conditions or guidelines",Terms of Service,"We may allow you to use Vimeo Create, our video creation tools.
+Your use of Vimeo Create is governed by our&nbsp;Vimeo Create Addendum.</p>
+<p>
+<strong>Transactions:</strong>&nbsp;We may offer digital goods for sale.
+Purchases of Vimeo On Demand videos are governed by our&nbsp;Vimeo On Demand Viewer Agreement.
+Purchases of Vimeo Stock footage and licenses are governed by our&nbsp;Vimeo Stock License Agreement.</p>
+<p>
+<strong>Monetization:</strong>&nbsp;We may allow you to sell digital goods or earn money through advertising.
+Your sales of videos are governed by our&nbsp;Seller Addendum.
+"
+16,16629,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"You are responsible for all activity that occurs under your account, including unauthorized activity.
+You must safeguard the confidentiality of your account credentials.
+"
+17,16630,30,good,You are entitled to a refund if certain thresholds or standards are not met by the service,Terms of Service,"Refund Policy:</strong>&nbsp;Subject to the terms hereof, Self-Serve subscribers who purchase plans directly from Vimeo may cancel and receive a full refund of their initial purchase within&nbsp;<strong>thirty (30) days</strong>&nbsp;after purchasing an annual plan and&nbsp;<strong>five (5) days</strong>&nbsp;after purchasing a monthly plan.
+"
+18,16631,10,neutral,Instructions are provided on how to submit a copyright claim,Terms of Service,"Copyright owners may send Vimeo a takedown notice as stated in our&nbsp;Copyright Policy&nbsp;if they believe Vimeo is hosting infringing materials.
+"
+19,16632,50,good,User accounts can be terminated after having been in breach of the terms of service repeatedly,Terms of Service,"We will, in appropriate circumstances, terminate the accounts of persons who repeatedly infringe.</p>"
+20,16633,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"<li>Is defamatory;</li>
+<li>Is harassing or abusive;</li>
+<li>"
+21,16634,20,neutral,You are prohibited from posting content which promotes violence or politically or religiously extremist values.,Terms of Service,"
+<li>Promotes or supports terror or hate groups;</li>"
+22,16641,30,blocker,This service holds onto content that you've deleted,Terms of Service,"The license period begins when you submit the video to Vimeo and ends when you or Vimeo delete it;&nbsp;<em>provided</em>&nbsp;that Vimeo may retain archival copies: (a) for a limited period of time in case you wish to restore it.
+(b) when the video is the subject of a takedown notice or other legal claim.
+or (c) when Vimeo in good faith believes that it is legally obligated to do so.</p>"
+23,16642,15,good,30 days of notice are given before closing your account,Terms of Service,"With respect to users who do not have a subscription plan (i.e., free users), (a) Vimeo may terminate this Agreement at any time by providing thirty (30) days’ written notice, and"
+24,16643,15,good,You have the right to leave this service at any time,Terms of Service,"(b) applicable users may terminate at any time by deleting their accounts.</p>
+<p>"
+25,16644,20,neutral,Users who have been permanently banned from this service are not allowed to re-register under a new account,Terms of Service,"
+If Vimeo deletes your account for breach, you may not re-register.</p>
+"
+26,16645,35,bad,"Defend, indemnify, hold harmless; survives termination",Terms of Service,"<p>In the event of any termination or expiration, the following sections will survive:&nbsp;<strong>Section 6.4</strong>&nbsp;(Other Content.
+Feedback),&nbsp;<strong>Section 7.2</strong>&nbsp;(Indemnification),&nbsp;<strong>Section 9</strong>&nbsp;(Disclaimers),&nbsp;<strong>Section 10</strong>&nbsp;(Limitation of Liability),&nbsp;<strong>Section 11</strong>&nbsp;(Disputes, Arbitration, and Choice of Law), and&nbsp;<strong>Section 12</strong>&nbsp;(General Provisions).</p>"
+27,16646,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Service,"<p>EXCEPT AS EXPRESSLY SET FORTH HEREIN, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, VIMEO DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT."
+28,16647,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"TO THE EXTENT PERMITTED BY APPLICABLE LAW: (A) VIMEO SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF BUSINESS, PROFITS, GOODWILL, DATA, OR OTHER INTANGIBLE LOSSES, EVEN IF VIMEO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+"
+29,16648,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of Service,"(B) VIMEO'S TOTAL LIABILITY TO YOU, EXCEPT FOR VIMEO’S CONTRACTUAL PAYMENT OBLIGATIONS HEREUNDER (IF ANY), SHALL NOT EXCEED THE AMOUNTS PAID BY YOU TO VIMEO OVER THE TWELVE (12) MONTHS PRECEDING YOUR CLAIM(S) OR ONE HUNDRED DOLLARS (USD $100), WHICHEVER IS GREATER.</p>"
+30,16649,0,neutral,The terms for this service are translated into different languages,Terms of Service,"For convenience, we may provide translated versions of this Agreement.</p>"
+31,16650,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Service,"
+No failure or delay by Vimeo in exercising any right will waive any further exercise of that right.
+"
+32,16651,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Service,"If any term of this Agreement is found invalid or unenforceable by a court of competent jurisdiction, that term will be limited or severed.</p>"

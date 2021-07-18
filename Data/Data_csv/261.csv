@@ -1,0 +1,54 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,11230,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"Yandex may also transfer Personal information to third parties outside the Yandex Group to complete the purposes listed in Section 5 above.
+Please note that the level of protection of Personal Information in some countries may not be identical to the level in your jurisdiction and by using the Services you consent to such transfer.
+Such third parties may include:</p>
+<p>i.
+Partners, such as media publishers, advertising networks and other partners providing Yandex with services related to the placement and display of advertisement on the websites, programs, products and/or services owned or operated by such Partners, taxi companies operating the taxi Services"
+1,11231,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Terms of service,"You and Yandex hereby acknowledge and agree that this Agreement shall be construed and governed in accordance with substantial laws of Switzerland, without giving regard to its conflict of laws rules.
+Any claim, controversy or dispute arising out of or in relation of this Agreement or Additional Policies shall be exclusively referred for resolution to the state courts of Switzerland.
+To the extent permitted by applicable law, you hereby expressly and irrevocably agree to submit to the jurisdiction of the state courts of Switzerland with respect to any claim, controversy or dispute arising out or in relation of this Agreement."
+2,11232,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,"<li>(third party) tracking / advertising cookies: these cookies collect information about users, sources of traffic, page visits and advertising displayed to you and followed by you.
+They enable us to display advertising which may be of interest to you based on collected Personal information."
+3,11233,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of service,"he Site and the Services are provided to you on “as is”, “as available” and “with all faults” basis and you use Content, the Site and the Services exclusively at your own risk without any express or implied representations and/or warranties of any kind by Yandex, Company and/or Partners including,"
+4,11234,10,neutral,You agree not to use the service for illegal purposes,Terms of service,"In particular, under no circumstance you shall use the Site or the Services to:</p>
+<p>3.2.1.
+upload, download, post, transfer, send, transmit, distribute, email, link to or make available in any other way (hereinafter — “<strong>Make Available</strong>”) any images, photos, text, video, data, software, audio, sound, music, databases, links or other information (hereinafter — “<strong>Content</strong>”) that is illegal"
+5,11235,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of service,"harmful, slanderous, unethical, defamatory, harassing, threatening or infringing upon intellectual property rights, rights of privacy or publicity of third parties, Yandex, Company and/or Partners, incites hatred, bigotry, racial, ethnic, sexual, religious or social discrimination or is insulting to any persons, groups and/or entities;</p>
+"
+6,11236,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,andex uses cookies and web beacons (including pixel tags) to collect your Personal information and associate this Personal information with your device and web browser
+7,11237,50,bad,Information is gathered about you through third parties,Privacy Policy,"Also, Personal information can be obtained by Yandex through its partners (“Partners”), such as advertising partners or taxi service providers, who provide you with access to or let you use websites,"
+8,11238,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Privacy Policy,"Yandex shall be entitled to make such amendments at its own discretion, including, without limitation, to reflect changes in applicable legislation or amendments to the Sites and/or Services.</p>
+<p>Yandex undertakes not to introduce significant changes, imposing additional obligations or reducing your rights under this Policy without proper notice to you.
+You will be notified about such changes."
+9,11239,50,blocker,Your browsing history can be viewed by the service,Privacy Policy," to personalize advertisements and/or commercial offers based on your preferences, search history and other Personal information available to Yandex.;</p>
+"
+10,11242,50,neutral,There is a date of the last update of the agreements,Terms of service," Terms of Service <p>Effective Date: December 8, 2020</p>"
+11,11243,30,neutral,Your private content may be accessed by people working for the service,Privacy Policy,"How Yandex protects your Personal information <p>In most cases, Personal information is processed automatically without access to it by our staff.
+However, if such access is necessary, your Personal information can be accessed only by those Yandex employees whose professional tasks require using this information.
+To protect your Personal information and ensure its confidentiality, these employees must comply with internal rules and follow protocols for processing Personal information."
+12,19224,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of service,", the Site or the Services will meet your requirements and are error-free, accurate, ensure uninterrupted service, secure, reliable, useful, available, meeting certain quality standards or your needs or that any errors occurring in Content, on the Site or in the Services will be corrected."
+13,21078,50,bad,Your profile is combined across various products,Privacy Policy,"Personal information collected by Yandex may be collated and combined with other Personal information (such as your identity, contact details, age and gender, if you shared this information with us) collected by Yandex in your user account.
+"
+14,21079,30,bad,Your personal data is used for advertising,Privacy Policy,"<p>(c) to offer you other products and services from Yandex or other companies which we think can be of interest to you (i.e.
+personally-targeted advertising)."
+15,21080,80,bad,App required for this service requires broad device permissions,Privacy Policy,"iv) information related to your activity while using the Sites or Services (e.g.
+your search history, data on purchases in the Services, data on visited organizations, likes and preferences, email addresses of your mailing contacts, phonebook data, information about interaction with other users, as well as files and content stored in Yandex systems);"
+16,21082,80,bad,You must provide your identifiable information,Privacy Policy,"<p>(i) information provided by you when you register (create) a user account, such as your name, mobile phone number, address and age;</p>
+"
+17,21083,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"Yandex may also transfer your Personal information to its affiliates including other companies of the group to which Yandex belongs (the “Yandex Group”).
+"
+18,21084,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,"Please note that the level of protection of Personal Information in some countries may not be identical to the level required in your jurisdiction, by using the Services you consent to such transfer."
+19,21085,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,"ii.
+Advertisers or other Partners serving targeted advertisement on the Yandex Sites or Services.
+and third parties who process Personal information, such as our (IT) systems providers and/or consultants."
+20,21086,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Policy,"ii.
+any national or international regulatory, enforcement, exchange body, central or local government department and other statutory or public bodies or court where we are required to do so by applicable law or regulation at their request;</p>"
+21,21087,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"</p>
+<p>If it is provided by applicable law, you have a right of access to your Personal information as processed by Yandex under this Policy.</p>
+<p>If you believe that any information we hold about you is incorrect or incomplete, you can log in to your user account and correct your Personal information yourself.</p>
+<p>If it is provided by applicable law, you also have the right to:</p>
+<ul>
+<li>learn the information about you that Yandex stores;</li>
+<li>request erasure of your Personal information or certain parts of it"
+22,21088,60,bad,Your account can be deleted without prior notice and without a reason,Terms of service,"You acknowledge and agree that Company shall be entitled to terminate or suspend your account at its sole discretion without any notice to you in the event of your breach of this Agreement, Additional Policies or without any reason.
+"

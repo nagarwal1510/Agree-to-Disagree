@@ -1,0 +1,16 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,10749,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Privacy Policy,We express our opinion with no guarantee
+1,10750,20,good, Pseudonyms are allowed,Privacy Policy,Nicknames are optional.
+2,10751,15,good,Information is provided about security practices,Privacy Policy,Passwords are hashed in our database with the bcrypt algorithm.
+3,10752,20,neutral,"You cannot delete your contributions, but it makes sense for this service",Privacy Policy,"When cancelling your account, we scramble your data in our database so you cannot recover your account and we don't lose your contributions."
+4,10753,100,good,You are not being tracked,Privacy Policy,"
+<p> We do not use cookies or any other tracking technology."
+5,10754,0,neutral,"Other applicable rules, terms, conditions or guidelines",Privacy Policy,"</p>
+<p>Phoenix is hosted on Heroku for development purposes.
+Please refer to their ToS for any more details.</p>"
+6,12867,10,neutral,First-party cookies are used,,
+7,19491,15,good,You have the right to leave this service at any time,Privacy Policy,"When cancelling your account, we scramble your data in our database so you cannot recover your account and we don't lose your contributions.</p>"
+8,19492,25,good,No third-party analytics or tracking platforms are used,Privacy Policy,"We only use first party cookies.
+"
+9,19493,25,good,Your personal data is not sold,Privacy Policy,"
+<strong>We do not sell your data</strong>."

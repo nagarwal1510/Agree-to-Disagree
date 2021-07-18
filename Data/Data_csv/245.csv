@@ -1,0 +1,113 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,579,15,good,Copyright license limited for the purposes of that same service but transferable and sublicenseable,Terms of Service ,"In order to operate and provide our Services, you grant WhatsApp a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, distribute, create derivative works of, display, and perform the information (including the content) that you upload, submit, store, send, or receive on or through our Services.
+The rights you grant in this license are for the limited purpose of operating and providing our Services (such as to allow us to display your profile picture and status message, transmit your messages, store your undelivered messages on our servers for up to 30 days as we try to deliver them, and otherwise as described in our Privacy Policy)."
+1,6462,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,"<p>You agree to our information practices, including the collection, use, processing, and sharing of your information as described in this Privacy Policy, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use our Services."
+2,6548,15,neutral,This service is only available to users over a certain age,Terms of Service ,"You must be at least 13 years old to use our Services (or such greater age required in your country for you to be authorized to use our Services without parental approval).
+In addition to being of the minimum required age to use our Services under applicable law, if you are not old enough to have authority to agree to our Terms in your country, your parent or guardian must agree to our Terms on your behalf."
+3,6549,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service ,"YOU USE OUR SERVICES AT YOUR OWN RISK AND SUBJECT TO THE FOLLOWING DISCLAIMERS.
+WE ARE PROVIDING OUR SERVICES ON AN “AS IS” BASIS "
+4,6550,50,bad,You waive your right to a class action.,Terms of Service ,"FINALLY, THIS SECTION WAIVES YOUR RIGHT TO HAVE YOUR DISPUTE HEARD AND RESOLVED AS A CLASS ACTION, CLASS ARBITRATION, OR A REPRESENTATIVE ACTION."
+5,7660,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Service ,"
+<p>If we fail to enforce any of our Terms, it will not be considered a waiver.</p>"
+6,11580,50,bad,Information is gathered about you through third parties,Privacy Policy," We receive information other people provide us, which may include information about you.
+"
+7,11582,50,good,"User-generated content is encrypted, and this service cannot decrypt it",Privacy Policy,"When they are end-to-end encrypted, we and third parties can’t read them.</li>"
+8,11583,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"When we share information with third-party providers, "
+9,12875,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service ,"THAT OUR SERVICES WILL BE OPERATIONAL, ERROR FREE, SECURE, OR SAFE, OR THAT OUR SERVICES WILL FUNCTION WITHOUT DISRUPTIONS, DELAYS, OR IMPERFECTIONS.
+"
+10,12876,0,neutral,Third parties are involved in operating the service,Privacy Policy,"We work with third-party providers to help us operate, provide, improve, understand, customize, support, and market our Services."
+11,12878,20,neutral,Users who have been permanently banned from this service are not allowed to re-register under a new account,Terms of Service ,"
+If we disable your account for a violation of our Terms, you will not create another account without our permission.</p>"
+12,13018,10,good,A free help desk is provided,Privacy Policy,"For example, you may send us an email with information relating to our app performance or other issues"
+13,13019,30,good,Details are provided about what kind of information they collect,Privacy Policy,"<strong>Status Information.</strong> We collect information about your online and status message changes on our Services, such as whether you are online (your “online status”), when you last used our Services (your “last seen status”), and when you last updated your status message.</p>"
+14,13021,15,good,You have the right to leave this service at any time,Privacy Policy,You may delete your WhatsApp account at any time (including if you want to revoke your consent to our use of your information) using our in-app delete my account feature.
+15,13022,30,good,The service will only respond to government requests that are reasonable,Privacy Policy,"
+<p>We may collect, use, preserve, and share your information if we have a good-faith belief that it is reasonably necessary to: (a) respond pursuant to applicable law or regulations, to legal process, or to government requests."
+16,13024,30,bad,Your personal data is used for advertising,Privacy Policy," WhatsApp is now part of the Facebook family of companies.
+Our Privacy Policy explains how we work together to improve our services and offerings, like fighting spam across apps, making product suggestions, and showing relevant offers and ads on Facebook."
+17,13025,25,good,You can opt out of targeted advertising,Privacy Policy,"If you are an existing user, you can choose not to have your WhatsApp account information shared with Facebook to improve your Facebook ads and products experiences."
+18,13026,100,bad,Logs are kept for an undefined period of time,Privacy Policy,"Your messages are stored on your own device.
+If a message cannot be delivered immediately (for example, if you are offline), we may keep it on our servers for up to 30 days as we try to deliver it.
+If a message is still undelivered after 30 days, we delete it.
+To improve performance and deliver media messages more efficiently, such as when many people are sharing a popular photo or video, we may retain that content on our servers for a longer period of time.
+"
+19,13027,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"This includes information such as hardware model, operating system information, browser information, IP address, mobile network information including phone number, and device identifiers."
+20,13028,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"We collect device location information if you use our location features, such as when you choose to share your location with your contacts, view locations nearby or those others have shared with you, and the like, and for diagnostics and troubleshooting purposes such as if you are having trouble with our app’s location features.</p>"
+21,13029,10,neutral,First-party cookies are used,Privacy Policy,"We use cookies to operate and provide our Services, including to provide our Services that are web-based, improve your experiences, understand how our Services are being used, and customize our Services."
+22,13030,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy Policy,"Please note that when you use third-party services, their own terms and privacy policies will govern your use of those services.</p>
+</li>
+"
+23,13031,30,good,Information is provided about how your personal data is used,Privacy Policy,How We Use Information
+24,13032,50,bad,Your personal data may be used for marketing purposes,Privacy Policy," We communicate with you about our Services and features and let you know about our terms and policies and other important updates.
+We may provide you marketing for our Services and those of the Facebook family of companies, of which we are now a part.</p>
+"
+25,13033,10,neutral,Your personal data is aggregated into statistics,Privacy Policy,"
+<strong>Usage and Log Information.</strong> We collect service-related, diagnostic, and performance information.
+This includes information about your activity (such as how you use our Services, how you interact with others using our Services, and the like), log files, and diagnostic, crash, website, and performance logs and reports.</p>
+"
+26,13034,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"All of our rights and obligations under our Privacy Policy are freely assignable by us to any of our affiliates, in connection with a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise, and we may transfer your information to any of our affiliates, successor entities, or new owner.</p>
+"
+27,13035,10,neutral,You agree not to use the service for illegal purposes,Terms of Service ,"You will not use (or assist others in using) our Services in ways that: (a) violate, misappropriate, or infringe the rights of WhatsApp, our users, or others, including privacy, publicity, intellectual property, or other proprietary rights.
+(b) are illegal,"
+28,13036,15,neutral,The posting of pornographic content is prohibited,Terms of Service ,"obscene,"
+29,13037,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service ,"threatening, intimidating, harassing,"
+30,13038,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service ," You are responsible for keeping your device and your WhatsApp account safe and secure, and you must notify us promptly of any unauthorized use or security breach of your account or our Services."
+31,13039,50,good,You maintain ownership of your content,Terms of Service ,"WhatsApp does not claim ownership of the information that you submit for your WhatsApp account or through our Services.
+"
+32,13040,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Service ,"WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, "
+33,13041,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Service ,"WE DO NOT WARRANT THAT ANY INFORMATION PROVIDED BY US IS ACCURATE, COMPLETE, OR USEFUL"
+34,13042,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service ,"
+<p>THE WHATSAPP PARTIES WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR CONSEQUENTIAL, SPECIAL, PUNITIVE, INDIRECT, OR INCIDENTAL DAMAGES RELATING TO, ARISING OUT OF, OR IN ANY WAY IN CONNECTION WITH OUR TERMS, US, OR OUR SERVICES, EVEN IF THE WHATSAPP PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+"
+35,13043,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of Service ,"OUR AGGREGATE LIABILITY RELATING TO, ARISING OUT OF, OR IN ANY WAY IN CONNECTION WITH OUR TERMS, US, OR OUR SERVICES WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS."
+36,13045,40,neutral,They may stop providing the service at any time,Terms of Service ,"
+We may discontinue some or all of our Services, including certain features and the support for certain devices and platforms, at any time.
+"
+37,13046,35,bad,"Defend, indemnify, hold harmless; survives termination",Terms of Service ,"The following provisions will survive any termination of your relationship with WhatsApp: “Licenses,” “Disclaimers,” “Limitation of Liability,” “Indemnification,” “Dispute Resolution,” “Availability and Termination of our Services,” “Other,” and “Special Arbitration Provision for United States or Canada Users.”</p>
+<p>"
+38,13047,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Service ,"</li>
+<li>
+<p>If any provision of these Terms is deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from our Terms and shall not affect the validity and enforceability of the remaining provisions, except as set forth in the “Special Arbitration Provision for United States or Canada Users” — “Severability” section below.</p>
+</li>
+<li>
+"
+39,14580,0,good,You can choose with whom you share content,Privacy Policy,"Your messages are yours, and we can’t read them.</strong> We’ve built privacy, end-to-end encryption, and other security features into WhatsApp.
+We don’t store your messages once they’ve been delivered.
+"
+40,14581,50,bad,You are forced into binding arbitration in case of disputes,Terms of Service ,"IF YOU ARE A WHATSAPP USER LOCATED IN THE UNITED STATES OR CANADA, IT REQUIRES YOU TO SUBMIT TO BINDING INDIVIDUAL ARBITRATION OF ALL DISPUTES, EXCEPT FOR THOSE THAT INVOLVE INTELLECTUAL PROPERTY DISPUTES AND EXCEPT THOSE THAT CAN BE BROUGHT IN SMALL CLAIMS COURT."
+41,14582,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Service ,"We may modify, suspend, or terminate your access to or use of our Services anytime for any reason, such as if you violate the letter or spirit of our Terms or create harm, risk, or possible legal exposure for us, our users, or others."
+42,14585,40,bad,Your personal information is used for many different purposes,Privacy Policy,"We use all the information we have to help us operate, provide, improve, understand, customize, support, and market our Services.</p>
+<ul>
+<li>
+<p>
+<strong>Our Services.</strong> We operate and provide our Services, including providing customer support, and improving, fixing, and customizing our Services.
+We understand how people use our Services, and analyze and use the information we have to evaluate and improve our Services, research, develop, and test new services and features, and conduct troubleshooting activities"
+43,14586,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Terms of Service ,"We will provide you notice of amendments to our Terms, as appropriate, and update the “Last Modified” date at the top of our Terms."
+44,14587,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service ,"You are responsible for keeping your device and your WhatsApp account safe and secure, and you must notify us promptly of any unauthorized use or security breach of your account or our Services.</p>"
+45,14589,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service ,"WE ARE PROVIDING OUR SERVICES ON AN “AS IS” BASIS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND FREEDOM FROM COMPUTER VIRUS OR OTHER HARMFUL CODE."
+46,14590,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service ,"YOU RELEASE US, OUR SUBSIDIARIES, AFFILIATES, AND OUR AND THEIR DIRECTORS, OFFICERS, EMPLOYEES, PARTNERS, AND AGENTS (TOGETHER, THE “WHATSAPP PARTIES”) FROM ANY CLAIM, COMPLAINT, CAUSE OF ACTION, CONTROVERSY, OR DISPUTE (TOGETHER, “CLAIM”) AND DAMAGES, KNOWN AND UNKNOWN, RELATING TO, ARISING OUT OF, OR IN ANY WAY CONNECTED WITH ANY SUCH CLAIM YOU HAVE AGAINST ANY THIRD PARTIES."
+47,14593,50,bad,You have a reduced time period to take legal action against the service,Terms of Service ,"THIS SECTION ALSO LIMITS THE TIME YOU HAVE TO START AN ARBITRATION OR, IF PERMISSIBLE, A COURT ACTION."
+48,21741,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,"As part of the Facebook family of companies, WhatsApp receives information from, and shares information with, this family of companies.
+We may use the information we receive from them, and they may use the information we share with them, to help operate, provide, improve, understand, customize, support, and market our Services and their offerings.
+"
+49,21742,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,"Facebook and the other companies in the Facebook family also may use information from us to improve your experiences within their services such as making product suggestions (for example, of friends or connections, or of interesting content) and showing relevant offers and ads.
+"
+50,21743,50,neutral,Blocking first party cookies may limit your ability to use the service,Cookie Policy,"Certain parts of WhatsApp Products may not work properly if you have disabled browser cookies.</p>
+"
+51,21744,70,bad,Many different types of personal data are collected,Privacy Policy,"We Collect
+<p>WhatsApp receives or collects information when we operate and provide our Services, including when you install, access, or use our Services.</p>
+Information You Provide
+<ul>
+<li>
+<p>
+<strong>Your Account Information.</strong> You provide your mobile phone number to create a WhatsApp account.
+You provide us the phone numbers in your mobile address book on a regular basis, including those of both the users of our Services and your other contacts."
+52,21769,10,neutral,This service is a subsidiary of Company X,Privacy Policy,We joined the Facebook family of companies in 2014.
+53,21789,20,bad, The service is only available in some countries approved by its government,Terms of Service ,"You will not, directly or indirectly, export, re-export, provide, or otherwise transfer our Services: (a) to any individual, entity, or country prohibited by Export Laws.
+(b) to anyone on U.S.
+or non-U.S.
+government restricted parties lists.
+or (c) for any purpose prohibited by Export Laws, including nuclear, chemical, or biological weapons, or missile technology applications without the required government authorizations.
+You will not use or download our Services if you are located in a restricted country, if you are currently listed on any U.S.
+or non-U.S.
+restricted parties list, or for any purpose prohibited by Export Laws, and you will not disguise your location through IP proxying or other methods.</p>"

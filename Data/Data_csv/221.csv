@@ -1,0 +1,87 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4931,15,good,The terms for this service are easy to read,,
+1,13278,10,bad,Third-party cookies are used for statistics,Privacy Policy,"We use third party analytics providers, including Google Analytics and Mixpanel"
+2,13279,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service,"To the fullest extent permitted by law, you are responsible for your use of the Service, and you will defend and indemnify Doist and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (together, the “Doist Entities”) from and against every claim brought by a third party, and any related liability, damage, loss, and expense, including reasonable attorneys’ fees and costs, arising out of or connected with: (a) your unauthorized use of, or misuse of, the Service.
+(b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation.
+(c) your violation of any third party right, including any intellectual property right or publicity, confidentiality, other property, or privacy right.
+(d) the nature or content of data processed by the Service.
+or (e) any dispute or issue between you and any third party.
+We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of those claims.</p>"
+3,13280,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,THE SERVICE AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SERVICE ARE PROVIDED “AS IS” AND ON AN “AS AVAILABLE” BASIS.
+4,13282,50,good,You maintain ownership of your content,Terms of Service,"You retain any copyright and other proprietary rights that you may hold in the User Content that you post to the Service.</li>
+<li>
+<strong>"
+5,13283,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of Service,"THE AGGREGATE LIABILITY OF THE DOIST ENTITIES TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE USE OF OR ANY INABILITY TO USE ANY PORTION OF THE SERVICE OR OTHERWISE UNDER THESE TERMS, WHETHER IN CONTRACT, TORT, OR OTHERWISE, IS LIMITED TO THE GREATER OF: (A) THE AMOUNT YOU HAVE PAID TO DOIST FOR ACCESS TO AND USE OF THE SERVICE IN THE 12 MONTHS PRIOR TO THE EVENT OR CIRCUMSTANCE GIVING RISE TO CLAIM.
+OR (B) $100."
+6,13284,50,neutral,There is a date of the last update of the agreements,Terms of Service,"Terms of Service <p>Last modified September 20, 2020 with an effective date of November 9, 2020"
+7,13285,50,bad,You are forced into binding arbitration in case of disputes,Terms of Service,"BY ACCEPTING THESE TERMS, YOU AND DOIST ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE PROCEEDING.
+YOU AGREE TO GIVE UP YOUR RIGHT TO GO TO COURT to assert or defend your rights under this contract (except for matters that may be taken to small claims court).
+Your rights will be determined by a NEUTRAL ARBITRATOR and NOT a judge or jury."
+8,13286,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"Send you newsletters about product news, tips and tricks, daily productivity reports that may be of interest to you.</strong> We will send you emails with daily reports, opt-in newsletters with product news, and tips and tricks to use our Services.
+When doing so, we process your registration information.
+Your consent can be withdrawn at any time by following the unsubscribe mechanism at the bottom of each communication.</li>
+"
+9,13287,10,neutral,First-party cookies are used,Privacy Policy,"However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to use our Services.</p>
+"
+10,13288,50,bad,Many third parties are involved in operating the service,Privacy Policy,"Other users</strong> who will see your profile information and any other information you choose to share with them through the Services.</p>
+</li>
+<li>
+<p>
+<strong>Vendors and service providers we rely on for the provision of the Services</strong> , for example:</p>
+</li>
+<li>
+<p>
+<strong>Cloud service providers</strong> who we rely on for data storage, including Microsoft Azure and Amazon Web Services who are based in the U.S.;</p>
+</li>
+<li>
+<p>
+<strong>Customer support solution providers</strong> , who help us manage and respond to our customer questions and complaints.
+This includes Zendesk Inc., which is based in the U.S.
+and which hosts our customer support function.
+and</p>
+</li>
+<li>
+<p>
+<strong>Analytics providers</strong>.
+We work with a number of analytics, segmentation and mobile measurement service providers who help us understand our userbase.
+This includes Google LLC, which is based in the U.S.
+You can learn about Google‘s practices by going to https://www.google.com/policies/privacy/partners/, and opt-out of them by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.</p>
+</li>
+<li>
+<p>
+<strong>Third Parties Service Integrations</strong>.
+When you connect third party apps to the Apps, you authorize us to share designated information and data created and/or uploaded by you to our server with these third party services of your choice on your behalf.</p>
+</li>
+<li>
+<p>
+<strong>Communications platform providers</strong> , who help us manage and send newsletters to you in relation to the Services.
+This includes SendGrid, Mailgun and MailChimp which are based in the U.S.</p>
+</li>
+<li>
+<p>
+<strong>Payment processors</strong> , such as Stripe .
+This payment processor is responsible for the processing of your Information, and may use your Information for their own purposes in accordance with their privacy policies.
+More information is available at https://stripe.com/gb/privacy for Stripe.</p>
+</li>"
+11,13289,0,neutral,The court of law governing the terms is in location X,Terms of Service,"Governing Law.</strong> These Terms are governed by the laws of the State of California without regard to conflict of law principles.
+You and Doist submit to the personal and exclusive jurisdiction of the state courts and federal courts located within Santa Clara, California for resolution of any lawsuit or court proceeding permitted under these Terms.
+"
+12,13290,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Policy,"How long we store your information <p>Your Information is kept for as long as necessary to achieve the purposes set out above.
+Generally, it is stored for as long as you are registered and using our Services, and then for up to 6 years from the date you stop using the Services, or promptly following a valid erasure request (see below _ <strong>Your Rights: Erasure</strong> _ <em>section</em>).
+Some information we collect will be stored for longer where we have an overriding legitimate interest to retain such information (for example, information on suspicious behaviour of certain users of our Services and transaction records).</p>"
+13,13291,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Service,"Subscription Service</strong>.
+The Service may include automatically recurring payments for periodic charges (“<strong>Subscription Service</strong>”).
+If you activate a Subscription Service, you authorize Doist or its third party payment processors to periodically charge, on a going-forward basis and until cancellation of either the recurring payments or your account, all accrued sums on or before the payment due date for the accrued sums.
+The “<strong>Subscription Billing Date</strong>” is the date when you purchase your first subscription to the Service.
+For information on the “<strong>Subscription Fee</strong>”, please see our pricing page.
+Your account will be charged automatically on the Subscription Billing Date all applicable fees and taxes for the next subscription period (e.g., monthly billing periods will be billed on the same day each month).
+The subscription will continue unless and until you cancel your subscription or we terminate it.
+You must cancel your subscription before it renews in order to avoid billing of the next periodic Subscription Fee to your account.
+Doist or its third party payment processor will bill the periodic Subscription Fee to the payment method you provide to us during registration (or to a different payment method if you change your payment information).
+You may cancel the Subscription Service by following the instructions provided at the following links for Todoist Premium, Todoist Business, and Twist, or by contacting us at support@todoist.com or support@twist.com (depending on which Doist Service product you are using).</li>"
+14,13292,50,bad,You waive your right to a class action.,Terms of Service,"No Class Actions.</strong> YOU AND DOIST AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.
+Further, unless both you and Doist agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding."
+15,13293,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"If we are involved in a merger, acquisition, bankruptcy, reorganisation, partnership, asset sale or other transaction, we may disclose your Information as part of that transaction.</p>"
+16,13294,10,good,You can opt out of promotional communications,Terms of Service,"Email.</strong> We may send you emails concerning our products and services, as well as those of third parties.
+You may opt out of promotional emails by following the unsubscribe instructions in the promotional email itself.</li>
+"

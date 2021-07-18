@@ -1,0 +1,30 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4243,15,good,The terms for this service are easy to read,,
+1,7506,15,neutral,Your account can be suspended for several reasons,Terms and Conditions,"We can, without notice, limit, suspend or end your Service or this Agreement with you for any good cause"
+2,22124,10,bad,Third-party cookies are used for statistics,Privacy Policy,"This includes services provided by others to help us with analytics, including Google Analytics, which may include storing and accessing cookies and other information on your computer or wireless device."
+3,22125,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"
+<li>
+<b>Business transfers.</b>&nbsp;We may share your information in connection with a substantial corporate transaction, such as a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+</li>
+"
+4,22126,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Policy,"Legal purposes.</b>&nbsp;We may disclose information (1) to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries and in emergencies such as those involving the danger of death or serious injury to any person"
+5,22127,50,neutral,There is a date of the last update of the agreements,Terms and Conditions,"
+</p>
+<p>December 20, 2018</p>
+"
+6,22128,70,bad,Third-party cookies are used for advertising,Privacy Policy,"We also allow advertising companies to collect information about your activity on our websites and in our app, for example through cookies"
+7,22130,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"
+<b>Do-Not-Track Signals and Similar Mechanisms.</b>&nbsp;Some web browsers transmit ""do-not-track"" signals to websites.
+Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.
+We currently do not take action in response to these signals.
+"
+8,22132,70,bad,Many different types of personal data are collected,Privacy Policy,"<b>We collect information you provide directly to us.</b>&nbsp;This includes personal information (such as your name, email address, phone number, postal address, Social Security number, and date of birth), a username and password, payment information, and communications you send to us.
+</p>
+<p>
+<b>We collect information when you use our service.</b>&nbsp;This includes information about the calls you make and receive, text messages you send and receive, websites you visit, mobile applications you use, and wireless network and device information, including location, Internet protocol (IP) address and connection speed, mobile telephone number, device and advertising identifiers, browser type, and operating system."
+9,22133,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"We also collect information when you visit our sites and use our apps, including through cookies and similar technology.</b>&nbsp;This includes your IP address, mobile number, device and advertising identifiers.
+browser and platform type, operating system, connection speed and other attributes.
+pages that you visit before and after visiting our sites.
+the date and time of your visit.
+information about the links you click and pages you view within the sites and screen records."
+10,22134,50,bad, You are being tracked via social media cookies/pixels,Privacy Policy,Visible websites may include social network or other third-party plug-ins and widgets that may provide information to their associated social networks or third parties even if you do not click on or otherwise interact with the plug-ins and widgets

@@ -1,0 +1,5 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,728,80,good,Logs are deleted after a finite period of time,All Policies,"These logs are retained on a temporary basis in order to insure high-quality service, and no logs are kept indefinitely."
+1,13842,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",All Policies,Sending unsolicited email to one or more addresses regardless of how the addresses were obtained may be considered spamming and is grounds for account termination.
+2,14197,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,All Policies,"Sonic.net, LLC will not be held responsible for any damage you suffer from use of an account or service provided by Sonic.net, LLC unless otherwise agreed to in writing.
+This includes- but is not limited to- equipment damage, failure or loss of data resulting from delays, non-deliveries, or service interruptions caused by the company's negligence or your negligence or misuse."

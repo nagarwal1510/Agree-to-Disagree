@@ -1,0 +1,67 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,11175,60,good,Your personal data is used for limited purposes,Privacy Policy,"We will assume that the purpose is clearly identified when we use your personal information to:</p>
+<ul>
+<li>Provide you with the products or services you have requested;</li>
+<li>Process your payment, including recurring payments as you request;</li>
+<li>Communicate with you about the products or services you have requested;</li>
+<li>Ensure that you are properly registered to use our products and services and to receive any associated technical support.
+and</li>
+<li>Inform you of any important product revisions or updates.</li>"
+1,11176,25,good,Your personal data is not sold,Privacy Policy,"We will not rent, sell, or otherwise distribute your personal information without your permission, unless otherwise defined in this Privacy Policy.
+Sync will seek consent when the information is likely to be considered sensitive.</p>
+<p>You control any future secondary use of your personal information, such as sharing it with marketers.
+You can prevent future secondary use of your information by “opting out” when Sync collects your information or at any time by simply contacting us.
+Opting out only applies to the secondary purposes because we may need to contact you regarding the usability of our services or notify you of important product revisions or updates.
+To change your privacy preferences, please go to www.sync.com and log into your account."
+2,11177,50,neutral,The service is not responsible for linked or (clearly) quoted content from third-party content providers,Privacy Policy,"The Sync Website may include links to third-party Web sites.
+These third-party Web sites may assign different cookies to you.
+Those cookies may be used to track your involvement with the advertising site.
+You may choose not to accept these cookies.
+Sync does not control these parties, and you should review their privacy policies to learn more about what, why and how they collect and use personal information.
+</p>"
+3,11178,50,good,The data retention period is kept to the minimum necessary for fulfilling its purposes,Privacy Policy,"<p>Sync will keep your personal information only for as long as it needs to for the purposes identified above, as required by law, or as necessary to resolve any disputes you may have concerning our services."
+4,11179,50,neutral,There is a date of the last update of the agreements,Privacy Policy,"This file was last modified on October 30, 2018."
+5,11180,25,neutral,You must create an account to use this service,Terms of Service,"ou must register with Sync to use the Services.
+"
+6,11181,10,neutral,You agree not to use the service for illegal purposes,Terms of Service,"use the Services to store, backup or distribute any illegal files or data"
+7,11182,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service,"You agree to defend, indemnify, and hold Sync, its suppliers, resellers, partners and their respective affiliates harmless from and against any claims, liabilities, damages, losses and expenses, including reasonable attorney fees and costs, in connection with:</p>
+<ul>
+<li>Your use of the Products;</li>
+<li>Your violation of these Terms;</li>
+<li>Your violation of any third party right, including any intellectual property right.
+</li>
+<li>Your violation of the law of any relevant jurisdiction;</li>
+<li>or any claim that use of Your data caused damage to a third party.</li>
+"
+8,11183,15,good,You have the right to leave this service at any time,Terms of Service,"You can terminate at any time, for any reason, by canceling Your Account and ceasing to use the Services, per the instructions on the Sync website, though, of course, we will be sad to see you go."
+9,11184,40,neutral,They may stop providing the service at any time,Terms of Service,"Sync may permanently or temporarily stop providing, or may modify the Services, any feature included in the Services, or the availability of the Services on any particular device, at any time and without notice to You."
+10,11185,50,good,"User-generated content is encrypted, and this service cannot decrypt it",Privacy Policy,The content of the files that you store on our service is encrypted and only You can decrypt it.
+11,11186,25,good,Two factor authentication is provided for your account,Account Security,"You can enable two-factor authentication using a mobile authenticator app (such as Google Authenticator) or using email delivery.</p>
+"
+12,12150,60,good,The service will resist legal requests for your information where reasonably possible,Privacy Policy,"When providing information in response to a legal inquiry or order, we will verify its validity and disclose only the information that is legally required."
+13,12151,30,good,You will be notified if personal data has been affected by data breaches,Privacy Policy,We will notify you of any breach of our security safeguards involving your personal information if it is reasonable in the circumstances to believe that the breach creates a real risk of significant harm to you.</p>
+14,12152,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Service,Sync's failure to enforce a provision is not a waiver of its right to do so later.
+15,12153,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"Sync shall not be liable for any loss or corruption of Your Data, or for any costs or expenses associated with backing up or restoring any of Your Data.</p>"
+16,12154,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms of Service,"You are not authorized to use.
+</li>
+<li>interfere with or disrupt any user, host, or network, for example by sending a virus, overloading, flooding, spamming, or mail-bombing any part of the Services;</li>
+<li>"
+17,12155,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Service,"Your paid account will renew automatically for the same term, unless You disable the renewal or notify us 15 (fifteen) days prior to your renewal date that you would like to modify or cancel your account.
+"
+18,12156,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"THE PRODUCTS ARE PROVIDED ON AN ""AS IS"" AND ""AS AVAILABLE"" BASIS."
+19,12157,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Service,"SYNC.COM, ITS SUPPLIERS, RESELLERS, PARTNERS AND THEIR RESPECTIVE AFFILIATES EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT."
+20,12158,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"(B) YOUR USE OF THE PRODUCTS WILL BE TIMELY, UNINTERRUPTED, SECURE OR ERROR-FREE.
+"
+21,12159,0,neutral,The court of law governing the terms is in location X,Terms of Service,"Terms <p>These terms and the use of the services and software will be governed by Ontario Law except for its conflicts of laws principles.
+"
+22,12160,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,"Choosing to decline cookies may affect your access to our products and services.</p>
+<p>"
+23,12161,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Policy,"Regardless of where these third parties are located, we require that they also comply with PIPEDA and with Sync's Privacy Principles.
+"
+24,12162,0,neutral,Third parties are involved in operating the service,Privacy Policy,"
+<p>Sync may on occasion use outside companies, called third parties, to help us provide our products or services to you."
+25,12163,10,good,The service has non-exclusive use of your content,Terms of Service,"License <p>Sync grants You a limited, non-exclusive, non-transferable and revocable license to use the Services subject to these Terms.
+"
+26,12164,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"ou are solely responsible for protecting the privacy and security of Your username and password, including not giving your username and password to any third party.
+You are responsible for any activity using Your account, whether You authorized that activity or not.
+"

@@ -1,0 +1,50 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,12593,30,good,This service provides a way for you to export your data,Privacy Policy,"You have the right to be provided with clear, transparent and easily understandable information about how we use your personal information and your rights.
+This is why we are providing you with the information in this Privacy Policy.
+• Based on the requirements of applicable laws, a copy of your personal data collected and processed by us will be provided to you upon your request free of charge.
+For any extra requests for relevant information, we may charge a reasonable fee based on actual administrative costs according to the applicable laws."
+1,13154,10,good,A free help desk is provided,Privacy Policy,"Should you have any questions with our data handling practices as summarized in this Privacy Policy, please contact privacy@xiaomi.com to address your specific concerns."
+2,13155,30,good,Details are provided about what kind of information they collect,Privacy Policy,What information is collected by us and how do we use it?
+3,13156,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"<p>We may collect log information related to your use, such as cookies, IP addresses.</p>
+"
+4,13157,30,good,Information is provided about how your personal data is used,Privacy Policy,How we use the personal information that we collect
+5,13158,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"Conducting relevant promotional activities, such as providing marketing and promotional materials and updates."
+6,13159,10,good,You can opt out of promotional communications,Privacy Policy,"If you no longer wish to receive certain types of promotional materials, you may opt-out by the method provided in the message (such as the unsubscribe link at the bottom of the message) "
+7,13160,10,neutral,Your personal data is aggregated into statistics,Privacy Policy," Internal purposes such as data analysis, research, and development of statistical information related to the use of our services for improvement.
+"
+8,13161,50,bad,Your profile is combined across various products,Privacy Policy,"We may combine this information with other information (including information across different services or devices such as computers, mobile phones and other connected devices) to provide and improve our services and content."
+9,13162,10,neutral,First-party cookies are used,Privacy Policy,"Technologies such as cookies, tags, and scripts are used by Xiaomi"
+10,13163,10,bad,Third-party cookies are used for statistics,Privacy Policy,"and our third party service providers and business partners (for more information see “How we share, transfer, and publicly disclose your personal information” below).
+These technologies are used in analyzing trends, administering the site, tracking users’ movements around the website and to gather demographic information about our user base as a whole.
+"
+11,13164,50,bad,This service tracks which web page referred you to it,Privacy Policy,"referring/exit pages,"
+12,13165,25,good,Your personal data is not sold,Privacy Policy,"
+<p>We do not sell any personal information to third parties."
+13,13166,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"We may sometimes share your personal information with third parties (as described below) in order to provide or improve our services, including offering services based on your requirements.
+"
+14,13167,50,good,You can opt out of providing personal information to third parties,Privacy Policy,"If you no longer wish to allow us sharing this information, please contact us at privacy@xiaomi.com.</p>
+"
+15,13168,0,neutral,Third parties are involved in operating the service,Privacy Policy,"<p>Xiaomi works together with a group of companies forming the Mi Ecosystem.
+"
+16,13169,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Policy,"
+<p>In accordance with legal requirements, legal procedures, litigation and/or requests from public agencies and government agencies, Xiaomi may need to disclose your personal information.
+If the disclosure is necessary or appropriate for national security, law enforcement, or other matters of public importance, we may also disclose information about you."
+17,13170,25,good,Two factor authentication is provided for your account,Privacy Policy,"For example, when you access your Mi Account, you can choose to use our two-step verification program for better security."
+18,13171,15,good,Information is provided about security practices,Privacy Policy,"All your personal information is stored on secure servers, and protected in controlled facilities.
+We classify your information based on importance and sensitivity, and ensure that your personal information has the required level of security.
+We have special access controls for cloud-based data storage, and we regularly review our information collection, storage and processing practices, including physical security measures, to guard against any unauthorized access and use."
+19,13172,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Policy,"In addition, our employees and those of our business partners and third party service providers who access your personal information are subject to enforceable contractual obligations of confidentiality."
+20,13173,50,good,The data retention period is kept to the minimum necessary for fulfilling its purposes,Privacy Policy,"We will cease to retain and delete or anonymize personal information once the purpose of collection is fulfilled, or after we confirm your request for erasure, or after we terminate the operation of the corresponding service.
+"
+21,13174,40,bad,"The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",Privacy Policy,"An exception to this is personal information that we are processing for public interest, scientific, historical research, or statistical purposes.
+Xiaomi will continue to retain this type of information for longer than its standard retention period, where permitted based on applicable laws or your request, even if further data processing is not related to the original purpose of collection.</p>"
+22,13175,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"<p>Depending on applicable laws and regulations, you have the right to access, rectification, and erasure of any other personal information that we hold about you (hereinafter referred to as the request).<br>"
+23,13176,15,good,The terms for this service are easy to read,Privacy Policy,"You have the right to be provided with clear, transparent and easily understandable information about how we use your personal information and your rights.
+This is why we are providing you with the information in this Privacy Policy."
+24,13177,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,"<p>Xiaomi processes and backs up personal information through a global operating and control infrastructure.
+Currently, Xiaomi has data centers in the United States, Germany and Singapore.
+For the purposes described in the Privacy Policy, your information may be transferred to these data centers in accordance with applicable law.
+We may also transfer your personal information to third-party service providers and business partners and your data may therefore also be transmitted to other countries or regions."
+25,13178,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Privacy Policy,"
+<p>We review the Privacy Policy periodically based on changes in business and technology, and we may update this Privacy Policy.
+If we make a material change to this Privacy Policy, we will notify you via your registered contact information such as email (sent to the email address specified in your account) or publish on Xiaomi websites or notify you via mobile devices so that you can learn about the information we collect and how we use it."

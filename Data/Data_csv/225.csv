@@ -1,0 +1,24 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4594,0,neutral,The service is transparent regarding government requests or inquiries that may involve your data.,,
+1,5611,15,good,Information is provided about security practices,FAQs,"Your password is salted and hashed with Bcrypt on your device before being transmitted to Tutanota.
+Bcrypt is the most reliable method because brute-force attacks need much more time in comparison to conventional methods such as MD5 or SHA.﻿ With this method we guarantee an integrated confidentiality and we allow you to access and decrypt your emails from desktops and mobile devices instantly.</p"
+2,6530,30,neutral,Alternative accounts are not allowed,CGV,"<p>4.7.
+Each natural person is prohibited to sign up for more than one free of charge Tutanota account
+for private use.
+For additional accounts a paid tariff must be selected which allows adding aliases and user accounts."
+3,10178,25,good,Your personal data is not sold,Privacy,There will be no sale of data.</p>
+4,10181,50,good,"You can request access, correction and/or deletion of your data",Privacy,"In addition we are obliged to
+delete, to correct or to restrict processing of the data stored about you upon
+request."
+5,10183,100,good,You are not being tracked,Privacy,We do not use cookies.</p>
+6,10185,50,good,Your personal data is not shared with third parties,Privacy,We will not disclose this personal data to third parties.</p>
+7,19499,50,good,"User-generated content is encrypted, and this service cannot decrypt it",Privacy,all user data is stored end-to-end encrypted in Tutanota
+8,19500,50,neutral,There is a date of the last update of the agreements,Privacy,"Status: May 25, 2018"
+9,20395,50,good,Archives of their agreements are provided so that changes can be viewed over time,Terms and Privacy,The previous version of these Terms and Conditions can be found here.
+10,20396,10,good,Accessibility to this service is guaranteed at 99% or more,Terms and Privacy,"The availability
+is 99 % annual average, in regards to 24 hours per day, seven days per week."
+11,20397,0,neutral,The court of law governing the terms is in location X,Terms and Privacy,"<p>14.2 The place of jurisdiction for demands resulting from differences
+between the parties to a contract, in particular about the conclusion of a contract,
+its execution or its termination - insofar as the customer is a general merchant,
+a corporate body under public law, or a separate estate under public law - is Hanover,
+Germany."

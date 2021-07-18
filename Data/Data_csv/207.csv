@@ -1,0 +1,12 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,8670,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,General Terms of Service,"You are fully responsible for all activity that occurs under your Square Account, including for any actions taken by persons to whom you have granted access to the Square Account."
+1,8671,50,bad,You are forced into binding arbitration in case of disputes,General Terms of Service,"21.
+Binding Individual Arbitration <p>This section provides details about how we will resolve disputes through the arbitration process.</p>
+<p>You and Square agree to arbitrate any and all Disputes by a neutral arbitrator who has the power to award the same individual damages and individual relief that a court can."
+2,8672,0,neutral,The court of law governing the terms is in location X,General Terms of Service,"22.
+Governing Law <p>Our relationship is governed by the laws of California, federal law, or both.</p>
+<p>These General Terms and any Dispute will be governed by California law and/or applicable federal law (including the Federal Arbitration Act), without regard to its choice of law or conflicts of law principles."
+3,8673,10,good,You can opt out of promotional communications,General Terms of Service,"You can opt out of communications in ways that are specific to that communication method, such as by unsubscribing from emails, or replying to text messages with ‘STOP’."
+4,8674,50,bad,You waive your right to a class action.,General Terms of Service,"ANY ARBITRATION UNDER THESE GENERAL TERMS WILL ONLY BE ON AN INDIVIDUAL BASIS.
+CLASS ARBITRATIONS, CLASS ACTIONS, REPRESENTATIVE ACTIONS, AND CONSOLIDATION WITH OTHER ARBITRATIONS ARE NOT PERMITTED.
+YOU WAIVE ANY RIGHT TO HAVE YOUR CASE DECIDED BY A JURY AND YOU WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION AGAINST SQUARE."

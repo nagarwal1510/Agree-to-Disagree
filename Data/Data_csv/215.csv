@@ -1,0 +1,27 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,7450,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy Policy,"
+If you browse our site or view content on our apps, personal data they collect may be connected to your account on their site.
+For more information on how these organisations use personal data, please read their privacy policies.</p>"
+1,7451,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,"We also use personal data based on the content you have viewed on our sites and apps and your interaction with the content to add you to groups with similar interests and preferences, so that we can make our online advertising more relevant.
+Sometimes we use data about your interests or demographics that some of our global third parties have collected from you online to add you to these groups, such as Comscore and Neilsen."
+2,7568,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms and Conditions,"You agree to defend, indemnify, and hold harmless Guardian, its parents, subsidiaries, and affiliates, and each of their respective officers, directors, and employees from any and all claims, liabilities, costs, and expenses, including, but not limited to, attorneys’ fees and expenses, arising out a breach by you or any user of your account of these terms and conditions or privacy policy or arising out of a breach of your obligations, representation and warranties under these terms and conditions."
+3,7569,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms and Conditions,Our failure to insist upon or enforce any provision of these terms of service shall not be construed as a waiver of any provision or right of Guardian.</p>
+4,7571,15,neutral,This service is only available to users over a certain age,Privacy Policy,"We do not aim any of our products or services directly at children under the age of 13 and we do not knowingly collect personal data about children under 13.
+Some of our services may have a higher age restriction and this will be shown at the point of registration."
+5,7573,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms and Conditions,"In particular, we do not warrant that the Guardian Site or any of its contents is virus free.
+You must take your own precautions in this respect as we accept no responsibility for any infection by virus or other contamination or by anything which has destructive properties.</p>
+<p>Although we will do our best to provide constant, uninterrupted access to the Guardian Site, we do not guarantee this.
+We accept no responsibility or liability for any interruption or delay"
+6,11651,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms and Conditions,"The Guardian Site is provided “as is” and “as available,” without warranty of any kind,"
+7,11652,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"<p>You also have the right to ask us to delete your personal data or restrict how it is used, consistent with the GDPR.
+There may be exceptions to the right to erasure for specific legal reasons which, if applicable, we will set out for you in response to your request</p>
+"
+8,11653,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"details of your computer, mobile, TV, tablet or other devices, for example, the unique device ID, unique vendor or advertising ID and browsers used to access our content"
+9,11654,50,good,The data retention period is kept to the minimum necessary for fulfilling its purposes,Privacy Policy,"If we no longer need your data, we will delete it or make it anonymous by removing all details that identify you.
+If we have asked for your permission to process your personal data and we have no other lawful grounds to continue with that processing, and you withdraw your permission, we will delete your personal data."
+10,11655,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms and Conditions,"IN NO EVENT WILL GUARDIAN OR ITS AFFILIATES, INCLUDING, WITHOUT LIMITATION, THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, SUCCESSORS AND ASSIGNS, BE LIABLE TO YOU OR ANY OTHER PARTY FOR ANY DIRECT OR INDIRECT LOSS, DAMAGE, COST, EXPENSE OR LIABILITY OF ANY KIND (“LOSS”) ARISING IN ANY WAY OUT OF OR IN CONNECTION WITH THE AVAILABILITY, USE, RELIANCE ON, OR INABILITY TO USE THE GUARDIAN SITE"
+11,11656,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,"<p>Data we collect may be transferred to, stored and processed in any country or territory where one or more of our Guardian group companies or service providers are based or have facilities.
+"
+12,11698,50,bad,This service tracks which web page referred you to it,Privacy Policy,"including how you were referred to our sites via other websites</p>
+</li>
+"

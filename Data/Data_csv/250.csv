@@ -1,0 +1,62 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,13269,15,neutral,This service is only available to users over a certain age,Terms of Use,"You may not use the Site if:
+(1) you are not of legal age or capacity to entering into a binding agreement
+with us unless you have approval of a guardian,"
+1,13270,40,neutral,They may stop providing the service at any time,Terms of Use,"We reserve the right to terminate,
+suspend, change, or restrict access to all or any part of our Site without
+notice or liability.</p>"
+2,13271,50,bad,You are forced into binding arbitration in case of disputes,Terms of Use,"<p>PLEASE NOTE THAT THESE TERMS
+INCLUDE AN <b>ARBITRATION PROVISION</b>, WHICH YOU WILL BE BOUND TO BY USING
+AND ACCESSING OUR SITE.</p>
+<p>"
+3,13272,10,neutral,"You are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",Terms of Use,"You will not register with a pseudonym,
+false identity, avatar, or false image."
+4,13273,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Use,"We reserve the right, at our sole discretion, to
+modify, suspend, restrict, or discontinue your access and use of the Site or
+any part thereof.
+"
+5,13274,50,neutral,There is a date of the last update of the agreements,Terms of Use,"Last Updated June &nbsp;15, 2020"
+6,13296,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Terms of Use,"</b>This Agreement shall be governed and interpreted under
+the laws of the State of California."
+7,13297,25,neutral,You must create an account to use this service,Terms of Use,"
+</b>To access and use our Site, you may be required to
+complete a registration with us."
+8,13298,10,neutral,You agree not to use the service for illegal purposes,Terms of Use,"The activities or items prohibited
+include, but are not limited to: violations of local state or federal law"
+9,13299,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Use,"You acknowledge and agree that you are solely responsible for
+maintaining the security of the devices you may use to access the Site.
+"
+10,21622,70,bad,Third-party cookies are used for advertising,Privacy Policy,"Cookies and Usage Data.
+</p>
+<p> Place of processing: United States – Privacy Policy – Opt Out.
+Privacy Shield participant.
+</p> Google AdWords conversion tracking (Google Inc.) <p>Google AdWords conversion tracking is an analytics service provided by Google Inc.
+that connects data from the Google AdWords advertising network with actions performed on this Application.</p>
+"
+11,21623,25,good,Your personal data is not sold,Privacy Policy," In the past 12 months, we have not “sold” Personal Information subject to the CCPA"
+12,21624,10,bad,Third-party cookies are used for statistics,Privacy Policy,Analytics <p>The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.</p> Google Analytics with anonymized IP (Google Inc.) <p>
+13,21625,70,bad,Many different types of personal data are collected,Privacy Policy,"<p> Personal Data collected: city, company name, country, date of birth, email address, first name, gender and last name."
+14,21626,75,bad,"This service may collect, use, and share location data",Privacy Policy,"In the past 12 months, we have collected but have not disclosed to third parties for our business purposes, the following categories of Personal Information relating to California residents covered by this disclosure: </p>
+<ul>
+<li> Identifiers, such as name and email.
+</li>
+<li> Personal information, as defined in the California safeguards law, such as contact information </li>
+<li> Internet or network activity information, such as browsing history and interactions with our website.
+</li>
+<li> Geolocation data, such as device location and Internet Protocol (IP) location.
+</li>
+<li> Inferences drawn from any of the Personal Information listed above to create a profile about, for example, an individual’s preferences and characteristics.
+</li>"
+15,21627,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"marketing services,"
+16,21628,30,bad,Your personal data is used for advertising,Privacy Policy,providing advertising
+17,21629,40,bad,Your personal information is used for many different purposes,Privacy Policy,"Use of Personal Information <p> In the past 12 months, we have used Personal Information relating to California residents to operate, manage, and maintain our business, to provide our products and services, and to accomplish our business purposes and objectives, including the following: </p>
+<ul>
+<li> Performing services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments,"
+18,21630,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,This Application does not support “Do Not Track” requests.<br>
+19,21631,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Terms of Use,"We reserve the right to amend, modify, or and/change
+these Terms at any time and without prior notice.
+If we decide to change our
+Terms, we will conspicuously post a link to the updated Terms in places on our
+website that we deem appropriate."
+20,21632,50,bad,"Instead of asking directly, this Service will assume your consent merely from your usage.",Terms of Use,"By continuing to our Site, you hereby consent
+to any such changes."

@@ -1,0 +1,73 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,1256,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Terms of Service,"Uber may assign these Terms without your consent to: (i) a subsidiary or affiliate.
+(ii) an acquirer of Uber's equity, business or assets.
+or (iii) a successor by merger."
+1,1460,50,neutral,You have the right to request lower Charges from Third Party Providers,Terms of Service,"you retain the right to request lower Charges from a Third Party Provider for services or goods received by you from such Third Party Provider at the time you receive such services or goods, and Charges you incur will be owed to the Third Party Provider.
+Uber will respond accordingly to any request from a Third Party Provider to modify the Charges for a particular service or good"
+2,1463,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Service,"Uber may immediately terminate these Terms or any Services with respect to you, or generally cease offering or deny access to the Services or any portion thereof, at any time for any reason.</p>"
+3,1472,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"Uber does not guarantee that the Services, or any portion thereof, will function on any particular hardware or devices.
+In addition, the Services may be subject to malfunctions and delays inherent in the use of the Internet and electronic communications.</p>"
+4,1580,25,good,"This service offers a symbolic but nonbinding statement about a matter of opinion, ethics, society, or politics",,
+5,18653,50,neutral,There is a date of the last update of the agreements,Privacy Policy,"October 15, 2020"
+6,18654,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"device IP address,"
+7,18656,30,bad,Your biometric data is collected,Privacy Policy,"We may use the photos submitted by users to verify their identities, such as through facial recognition technologies."
+8,18657,10,neutral,Your personal data is aggregated into statistics,Privacy Policy,"We may use the data we collect for testing, research, analysis, product development, and machine learning to improve the user experience."
+9,18661,10,bad,Third-party cookies are used for statistics,Privacy Policy,"Analyzing site traffic and trends, and generally understanding the online behaviors and interests of people who interact with our services"
+10,18662,60,bad,This service tracks you on other websites,Privacy Policy,"<p>We may also allow others to provide audience measurement and analytics services for us, to serve advertisements on our behalf across the Internet, and to track and report on the performance of those advertisements."
+11,18664,70,blocker,Private messages can be read,Privacy Policy,"We enable users to communicate with each other and Uber through Uber’s mobile apps and websites.
+For example, we enable drivers and riders, and restaurants or delivery persons and delivery recipients, to call, text, or send other files to each other (generally without disclosing their telephone numbers to each other).
+To provide this service, Uber receives some data regarding the calls, texts, or other communications, including the date and time of the communications and the content of the communications."
+12,18665,40,neutral,The service can intervene in user disputes,Privacy Policy,including to resolve disputes between users
+13,18666,50,bad,Your profile is combined across various products,Privacy Policy,Uber may combine the data collected from these sources with other data in its possession.
+14,18667,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"<strong>Accessing data:</strong> Users can ask for an explanation of the data we collect from them and how we use it.
+<br>
+</li>
+<li>
+<strong>Receiving data:</strong> Users can ask for a copy of data that Uber collects from them with their consent or as necessary to provide our services.<br>
+</li>
+<li>
+<strong>Changing or updating data:</strong> Users can edit the name, phone number, email address, payment method, and photo associated with their account through the Settings menu in Uber’s apps or driver portal.
+They may also ask that Uber change or update their data, including if they believe such data is inaccurate or incomplete.
+<br>
+</li>
+<li>
+<strong>Deleting data:</strong> Users may request deletion of their account at any time through the Settings &gt.
+Privacy menus in the Uber app, or through Uber’s website (riders and delivery recipients <u>here</u>.
+drivers and delivery persons <u>here</u>)."
+15,18668,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Privacy Policy,"We may occasionally update this notice.
+If we make significant changes, we will notify users in advance of the changes through the Uber apps or through other means, such as email.
+"
+16,18669,25,neutral,You must create an account to use this service,Terms of Service,"In order to use most aspects of the Services, you must register for and maintain an active personal user Services account "
+17,18670,15,neutral,This service is only available to users over a certain age,Terms of Service,"You must be at least 18 years of age, or the age of legal majority in your jurisdiction (if different than 18), to obtain an Account, unless a specific Service permits otherwise."
+18,18671,10,neutral,"You are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",Terms of Service,your name
+19,20147,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"These entities may use cookies, web beacons, SDKs, and other technologies to identify the devices used by visitors to our websites"
+20,20148,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,"
+<p>Uber provides data to vendors, consultants, marketing partners, research firms, and other service providers or business partners.
+"
+21,20149,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"These include:</p>
+<ul>
+<li>Payment processors and facilitators<br>
+</li>
+<li>Background check and identity verification providers (drivers, delivery persons and cash riders only)<br>
+</li>
+<li>Cloud storage providers<br>
+</li>
+<li>Google, in connection with the use of Google Maps in Uber’s apps (see Google’s privacy policy for information on their collection and use of data)</li>
+<li>"
+22,20151,30,bad,Your personal data is used for advertising,Privacy Policy,"
+<p>We may use the data we collect to personalize the marketing communications (including advertisements) that we send, including based on user location, past use of Uber’s services, and user preferences and settings.</p>
+"
+23,20152,50,blocker,Sensitive data is collected and shared to target advertising,Privacy Policy,"<p>We may also send users communications regarding elections, ballots, referenda, and other political and notice processes that relate to our services.
+For example, Uber has notified some users by email of ballot measures or pending legislation relating to the availability of Uber’s services in those users’ areas.<br>"
+24,20154,20,good,The service claims to be LGPD compliant for Brazilian users,Privacy Policy,"<li>
+<strong>For users in Brazil: </strong>Please see <u>here</u> for information regarding Uber’s privacy practices required under Brazil’s General Data Protection Law (<em>Lei Geral de Proteção de Dados - LGPD</em>).<strong>"
+25,20155,20,good,The service claims to be CCPA compliant for California users,Privacy Policy,"<strong>For California users: </strong>Information regarding Uber’s privacy practices related to the California Consumer Privacy Act (CCPA) is available here.<strong>
+<br>
+"
+26,20158,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,We may also transfer data to countries other than the one where our users live or use Uber’s services.
+27,20160,70,bad,Many different types of personal data are collected,Privacy Policy,"User profile: </strong>We collect data when users create or update their Uber accounts.
+This may include their name, email, phone number, login name and password, address, profile picture, payment or banking information (including related payment verification information), driver’s license and other government identification documents (which may indicate document numbers as well as birth date, gender, and photo)."
+28,20162,30,good,Information is provided about how your personal data is used,Privacy Policy,How we use personal data
+29,20221,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Terms of Service,"These Terms are governed by and construed in accordance with the laws of the State of California, U.S.A., without giving effect to any conflict of law principles"
+30,20222,50,bad,You are forced into binding arbitration in case of disputes,Terms of Service,"You and Uber agree that any dispute, claim or controversy arising out of or relating to (a) these Terms or the existence, breach, termination, enforcement, interpretation or validity thereof, or (b) your access to or use of the Services at any time, whether before or after the date you agreed to the Terms, will be settled by binding arbitration between you and Uber, and not in a court of law.
+"

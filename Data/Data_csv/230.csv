@@ -1,0 +1,25 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,9393,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy (EN),"<li>In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.</li>
+<li>If Canonical or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets."
+1,9394,40,good, A list of all cookies set by the website is provided,Privacy Policy (EN),"Google Tag Manager with Google Analytics <code>_utma</code>, <code>_utmb</code>, <code>_utmc</code>, <code>_utmz</code>, <code>_ga</code>, <code>_gid</code>, <code>_id_cpn</code>, <code>_id_eml</code>, <code>trwsa.sid</code>, <code>trwsb.cpv</code>, <code>trwsb.sid</code>, <code>trwsb.stu</code>, <code>trwv.crd</code>, <code>trwv.cvd</code>, <code>trwv.eml</code>, <code>trwv.lvd</code>, <code>trwv.uid</code>, <code>trwv.uid</code>, <code>waiting_in_queue</code>, <code>lc_window_state</code>, <code>_dc_gtm_UA-XXXXXXX-X</code>, <code>__lc.visitor_id.XXXXXXX</code>
+<p>Google Tag Manager to set most of our trackers as well as Google Analytics.</p>
+<p>Google's privacy policy</p> Crazyegg <code>_ceir</code>, <code>is_returning</code>, <code>_CEFT</code>, <code>ceg.s</code>,<code>ceg.u</code>
+<p>Crazyegg tracks javascript on some pages of our site to understand what links our visitors are clicking on.
+This helps us optimize our content for the best user experience.
+The Crazyegg script may store a cookie on your computer.
+This cookie may contain a session ID, a visitor ID and a few other dynamically created parameters that allow Crazyegg to track our site's traffic accurately.
+No personal information is stored within the cookie.</p>
+<p>Crazy Egg's privacy policy</p> Marketo Munchkin <code>_mkto_trk</code>, <code>BIGipServersjrtp3_https</code>, <code>firstTouchGA</code>, <code>LPVID</code>, <code>_A_source</code>, <code>_A_time</code>
+<p>Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor.
+For example, if the visitor is asked to provide us with their name, company name and email address, we will know the identity of the visitor when they visit the site at a later date, or when we send them email.</p>
+<p>Marketo's privacy policy"
+2,9395,50,bad, You are being tracked via social media cookies/pixels,Privacy Policy (EN),"Facebook <code>fr</code>, <code>datr</code>, <code>reg_ext_ref</code>, <code>reg_fb_gate</code>, <code>reg_fb_ref</code>, <code>sb</code>, <code>wb</code>
+<p>The Facebook pixel allows us to see how many people take action on our ads and which ad led to a conversion.</p>
+<p>Facebook's privacy policy"
+3,9397,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy (EN),"However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site"
+4,9399,30,good,A complaint mechanism is provided for the handling of personal data,Privacy Policy (EN),"Your right to complain <p>If you have a complaint about our use of your information, you can contact the Information Commissioner's Office via their website at ico.org.uk/concerns/ or write to them at:</p>
+<p> Information Commissioner's Office<br> Wycliffe House<br> Water Lane<br> Wilmslow<br> Cheshire<br> SK9 5AF<br> United Kingdom"
+5,12116,70,bad,Third-party cookies are used for advertising,Privacy Policy (EN),"Targeting cookies</strong>.
+These cookies record your visit to our website, the pages you have visited and the links you have followed.
+We will use this information to make our website and the advertising displayed on it more relevant to your interests.
+We may also share this information with third parties for this purpose.</li>"

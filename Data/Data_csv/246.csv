@@ -1,0 +1,12 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,7688,50,neutral,There is a date of the last update of the agreements,Terms of Use,"Terms Of Use
+<p>Last updated: March 26, 2019</p>"
+1,7690,50,bad,You waive your right to a class action.,Terms of Use,"You expressly waive any right you may have to bring or participate in a Claim as a class, collective or representative proceeding in court or before an arbitrator against Whirlpool and/or the Affiliated Entities."
+2,19235,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Notice - United States and Canada,"Your browser may offer you a “Do Not Track” option, which allows you to signal your preferences to certain website operators that you do not want them to track certain of your online activities.&nbsp.
+However, our websites do not support Do Not Track requests at this time."
+3,19236,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Use,"We reserve the right, in our sole discretion, to terminate or suspend your account for any reason."
+4,19237,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Use,"You agree to defend, indemnify and hold harmless Whirlpool and the Affiliated Entities against all claims, damages, losses, and expenses (including attorneys' fees) arising out of: (1) your use of, or activities in connection with, the Platform (including all User Content).
+and (2) any violation or alleged violation of this Agreement by you.</p>"
+5,19238,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Use,"THE PLATFORM — INCLUDING ALL OF ITS CONTENTS, INFORMATION, AND THE MANNER BY WHICH IT OPERATES — IS PROVIDED “AS IS”"
+6,19239,10,neutral,This service informs you that its Terms of Service does not apply to third party websites,Terms of Use,"Use of a Third-Party Service is subject to the third party’s terms, conditions,"
+7,19240,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Terms of Use,"and privacy policies, which may differ from ours,"

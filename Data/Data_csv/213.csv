@@ -1,0 +1,24 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4363,15,neutral,This service is only available to users over a certain age,Terms,"You affirm that you are 13 years of age or older, and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms of Service, and to abide by and comply with these Terms of Service.</p>
+</li>
+<li>
+<p>In any case, you affirm that you are 13 or older, as the Service is not intended for people under 13.
+If you are under 13 years of age, then please do not use the Service.
+There are tons of other fantastic websites for you."
+1,5575,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms,"You are solely responsible for the activity that occurs on your account, and you must keep your account password secure."
+2,5576,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms,"You agree not to use or launch any automated system, including without limitation, ""robots,"" ""spiders,"" or ""offline readers,"" that accesses the Service in a manner that attempts to forge the presence of a user accessing the site for the purpose of artificially increasing ""pageviews,"" ""subscribers,"" or ""likes"" or other elements that contribute to a series popularity or advancement within any programs that Tapas Media offers to users.</p>"
+3,5577,40,neutral,They may stop providing the service at any time,Terms,Tapas Media reserves the right to discontinue any aspect of the Service at any time.</p>
+4,5578,0,neutral,You agree not to submit illegal content,Terms,"<p>You hereby affirm, represent, and warrant that you (1) own or have the necessary licenses, rights, consents, and permissions to publish Content you submit and publish through the Service.
+and (2) all such Content are original works of authorship on your part and have not been copied, in whole or in part, from any other work and do not violate, misappropriate or infringe any copyright, trademark or other proprietary right of any other person or entity.</p>
+</li>
+<li>
+<p>You further agree that Content you submit to a Tapas Media Service will not contain third party copyrighted material, or material that is subject to other third party proprietary rights, unless you have permission from the rightful owner of the Content or you are otherwise legally entitled to post the Content and to grant Tapas Media all of the license rights granted herein.</p>
+</li>
+<li>
+<p>You further agree that you will not submit to the Service any Content or other material that is contrary to the Tapas Media Content and Community Guidelines, currently found at https://tapas.io/policies/content, which may be updated from time to time, or contrary to applicable local, national, and international laws and regulations.</p>"
+5,5579,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Terms,Tapas Media reserves the right to remove Content without prior notice.</p>
+6,5580,50,good,You maintain ownership of your content,Terms,"Licensing
+<p>Tapas Media does not claim ownership rights of your Content.
+Your Content belongs to you and Tapas Media does not restrict you from using your Content for any purpose unless stated in additional terms for other programs or offerings Tapas Media may provide.</p>"
+7,5581,20,good,"If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",Terms,"If you believe that your Content that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner's agent, or pursuant to the law, to post and use the material in your Content, you may send a counter-notice by either of the methods outlined containing the following information:</p>"
+8,5582,75,bad,"This service may collect, use, and share location data",Privacy Policy,"When you use a location-enabled device, we may collect and process information about your approximate location, like the GPS signals sent by a mobile device."

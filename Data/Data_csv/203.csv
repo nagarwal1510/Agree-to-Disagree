@@ -1,0 +1,75 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,13053,10,neutral,Your personal data is aggregated into statistics,Privacy Statement,"“Personal Information” which is information is about, or relates to, an identified or identifiable individual, or that can be linked to that individual (such as name, email address, etc.) and “Aggregate Information” which is information that cannot be used to identify you (such as frequency of visits to one of our Sites, browser type, etc.) Please note that we may convert Personal Information into Aggregate information via one or more processes at our discretion.</p>
+<p>"
+1,13113,50,bad,Your personal data may be used for marketing purposes,Privacy Statement,"
+<li>We may share your Personal Information with third party service providers to help us with our business activities such as email marketing, telemarketing, offering customer service, or operating a community forum.
+"
+2,13114,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Statement,"Please note that at this time our Sites generally do not respond to browser “Do Not Track” signals.</p>
+<p>"
+3,13115,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Statement,"What types of cookies, web beacons and similar technologies do we use?"
+4,13117,50,bad,This service tracks which web page referred you to it,Privacy Statement,"When you visit our Sites, we may automatically collect the name of the website you visit from (called the “referring page”)"
+5,13118,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Statement,"<p>Further, we require service providers to whom we disclose Personal Data and who are not subject to laws based on the European Union General Data Protection Regulation to either subscribe to the United States / European Union Privacy Shield principles or agree to provide at least the same level of protection for Personal Data as is required by the relevant Privacy Shield principles, for instance by entering into Standard Contractual Clauses, as promulgated by the European Commission.
+"
+6,13119,50,good,Information is provided about how they collect personal data,Privacy Statement,Categories of Personal Information Collected
+7,13120,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Statement, based on the country that you specify or approximate location derived from your IP address.
+8,13121,50,bad,Your profile is combined across various products,Privacy Statement,We may collect information that allows us to associate you with your social media or other accounts that you have on other websites.
+9,13122,50,bad,Information is gathered about you through third parties,Privacy Statement,"We work closely with third parties (including, for example, business partners, sub-contractors in technical and payment services, and advertising networks) and may receive information about you from them.
+"
+10,13123,0,neutral,Third parties are involved in operating the service,Privacy Statement,We may work with third parties to collect information that allows us to associate you with your social media or other accounts that you have on other websites.</p>
+11,13124,30,good,Information is provided about how your personal data is used,Privacy Statement,How we use the information we gather
+12,13125,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Statement,"To build browsing and usage profiles of our users so that we may tailor our offers, and share such profiles with our advertisers and data customers, so that they may tailor their offers to our users’ interests (and we obtain consent when required to create and use these profiles – please click here for more information);</li>"
+13,13126,25,good,You can opt out of targeted advertising,Privacy Statement,You can opt-out of receiving interest-based ads from third parties who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website[https://www.networkadvertising.org/choices/] and DAA website [https://www.aboutads.info/choices/].
+14,13127,10,good,You can opt out of promotional communications,Privacy Statement,"When we send certain communications (such as a newsletter) to subscribers of our distribution list, we always allow our users to choose to stop receiving such newsletters or other communications from us by clicking an “unsubscribe” link at the bottom of our message."
+15,13128,15,neutral,This service is only available to users over a certain age,Terms of Use,"You must be at least 18 years of age to use any of the Sites.
+"
+16,13129,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Use,"THE SITES, INCLUDING ANY CONTENT OR INFORMATION CONTAINED WITHIN IT OR ANY SITE RELATED SERVICE, OR ANY PRODUCT OR SERVICE LICENSED, PURCHASED OR OTHERWISE MADE AVAILABLE THROUGH THE SITES, ARE PROVIDED “AS IS” "
+17,13130,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Use,"
+TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, SLASHDOT MEDIA.
+AND ITS SUBSIDIARIES, AFFILIATES, SUPPLIERS, SPONSORS, AND AGENTS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+"
+18,13131,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Use,"SLASHDOT MEDIA AND ITS SUBSIDIARIES, AFFILIATES, SUPPLIERS, AND AGENTS DO NOT WARRANT THAT YOUR USE OF THE SITES OR THE SOFTWARE WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE,"
+19,13132,50,bad,The service does not guarantee that software errors will be corrected,Terms of Use,"THAT DEFECTS WILL BE CORRECTED,"
+20,13133,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Use,"You acknowledge that the Sites could include inaccuracies or errors, or materials that violate these Terms of Use (specifically, the “Code of Conduct” section).
+"
+21,13134,0,neutral,This service cannot be held responsible for disputes that you may have with other users,Terms of Use," in the event that you have a dispute with one or more Site users, you release SlashDot Media, and its subsidiaries, affiliates, agents and employees, from all claims, demands and damages of any kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way related to such disputes.
+"
+22,13135,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Use,"NEITHER SLASHDOT MEDIA NOR ITS SUBSIDIARIES, AFFILIATES, SUPPLIERS, ADVERTISERS, AGENTS OR SPONSORS ARE RESPONSIBLE OR LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, PUNITIVE OR OTHER DAMAGES UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER THEORY ARISING OUT OF OR RELATING IN ANY WAY TO THE SITE AND/OR CONTENT CONTAINED ON THE SITES, OR ANY PRODUCT OR SERVICE PURCHASED THROUGH THE SITE.
+"
+23,13136,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of Use,"THE SOLE AND EXCLUSIVE MAXIMUM LIABILITY TO COMPANY FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT, TORT, INCLUDING, WITHOUT LIMITATION, NEGLIGENCE OR OTHERWISE) SHALL BE THE TOTAL AMOUNT PAID BY YOU, IF ANY, TO ACCESS THE SITES.</p>"
+24,13137,50,neutral,The service is not responsible for linked or (clearly) quoted content from third-party content providers,Terms of Use,"<p>The Sites may contain links to other web sites operated by third parties, other than affiliates of the Company (“Linked Sites”).
+We neither control nor endorse such other web sites, nor have we reviewed or approved any content that appears on the Linked Sites.
+You acknowledge that when you click on a link to visit a Linked Site, a frame may appear that contains the Company logo, advertisements and/or other content selected by the Company.
+You acknowledge that the Company and its sponsors neither endorse nor are affiliated with the Linked Sites and are not responsible for any content that appears on the Linked Sites.
+"
+25,13138,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Use,"You agree to indemnify, defend and hold us, our affiliates, sponsors, officers, directors, employees, agents and representatives harmless from and against any and all claims, damages, losses, costs (including reasonable attorneys’ fees), or other expenses that arise directly or indirectly out of or from (a) your breach of this Agreement, (b) your violation of the Code of Conduct, and/or (c) your activities in connection with the Sites or Site-related services.</p>"
+26,13139,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Terms of Use,"Slashdot Media reserves the right, in its sole and absolute discretion, to refuse or delete any Content at any time.
+"
+27,13140,50,bad,This service reserves the right to disclose your personal information without notifying you,Terms of Use,"Slashdot Media, in its sole and absolute discretion, may preserve Content and may also disclose Content if required to do so by law or judicial or governmental mandate or as reasonably determined useful by Slashdot Media to protect the rights, property, or personal safety of the Sites’ users and the public.</p>
+"
+28,13141,10,good,The service has non-exclusive use of your content,Terms of Use,"By sending or transmitting to us Content, or by posting such Content to any area of the Sites, you grant us and our designees a worldwide, non-exclusive,"
+29,13142,50,bad,Your content can be licensed to third parties,Terms of Use,"sub-licensable (through multiple tiers), "
+30,13143,50,bad,A license is kept on user-generated content even after you close your account,Terms of Use,"assignable, royalty-free, perpetual, irrevocable right "
+31,13144,50,bad,Your content can be distributed through any media known now or in the future,Terms of Use,"right to link to, reproduce, distribute (through multiple tiers), adapt, create derivative works of, publicly perform, publicly display, digitally perform or otherwise use such Content in any media now known or hereafter developed."
+32,13145,50,good,You maintain ownership of your content,Terms of Use,"
+PLEASE NOTE THAT YOU RETAIN OWNERSHIP OF ANY COPYRIGHTS, TRADEMARKS AND SERVICE MARKS IN ANY CONTENT YOU SUBMIT."
+33,13146,15,neutral,The posting of pornographic content is prohibited,Terms of Use,"
+<li>your SourceForge Content is not obscene,"
+34,13147,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Use,"harassing, libelous or slanderous, "
+35,13148,20,neutral,You are prohibited from posting content which promotes violence or politically or religiously extremist values.,Terms of Use,"your SourceForge Content does not endorse or promote racism, bigotry, hatred, or physical harm of any kind against another group or individual, and does not discriminate, incite harassment or advocate harassment of any group or individual;</li>
+"
+36,13149,20,neutral,You are prohibited from attempting to gain unauthorized access to other computer systems,Terms of Use,"<li>your SourceForge Content does not constitute, contain, install or attempt to install or promote spyware or malware or any other computer code (whether on SlashDot Media’s or others computers or equipment) intended to, or that does, enable you or others to gather information about or monitor the online or other activities of another party, unless it discloses such functionality to the user in a clear and conspicuous manner and the user affirmatively consents to such use."
+37,13150,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Use,YOU ARE SOLELY AND ENTIRELY RESPONSIBLE FOR MAINTAINING THE CONFIDENTIALITY OF YOUR PASSWORDS AND ACCOUNT DESIGNATIONS AND ARE SOLELY AND ENTIRELY RESPONSIBLE FOR ANY AND ALL ACTIVITIES THAT ARE CONDUCTED THROUGH YOUR ACCOUNT.
+38,13151,0,neutral,"Other applicable rules, terms, conditions or guidelines",Terms of Use,"Users residing in countries on the United States Office of Foreign Assets Control sanction list, including Cuba, Iran, North Korea, Sudan and Syria, may not post Content to, or access Content available through, SourceForge.net."
+39,13152,15,neutral,Your account can be suspended for several reasons,Privacy Statement,"
+We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution, or to suspend or terminate your use of the Sites in connection with any suspected illegal or infringing activity or if you are in violation of our Terms of Use Agreement or other published guidelines."
+40,13153,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Statement,"<li>If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice on any applicable Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
+Slashdot reserves the right to assign, sell, license, or otherwise transfer to a third party your Personal Information in connection with an assignment, sale, joint venture, or other transfer or disposition of any portion or all of Slashdot or its affiliated entities’ assets or stock.</li>"
+41,16747,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Terms of Use,"We reserve the right at our sole discretion and at any time to:</p>
+<ul>
+<li>Change the terms and conditions of this Agreement;</li>
+<li>Change the Sites, including eliminating or discontinuing any content on or feature of the Sites, restricting the hours of availability or limiting the amount of use permitted.
+or</li>
+<li>Change any fees or charges for use of the Sites, including instituting new or increased fees or charges for the use of the Sites or any other related services or any feature thereof.</li>
+</ul>
+<p>Any changes we make will be effective immediately upon notice, which we may provide by any means including, without limitation, posting on the Sites or via electronic mail.
+"

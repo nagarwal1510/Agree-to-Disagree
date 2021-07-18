@@ -1,0 +1,33 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,17853,30,good,The service will only respond to government requests that are reasonable,Privacy Policy,"
+For purposes of California law, we may share with these parties all categories of personal information, except for background and criminal information, biometric information, and government identifiers."
+1,17854,25,good,Your personal data is not sold,Privacy Policy,We will not sell or rent your personal information for money.
+2,17856,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,This includes information such as Internet Protocol (IP) address
+3,17857,45,bad,This service receives your precise location through GPS coordinates,Privacy Policy,We may collect information about your location when your device is set to provide location information
+4,17858,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,Your personal information may be stored and processed by our service providers in the United States or other locations where the service providers or Walmart maintain facilities
+5,17860,30,bad,Your biometric data is collected,Privacy Policy,"and returned</li>
+<li>Biometric information, such as imagery of the iris, retina, and fingerprints</li>
+<li>Location information"
+6,17863,70,bad,Many different types of personal data are collected,Privacy Policy,"Health and health insurance information, such as prescription numbers and health insurance identification numbers</li>
+<li>Characteristics of protected classifications under state or federal law, such as gender and nationality</li>"
+7,17864,50,neutral,There is a date of the last update of the agreements,Privacy Policy,"July 17, 2020 10:36 AM"
+8,17865,80,bad,You must provide your identifiable information,Privacy Policy,"Personal identifiers, such as name and address</li>
+<li>Device"
+9,24181,50,bad,Information is gathered about you through third parties,Privacy Policy,"Collected from another company within our family of companies</li>
+<li>Collected from an external third-party source"
+10,24182,50,bad,Extra data may be collected about you through promotions,Privacy Policy,"Participate in a contest, sweepstake, promotion, or survey"
+11,24183,50,bad,This service tracks which web page referred you to it,Privacy Policy,the address of referring websites
+12,24184,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"We use our own and third-party technologies such as cookies, web beacons, and mobile device identifiers to collect information about the use of our websites and mobile services."
+13,24185,5,bad,Tracking pixels are used in service-to-user communication,Privacy Policy,"web beacons allow us to know if a certain page was visited, an email was opened"
+14,24186,60,bad,This service tracks you on other websites,Privacy Policy,"We also receive information, such as device information and browsing information, from third parties for marketing purposes, for example to provide you with personalized ads on Walmart and third-party websites and mobile services.</p> "
+15,24187,40,bad,Your personal information is used for many different purposes,Privacy Policy,"We use your personal information to provide you products and services, such as to fulfill your requests for products or to help us personalize our services and marketing to you.
+We also use your personal information to support our business functions, such as fraud prevention, marketing, and legal functions.</p>"
+16,24189,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,To conduct marketing
+17,24190,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,and third-party advertising</li>
+18,24191,50,bad,Your profile is combined across various products,Privacy Policy,"<p>To do the above, we combine information, collected online and offline, including information from third party sources."
+19,24193,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"<br>We share personal information about you with service providers that help with our business activities, including shipping vendors, billing and refund vendors, payment card processors, marketing and advertising vendors, and companies that help us improve our products and services."
+20,24194,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,"We share personal information about you with service providers that help with our business activities, including shipping vendors, billing and refund vendors, payment card processors, marketing and advertising vendors, and companies that help us improve our products and services.
+"
+21,24195,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Policy,"We require our service providers to keep your personal information secure.
+We do not allow our service providers to use or share your personal information for any purpose other than providing services on our behalf.
+"

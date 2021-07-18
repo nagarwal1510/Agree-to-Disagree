@@ -1,0 +1,62 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4442,50,good,Archives of their agreements are provided so that changes can be viewed over time,,
+1,4572,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms & Rules,"<li>Keeping your account secure is your responsibility.
+""I was hacked"" and ""It was my friend/brother"" are not excuses."
+2,4574,10,neutral,You agree not to use the service for illegal purposes,Terms & Rules,<b>Discussion or distribution of illegal content is not permitted in any form.
+3,4576,20,good, Pseudonyms are allowed,Terms & Rules,"If however your account name contains personally identifiable information, then you may be granted one name change, again at our discretion."
+4,4577,40,good, A list of all cookies set by the website is provided,Cookie Usage,"Standard cookies we set
+<p>
+These are the main cookies we set during normal operation of the software.
+</p>
+<ul>
+<li>
+<strong>xf_session</strong>
+<ul>
+<li>Stores the current ID of your session.</li>
+</ul>
+</li>
+<li>
+<strong>xf_user</strong>
+<ul>
+<li>Stores a key, unique to you, which allows us to keep you logged in to the software as you navigate from page to page.</li>"
+5,4591,30,neutral,Alternative accounts are not allowed,Terms & Rules,Creation of multiple accounts is not permitted.</b>
+6,4729,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms & Rules,"<b>Racism, sexism, or other forms of bigotry are strictly prohibited.</b>
+<ol>
+<li>Do not use racial slurs or bigoted remarks (e.g.
+concerning English abilities or choice of programming language) towards other users.</li>
+</ol>
+</li>
+<li>
+<b>Any form of trolling, flaming, flame-baiting, or being overly aggressive towards other users it not permitted.</b>
+<ol>
+<li>Keep discussion civil.
+Do not harass or threaten other users, or use SpigotMC as a place to coordinate attacks on others."
+7,4730,15,neutral,The posting of pornographic content is prohibited,Terms & Rules,"Content of an adult or sexual nature is strictly prohibited.<ol>
+<li>The general guideline for this is that content must be ""PG-13"" or below.</li>"
+8,4732,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms & Rules,Do not access the forums via automated mechanisms.</li>
+9,4735,25,good,Two factor authentication is provided for your account,Terms & Rules,"We provide additional mechanisms such as ""two factor authentication"" to help you with this."
+10,4736,5,bad,"Third party cookies are employed, but with opt out instructions",Cookie Usage,"Removing/disabling cookies
+<p>Managing your cookies and cookie preferences must be done from within your browser's options/preferences.
+Here is a list of guides on how to do this for popular browser software:</p>
+<ul>
+<li>Microsoft Internet Explorer</li>
+<li>Microsoft Edge</li>
+<li>Mozilla Firefox</li>
+<li>Google Chrome</li>
+<li>Safari for macOS</li>
+<li>Safari for iOS"
+11,4737,10,bad,Third-party cookies are used for statistics,Cookie Usage,"Other cookies may be set by third party service providers which may provide information such as tracking anonymously which users are visiting the site, or set by content embedded into some pages, such as YouTube or other media service providers.
+</p>"
+12,4740,10,neutral,You cannot distribute or disclose your account to third parties,Terms & Rules,"Accounts may not be sold without specific permission from SpigotMC.
+If there is any indication you are attempting to, or have sold your account it will be permanently banned.</li>"
+13,4741,15,good,The terms for this service are easy to read,,
+14,4743,10,good,You can choose the copyright license,,
+15,4744,30,good,Your feedback is invited regarding changes to the terms.,,
+16,4745,50,neutral,There is a date of the last update of the agreements,,
+17,4746,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,We currently do not offer website functionality for you to opt out of any “do not track” signals or listings.<br>
+18,13400,30,good,The service will only respond to government requests that are reasonable,Privacy Policy,"LEGAL PROCESS - We may share your information: if we believe that disclosure is reasonably necessary to comply with a law, regulation, legal or governmental request.
+to respond to a subpoena, court order, warrant, or other legal process.
+to enforce applicable Terms of Service or this Privacy Policy, including investigation of potential violations thereof.
+to protect the safety, rights, or property of the public, any person, or SpigotMC.
+to detect, prevent, or otherwise address security, technical issues, or illegal or suspected illegal activities (including fraud).
+or as evidence in litigation in which we are involved, as part of a judicial or regulatory proceeding."

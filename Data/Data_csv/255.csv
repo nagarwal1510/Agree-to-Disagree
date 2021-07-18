@@ -1,0 +1,119 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,16556,25,neutral,This service is only available for use individually and non-commercially.,Terms of Service,"Use License</p>
+<p>Permission is granted to temporarily download one copy of the materials (information or software) available from the Services for personal, non-commercial transitory viewing only.
+"
+1,16557,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,<p>The materials on the Services are provided on an ‘as is’ basis.
+2,16558,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Service,"KC Online Media, LLC makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</p>
+"
+3,16559,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Service,"<p>Further, KC Online Media, LLC does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the Services"
+4,16560,50,neutral,This service assumes no responsibility and liability for the contents of links to other websites,Terms of Service,"<p>Further, KC Online Media, LLC does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the Services or otherwise relating to such materials or on any sites linked to from the Services.</p>"
+5,16561,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"</p>
+<p>In no event shall KC Online Media, LLC or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on the Services, even if KC Online Media, LLC or a KC Online Media, LLC authorized representative has been notified orally or in writing of the possibility of such damage.
+"
+6,16562,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"The materials appearing on the Services could include technical, typographical, or photographic errors.
+KC Online Media, LLC does not warrant that any of the materials on its website are accurate, complete or current.
+"
+7,16563,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms of Service,"KC Online Media, LLC may revise these terms of service for its website at any time without notice."
+8,16564,50,bad,"Instead of asking directly, this Service will assume your consent merely from your usage.",Terms of Service,By using this website you are agreeing to be bound by the then current version of these terms of service.</p>
+9,16565,50,good,User accounts can be terminated after having been in breach of the terms of service repeatedly,Terms of Service,"<p>In our sole discretion, we may disable and/or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights or other intellectual property rights of others.</p>
+"
+10,16566,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"You are also responsible for any content that you post or transmit and, if you create an account, you are responsible for all content posted or transmitted through or by use of your account.</p>"
+11,16567,10,neutral,You agree not to use the service for illegal purposes,Terms of Service,<p>Content prohibited from our sites and services includes but is not limited to: (1) illegal content.
+12,16568,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"(3) offensive content (including, without limitation, court ordered defamatory statements, threatening, hateful or pornographic content)."
+13,16569,0,good,The publishing of personally identifiable information without the owner’s consent is not allowed,Terms of Service,"(4) content that discloses another’s personal, confidential or proprietary information."
+14,16570,20,neutral,You are prohibited from attempting to gain unauthorized access to other computer systems,Terms of Service,"(6) malicious content (including, without limitation, malware or spyware)."
+15,16571,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms of Service,"(7) content that offers, promotes, advertises, or provides links to posting or auto-posting products or services, account creation or auto-creation products or services, flagging or auto-flagging products or services, bulk telephone numbers, or any other product or service that if utilized with respect to our sites and services would violate these TOU or our other legal rights.
+and (8) content that offers, promotes, advertises or provides links to unsolicited products or services.</p>"
+16,16572,20,neutral,"You cannot delete your contributions, but it makes sense for this service",Terms of Service,"<p>You automatically grant and assign to us, and you represent and warrant that you have the right to grant and assign to us, a perpetual,"
+17,16573,50,bad,Your content can be licensed to third parties,Terms of Service," fully sub-licensable (through multiple tiers), worldwide license"
+18,16574,0,neutral,The court of law governing the terms is in location X,Terms of Service,"These terms and conditions are governed by and construed in accordance with the laws of Pennsylvania and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.</p>
+"
+19,16575,50,neutral,There is a date of the last update of the agreements,Privacy Policy,"Last Updated: February 28th, 2020</p>"
+20,16576,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy Policy,"Please note that this Privacy Policy applies only to information collected through the Services and not to information you may provide to any third-party sites to which XDA Developers may link, except as expressly provided herein."
+21,16577,0,neutral,"Other applicable rules, terms, conditions or guidelines",Privacy Policy,"Some online services offered by or affiliated with us may be governed by a separate privacy policy.
+In those instances, the product-specific privacy policy shall apply to that online service.</p>
+"
+22,16578,30,good,Details are provided about what kind of information they collect,Privacy Policy,"
+<strong>What information do we collect?"
+23,16579,50,bad,Extra data may be collected about you through promotions,Privacy Policy,"
+<p>We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form, use our search functionality, make a purchase, enter a contest, complete a survey, "
+24,16580,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"
+<p>Individuals in the European Economic Area (“EEA”) and many other jurisdictions have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them, and to obtain its correction, update, amendment, or deletion in appropriate circumstances.
+"
+25,16581,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"<p>We may automatically collect certain information about the computer or devices (including mobile devices or tablets) you use to access the Services.
+As described further below, we may collect and analyze information such as (a) IP addresses,"
+26,16582,45,bad,This service receives your precise location through GPS coordinates,Privacy Policy,"geolocation information, "
+27,16583,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,unique device identifiers
+28,16584,50,bad,This service tracks which web page referred you to it,Privacy Policy,"
+and (b) information related to the ways in which you interact with the Services, such as: referring and exit web pages and URLs,"
+29,16585,10,bad,Third-party cookies are used for statistics,Privacy Policy,"As described further below, we may use third-party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information.</p>
+"
+30,16586,30,bad,Your personal data is used for advertising,Privacy Policy,"We may use this profile or fingerprint to understand and analyze how you interact with the Services, to customize content or advertising to you through the Services, to monitor against fraud or misuse of the Services, or in other ways consistent with this Privacy Policy.</p>"
+31,16587,75,bad,"This service may collect, use, and share location data",Privacy Policy,"
+<p>We and our service providers may automatically collect location information, including general information (e.g., IP address, zip code) from your computer or mobile device.
+If you access the Services through a mobile device, we may also ask you to share your specific geo-location information with us.
+The Services use this location information to provide customized location-based services, content, promotional offers and other information that may be of interest to you."
+32,16588,70,bad,Third-party cookies are used for advertising,Privacy Policy,"Targeting cookies.</strong>&nbsp;These cookies record your visit to our website, the pages you have visited and the links you have followed.
+We will use this information to make our website and the advertising displayed on it more relevant to your interests.
+We may also share this information with third parties for this purpose.</li>
+</ul>"
+33,16589,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,"
+Please note that by blocking any or all cookies, you may not have access to certain features or offerings of the Services.</p>
+"
+34,16590,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,"<p>We may use third-party advertising companies to serve ads when you visit our Web Site.
+These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you.
+"
+35,16591,50,bad,Information is gathered about you through third parties,Privacy Policy,"If you access the Services through a third-party connection or log-in (e.g., through a social network), you may allow us to have access to and store certain information in your social network profile."
+36,16592,50,bad, You are being tracked via social media cookies/pixels,Privacy Policy,"
+<p>In addition, our Services may include cookies and tracking mechanisms from social media platforms (e.g., Facebook) through which the social media platform may collect information about you, such as mobile advertising identifier, cookie data, and IP address, as well as non-personal information (e.g.
+screen size), for purposes that include targeting advertisements."
+37,16593,30,good,Information is provided about how your personal data is used,Privacy Policy,"<p>
+<strong>What do we use your information for?</strong>
+"
+38,16594,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"We may share information amongst members of our corporate group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+"
+39,16595,100,blocker,They store data on you even if you did not interact with the service,Privacy Policy,"We may also obtain information, such as demographic information, from our affiliates or from third parties, such as marketers, partners, researchers, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies and others.</p>"
+40,16596,10,good,You can opt out of promotional communications,Privacy Policy,"If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</p>"
+41,16597,10,neutral,Your personal data is aggregated into statistics,Privacy Policy,"We may use de-identified and/or aggregated data for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, sponsors, event promoters, and/or others.</p>
+<p>"
+42,16598,50,good,Tracking cookies refused will not limit your ability to use the service,Privacy Policy,"Those parties that use these technologies, including DigiTrust, may offer you a way to opt out of ad targeting as described below.
+"
+43,16599,25,good,You can opt out of targeted advertising,Privacy Policy,"
+Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising.
+In that case, the ads will just not be tailored.</p>"
+44,16600,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
+"
+45,16601,50,good,You can limit how your information is used by third-parties and the service,Privacy Policy,"<p>If you have provided contact information through the Services and decide that you do not want us to use that information for marketing purposes in accordance with this Policy, you can opt out of future use at any time by: (a) going to the link provided at the bottom of any email you receive and opting out of receiving future information.
+or (b) contacting us via the email address at the bottom of this page."
+46,16602,0,neutral,Third parties are involved in operating the service,Privacy Policy,We may provide access to or share your information with select third parties who perform services on our behalf and for any other legitimate business purpose.
+47,16603,30,good,The service will only respond to government requests that are reasonable,Privacy Policy,"By using the Services, you acknowledge, consent and agree that we may access, preserve and disclose your information, including, but not limited to, any user content, if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process.
+(b) enforce our&nbsp;Terms of Service, this Policy, or other contracts with you, including investigation of potential violations thereof.
+(c) respond to claims that any content violates the rights of third parties.
+(d) respond to your requests for customer service.
+and/or (e) protect the rights, property or personal safety of XDA Devlopers, its agents and affiliates, its users and/or the public."
+48,16604,15,good,Information is provided about security practices,Privacy Policy,"All information you provide to us is stored on secure servers.
+Any payment transactions will be encrypted using Secure Sockets Layer (SSL) technology."
+49,16605,10,good,A free help desk is provided,Privacy Policy,"<p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+<p>KC&nbsp;Online Media, LLC (xda-developers.com)<br>
+info@xda-developers.com</p>
+<p>
+"
+50,16606,30,good,A complaint mechanism is provided for the handling of personal data,Privacy Policy,"While we strongly encourage you to first raise any questions or concerns about your personal data with us, you also have a right to contact the relevant supervisory authority.</p>"
+51,16607,60,good,Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards,Privacy Policy,"Where you are accessing Services from an EEA member state, we will take all steps reasonably necessary to ensure that your information is treated securely in accordance with this privacy policy always and at least to the standards required by Applicable Law in the jurisdiction of access.</p>"
+52,16608,50,good,The data retention period is kept to the minimum necessary for fulfilling its purposes,Privacy Policy,"We will keep your information only for as long as is reasonably necessary for the purpose that it has been processed, taking into account any legal requirements under Applicable Law.
+For the avoidance of doubt, we will retain your information to continue offering the Services to you.
+If you terminate your account, any association between your account and information we store will no longer be accessible through your account.
+"
+53,16609,100,bad,Logs are kept for an undefined period of time,Privacy Policy,"
+Information may persist in copies made for backup and business continuity purposes for additional time."
+54,16610,30,good,The service reviews its privacy policy on a regular basis,Privacy Policy,"By using our site, you consent to our web site privacy policy.</p>
+<p>
+<strong>Ad Consent</strong>
+</p>
+<p>View and Change Ad Consent</p>
+<p>
+<strong>Changes to our Privacy Policy</strong>
+</p>
+<p>If we decide to change our privacy policy, we will post those changes on this page.</p>
+<p>"

@@ -1,0 +1,45 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,12704,50,neutral,"Conditions may change, but your continued acceptance is not inferred from an earlier acceptance",Privacy Policy,"These practices may be changed, but
+any changes will be posted and changes will only apply to
+activities and information on a going forward, not retroactive
+basis."
+1,12705,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,"When you use our website, we share information that we may collect from you,"
+2,12706,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,address
+3,12707,75,bad,"This service may collect, use, and share location data",Privacy Policy,IP
+4,12708,50,bad,Your profile is combined across various products,Privacy Policy,"LiveRamp may use our first party cookie on your browser to match your
+shared information to their marketing databases in order to provide back a pseudonymous
+privacy-centric identifier for our use in real time bidding in digital advertising."
+5,12709,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,"These third
+parties may in turn link further demographic or interest-based information to your
+browser."
+6,12710,0,neutral,Third parties are involved in operating the service,Privacy Policy,"or information about your browser or operating
+system, with our partner/service provider, LiveRamp Inc and its group companies
+('LiveRamp').
+"
+7,12711,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy Policy,"Note : the privacy practices set forth in
+this privacy policy are for this wiki
+only.
+If you link to other wikis, please review the privacy
+policies posted at those wikis."
+8,12712,25,good,You can opt out of targeted advertising,Privacy Policy,"To opt out of this use, please click here (LiveRamp).
+"
+9,12713,10,neutral,First-party cookies are used,Privacy Policy,The wiki uses cookie and tracking technology.
+10,12714,10,neutral,Only aggregate data is given to third parties,Privacy Policy,"Aggregate
+cookie and tracking information may be shared with third parties."
+11,12715,70,bad,Third-party cookies are used for advertising,Privacy Policy,"What is the DoubleClick DART cookie?
+<p>
+The DoubleClick DART cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks."
+12,12716,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Policy,"We may share information with governmental agencies or other
+companies assisting us in fraud prevention or investigation.
+We may do so when: (1) permitted or required by law.
+or, (2)
+trying to protect against or prevent actual or potential fraud
+or unauthorized transactions.
+or, (3) investigating fraud
+which has already taken place."
+13,12717,10,good,You can opt out of promotional communications,Privacy Policy,"All emails and newsletters from this wiki
+allow you to opt out of further mailings."
+14,12718,30,good,A complaint mechanism is provided for the handling of personal data,Privacy Policy,"If you have any questions, concerns, or comments about our
+privacy policy you may contact us using the information below:
+<br>
+By e-mail: privacy@tvtropes.org"

@@ -1,0 +1,57 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,9434,50,bad, You are being tracked via social media cookies/pixels,Target Privacy Policy,"Social Media Widgets</dt>
+<dd>
+<p>Our sites and mobile applications include social media features, such as the Facebook, Pinterest, and Twitter widgets.
+These features may collect information about you such as your IP address and which page you are visiting on our site.
+They may set a cookie or employ other tracking technologies to accomplish this.
+Social media features and widgets may be hosted by a third party.
+Your interactions with those features are governed by the privacy policies of the companies that provide them.</p>"
+1,9437,50,bad,Your profile is combined across various products,Target Privacy Policy,"dt>Automated Information Collection</dt>
+<dd>
+<p>We may connect information collected automatically with information we already have about you in order to identify you as a Target Guest.
+If we are able to identify you as a Target Guest we may, for example, link your activity on our website to your activity in a Target store or on one of our mobile applications.
+This allows us to provide you with a personalized experience regardless of how you interact with us – online, in store, mobile, etc"
+2,9439,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Target Privacy Policy,"<p>We also allow third-party companies (e.g., Google) to place tags on our digital properties once approved through our tagging process.
+The tags may collect information from your interactions on Target.com.
+Our Privacy Policy does not cover these third party companies.
+Please contact these third party companies (e.g., Google) directly for more information about their privacy policy and your choices regarding the tags and the information collected by the tags."
+3,9440,75,bad,"This service may collect, use, and share location data",Target Privacy Policy,"<dt>Mobile Location Information</dt>
+<dd>
+<p>If you use a mobile device, your device may share location information (when you enable location services) with our websites, mobile applications, services or our service providers.
+For example, precise geo-location can be used to help you find nearby Target stores.
+Or, in-store location through the use of your phone’s blue tooth signal, LED light chip technologies or other technologies will permit Target to find nearby products for you, get you real-time deals, auto-sort your shopping list and more.
+</p>
+<p>To manage how you share your device’s location settings, go to the Choices section of this privacy policy.</p>
+"
+4,9441,100,blocker,They store data on you even if you did not interact with the service,Target Privacy Policy,"Cameras</dt>
+<dd>
+<p>We use cameras in and around our stores for operational purposes such as measuring traffic patterns and tracking in-stock levels.
+Cameras may also be used for fraud detection, theft prevention and security.
+"
+5,9443,80,bad,App required for this service requires broad device permissions,Target Privacy Policy,"When enabled, we may also use your device’s camera (e.g.
+Apple’s TrueDepth camera) so you can use services such as product visualization (e.g., scan room to see item in your space) or virtual fitting (e.g., scan facial data to try on accessories/beauty products).
+Information collected from the TrueDepth camera is used in real time - we do not store this information on our servers or share it with third parties.</p>
+"
+6,9446,50,bad,Information is gathered about you through third parties,Target Privacy Policy,"Information from other sources</dt>
+<dd>
+<p>We collect information about you from other sources to enhance our existing Guest information and improve the accuracy of our records.
+This improves our ability to contact you and increases the relevance of our marketing"
+7,9447,40,bad,Your personal information is used for many different purposes,Target Privacy Policy,"dl>How Is Your Information Used?<dl>
+<dt>
+</dt>
+<dd>
+<p>Information we collect is used for a variety of purposes, including activities such as: processing transactions, helping our Guest relations representatives resolve issues, identifying fraud and improving our services"
+8,9450,50,bad,Your profile is combined across various products,Target Privacy Policy,"<dt>Cross-Context</dt>
+<dd>
+<p>We merge data collected from our own websites and mobile apps."
+9,9454,10,neutral,Only aggregate data is given to third parties,Target Privacy Policy,"These companies use non-identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personally identifiable information (e.g., static IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you.
+These parties typically use a cookie, web beacon or other similar tracking technologies to collect this information.
+Target adheres to the Digital Advertising Alliance (DAA) self-regulatory principles for IBA."
+10,9455,30,good,Information is provided about how your personal data is used,Target Privacy Policy,"<dt>Elsewhere at Your Direction</dt>
+<dd>
+<p>At your direction or request, or when you otherwise consent, we may share your information."
+11,9457,10,good,You can opt out of promotional communications,Target Privacy Policy,"Push Notifications</dt>
+<dd>
+<p>You may opt-out from allowing Target to send you push notifications by adjusting the permissions in your mobile device.
+You may also choose which types of push notifications to receive by adjusting the permissions within your Target mobile application.
+This opt choice does not apply to in app notifications."

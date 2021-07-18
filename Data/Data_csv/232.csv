@@ -1,0 +1,82 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,6612,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"p>
+<p>Our Ad Partners may also from time to time use web beacons (also known as Internet tags, pixel tags and clear GIFs).
+These web beacons are provided by our Ad Partners and allow Ad Partners to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page and the information in cookies set by the Ad Partners.
+Web beacons enable our Ad Partners to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our website"
+1,6613,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service,"
+You agree to indemnify, defend, and hold harmless the Company, its officers, directors, employees, and agents from and against any and all claims, losses, costs, liabilities, damages, judgments, penalties, interest and expenses (including reasonable attorneys’ fees) arising out or relating to (i) any actual or alleged breach of your representations, warranties, or obligations set forth in these Terms of Service, and (ii) any actual or alleged infringement of any intellectual property or proprietary rights by any Content or other information you publish to the Website."
+2,6615,15,neutral,This service is only available to users over a certain age,Terms of Service,"By using the Website, you are representing that you are at least 18, or that you are at least 13 years old and have your parents’ permission to use the Website."
+3,6634,50,bad,"If you offer suggestions to the service, they become the owner of the ideas that you give them",Terms of Service,"TERMS OF IDEA SUBMISSION <p>You agree that: (1) your submissions and their contents will automatically become the property of Urban Dictionary, without any compensation to you.
+(2) Urban Dictionary may use or redistribute the submissions and their contents for any purpose and in any way."
+4,7716,50,neutral,There is a date of the last update of the agreements,Terms of Service,<p>Updated: October 2017
+5,7717,10,neutral,You agree not to use the service for illegal purposes,Terms of Service,<p>You may not use the Website for any illegal activity or to violate laws in your jurisdiction.
+6,7718,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"<p>The Website is provided “as is” and “as available”.
+You assume complete responsibility and risk for your use of the Website."
+7,7719,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Service,Any failure of the Company to enforce or exercise a right provided in these terms is not a waiver of that right.</p>
+8,7720,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Service,"<p>Should any provision of this Terms of Service be found invalid or unenforceable, the remaining terms shall still apply."
+9,7722,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"User Conduct <p>Users may not publish to the Website any words, definitions, or other information (collectively, “Content”) that:</p>
+<ul>
+<li>is unlawful, threatening, libelous or defamatory;"
+10,7723,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Service,"The Company does not warrant that (i) the Website will meet your requirements, (ii) you will be satisfied with the Website, "
+11,7724,50,bad,The service does not guarantee that software errors will be corrected,Terms of Service,(v) or that any errors will be corrected.
+12,7725,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"(iii) you will at all times be able to use the Website, (iv) the Website will be without errors, "
+13,8470,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Terms of Service,"At any time, the Company may, at its sole discretion, refuse to allow Content to be published, or remove Content that has been published."
+14,9693,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"Requests to know and requests to delete <p>You may request disclosure and/or deletion of any information we have collected about you by either:</p>
+<ul>
+<li>filling out the form available here, or</li>
+<li>emailing us with the details of your request at support@urbandictionary.com</li>
+</ul>
+<p>We will be in touch after receiving your request to verify your identity and to process your request"
+15,9694,30,good,Details are provided about what kind of information they collect,Privacy Policy,"We collect (a) the e-mail addresses of those who communicate with us via e-mail, (b) aggregate information concerning what pages users access or visit, (c) information you choose to send to us (such as survey information and/or site registrations) and (d) information related to your use of the site, including IP address, rough geographic location, and the date and time of your request."
+16,9695,30,good,Information is provided about how your personal data is used,Privacy Policy,"<li>The IP addresses of visitors and logged-in users.</li>
+<li>For logged-in users, the pseudonym or handle of your choosing</li>
+<li>For logged-in users, your email address</li>
+<li>Information you send to us (for example, if/when you email us, or if you purchase an item from our store)</li>
+</ul>
+<ul>
+<li>We use account information to allow users to post definitions under the handle of their choosing.</li>
+<li>We use contact information to contact our users about our website and services.</li>
+<li>We use visitor IP addresses to analyze trends among our users and to help improve and secure our website.</li>
+<li>We use identification information to help secure our website and enforce our terms of service</li>
+</ul> We disclose account information as is reasonably necessary to authenticate your account, and other identifiers where needed to process a sale from our store."
+17,13652,10,neutral,Your personal data is aggregated into statistics,Privacy Policy,We may also use your anonymized information for research purposes.
+18,13653,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"<li>If Urban Dictionary is acquired by or merged with another company, we will transfer your information along with the Urban Dictionary website.
+Should this happen, Urban Dictionary will provide advance notice of the transfer and of resulting changes to these terms on the Urban Dictionary website and, where possible, by email.</li>"
+19,13654,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,<li>We may provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf.
+20,13655,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Policy,"When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures."
+21,13656,60,bad,Your Personal data may be sold unless you opt out,Privacy Policy,"The information we sell <p>We do not sell the personal information that we collect.
+Our ad management partners (""Ad Partners""), however, may collect information from you directly when you visit our website, using technologies like cookies and web beacons.
+You may opt out of Ad Partner information collection using the process described in the Your information sale opt-out right section of this policy.
+You can learn more about our Ad Partner information collection practices in the cookies and web beacons section of this policy."
+22,13657,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,Cookies are required to use some Urban Dictionary services.
+23,13658,70,bad,Third-party cookies are used for advertising,Privacy Policy,Urban Dictionary and its Ad Partners use cookies to record current session information.
+24,13659,25,good,You can opt out of targeted advertising,Privacy Policy,You can opt out of Ad Partner information collection using the process described in the Your information sale opt-out right section of this policy.
+25,13660,10,bad,Third-party cookies are used for statistics,Privacy Policy,"You can opt-out of Google Analytics data collection with the Google Analytics Opt-out Browser Add-on.
+"
+26,13661,45,bad,This service receives your precise location through GPS coordinates,Privacy Policy,Geolocation data IP addresses We use this information to analyze trends among our users and to help improve and secure our website.
+27,13662,30,good,The service reviews its privacy policy on a regular basis,Privacy Policy,"Urban Dictionary may periodically update this policy.
+We may notify you about significant changes in the way we treat personal information by placing a prominent notice on our site."
+28,13664,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"The Company is not responsible for any damages or loss resulting from your use of the Website.</p>
+<p>The Company is not liable for any damages or losses resulting from the Website transmitting information such as personal messages over unencrypted networks such as email.</p>
+"
+29,13665,50,good,You maintain ownership of your content,Terms of Service,"To the extent you own rights in any Content you publish on the Website, such rights shall remain yours solely and exclusively.</p>"
+30,13666,50,bad,A license is kept on user-generated content even after you close your account,Terms of Service,"<p>When you publish Content on the Website, you grant the Company an irrevocable, perpetual, worldwide, royalty-free,"
+31,13667,50,bad,Your content can be licensed to third parties,Terms of Service,"fully sublicenseable,"
+32,13668,10,good,The service has non-exclusive use of your content,Terms of Service,non-exclusive license
+33,13669,50,bad,Your content can be distributed through any media known now or in the future,Terms of Service,"to copy, distribute, sell, publicly display, publicly perform and make derivative works of your Content on the Website, and on services affiliated with the Website and elsewhere (including but not limited to print, video, audio or computer media), regardless of the form of media used or of whether such media or services now exist or are developed in the future."
+34,13670,15,neutral,"If you are the target of a copyright claim, your content may be removed",Terms of Service,"The Company respects the intellectual property of others.
+It may, in appropriate circumstances and at its discretion, disable and/or terminate the accounts of users who repeatedly infringe others’ rights.</p>"
+35,13671,10,neutral,Instructions are provided on how to submit a copyright claim,Terms of Service,"<p>If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please provide the following information to the Company’s copyright agent:</p>
+<ul>
+<li>an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;</li>
+<li>a description of the copyrighted work or other intellectual property that you claim has been infringed;</li>
+<li>a description of where the material that you claim is infringing is located on the site;</li>
+<li>your address, telephone number, and email address;</li>
+<li>a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
+and</li>
+<li>a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or are authorized to act on the copyright or intellectual property owner’s behalf."
+36,13672,35,neutral,This service does not condone any ideas contained in its user-generated contents,Terms of Service,"<p>The Company does not and cannot review all Content published to the Website or created by users accessing the Website, and is not in any manner responsible for the content of any Content or the activities of any such users.</p>
+<p>You acknowledge that by providing you with the ability to view and distribute user-generated content through the Website, the Company is merely acting as a passive conduit for the distribution of such information and is not undertaking any obligation or liability relating to the Content or the Website users’ activities.</p>"
+37,13784,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Terms of Service,"The Company reserves the right to revise these terms from time to time.
+We will post a notice of any material revisions on the Website.
+"

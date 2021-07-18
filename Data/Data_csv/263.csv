@@ -1,0 +1,4 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,7760,15,neutral,This service is only available to users over a certain age,Privacy Policy,"AGE RESTRICTIONS
+<p>Although our website is a general audience site, we restrict the use of our Services to individuals age 18 and above."
+1,7761,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,We do not respond to do not track signals set by your browser at this time.</li>

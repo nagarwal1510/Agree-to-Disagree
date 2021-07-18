@@ -1,0 +1,27 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,17419,70,bad,Many different types of personal data are collected,Privacy Policy,"At Toodledo, we collect a variety of information about our customers and visitors to the Toodledo websites and mobile applications in order to provide a better customer experience.
+This personal data falls into these categories:</p> Category of Data What It Includes Identity Data Your first name, last name, your login/password.
+Contact Data Your billing address and email address."
+1,17423,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"Identity Data IP address, your login data, operating system and browser type and version, location and other technology on the devices you use to access the website or mobile application."
+2,17426,10,bad,Third-party cookies are used for statistics,Privacy Policy,"To provide better content and service, Toodledo’s websites and mobile applications use the Cyfe analytics service and the Google Analytics web analytics service"
+3,17427,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"
+<p>Toodledo tracks your browsing habits across other third-party websites and we do not respond to browser do not track signals.</p>"
+4,17428,15,neutral,This service is only available to users over a certain age,Privacy Policy,"Neither our website, mobile application nor our services are intended for children under the age of 16.
+Toodledo does not target its services or this website or mobile application to children under 16.
+Toodledo does not knowingly collect personal data from children under the age of 16."
+5,17429,30,bad,Your personal data is used for advertising,Privacy Policy,"We may also collect Tracking Data when you use our website or mobile application, or when you click on one of our advertisements (including those shown on third party websites).</p>
+<p>Third parties or publicly available sources.
+We may receive personal data about you from various types of third parties, including:</p>
+<ul>
+<li>Technical Data and/or Tracking Data from analytics providers, advertising networks and search information providers.</li>"
+6,17431,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Policy,"and</li>
+<li>Governments, regulators, law enforcement and fraud prevention agencies, so we can assist law enforcement and comply with law enforcement."
+7,20247,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Service,"If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provisions set forth above shall be deemed null and void in their entirety and the parties shall be deemed to have not agreed to arbitrate disputes."
+8,20248,50,neutral,There is a date of the last update of the agreements,Privacy Policy,"Last Updated: October 25, 2018"
+9,20251,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms of Service,"Disseminate any unsolicited or unauthorized advertising, promotional materials, 'junk mail', 'spam', 'chain letters', 'pyramid schemes', or any other form of such solicitation."
+10,20252,20,good,The service claims to be GDPR compliant for European users,Privacy Policy,The European Union's General Data Protection Regulation (“GDPR”) allows for transfer of personal data from the European Union to a third country in certain situations.
+11,20268,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Service,Toodledo’s failure to enforce any of these Terms is not a waiver of such term.
+12,20269,15,good,30 days of notice are given before closing your account,Terms of Service,"You may terminate these Terms at any time by ceasing use of the Service but You will not receive any refund of prepaid fees for the current subscription period, if applicable.
+Toodledo additionally may terminate these Terms on thirty (30) days written notice to You if You breach any of these Terms and the breach remains uncured at the end of such thirty (30) day period."
+13,20966,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"Defame, abuse, harass, stalk, threaten, or otherwise violate the legal rights (such as rights of privacy and publicity) of others."
+14,20967,15,neutral,The posting of pornographic content is prohibited,Terms of Service,Use explicit/obscene language or solicit/upload sexually explicit images (actual or simulated)
