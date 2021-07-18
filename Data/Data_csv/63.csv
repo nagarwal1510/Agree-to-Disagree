@@ -1,0 +1,6 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,8733,0,neutral,The court of law governing the terms is in location X,Terms and Conditions and Privacy,This agreement will be governed by the laws of the United Kingdom.
+1,8735,40,good,"When the service wants to make a material change to its terms, you are notified at least 30 days in advance",Terms and Conditions and Privacy,but you will not be bound by any updates until 30 days after we send you an email notifying you of the changes.
+2,8736,50,bad,This service reserves the right to disclose your personal information without notifying you,Terms and Conditions and Privacy,"We may provide information concerning your account and your use of the service to 3rd parties, at our sole discretion, if: <ul>
+<li>It is requested by law enforcement authorities."
+3,9520,50,neutral,There is a date of the last update of the agreements,Terms and Conditions and Privacy,Last modified: 27/03/2017

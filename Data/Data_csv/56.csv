@@ -1,0 +1,33 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,20980,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"<li>Your use of the Services is at your sole risk.
+The Services are provided on an “as is” and “as available” basis.</li>"
+1,20981,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Service,"(i) the Services will meet your requirements or expectations,"
+2,20982,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"(ii) the Services will be delivered uninterrupted, timely, secure, or error-free,"
+3,20983,50,bad,The service does not guarantee that software errors will be corrected,Terms of Service,(iv) any errors in the Services will be corrected.</li>
+4,20984,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,You are responsible for maintaining the security of your user-account and password.
+5,20986,20,good,The service claims to be GDPR compliant for European users,Privacy policy,"In certain circumstances, for example if you access our offers from a Member State of the European Union, the European Data Protection Regulation 2016/679 (GDPR) may also apply."
+6,20987,20,good,The service claims to be CCPA compliant for California users,Privacy policy,"If you access our services from the State of California, USA, the California Consumer Privacy Act of 2018 (CCPA) may also apply.</p>"
+7,20988,10,bad,Third-party cookies are used for statistics,Privacy policy,"
+<p>Doodle also uses Google Analytics and Google Firebase Analytics (for iOS and Android apps) to compile usage statistics."
+8,20989,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Terms of Service,"These Terms of Service, and your relationship with Doodle under these Terms of Service, shall be governed by the laws of Switzerland.
+"
+9,20990,30,bad,Your personal data is used for advertising,Privacy policy,"These advertisements can be targeted based on the information that is available to Doodle, e.g.
+language, IP address, poll content, etc.
+"
+10,20991,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy policy,"In some cases, Doodle displays advertisements from Google’s AdSense or AdExchange network.
+These advertisements can be targeted based on the poll content."
+11,20992,30,good,A complaint mechanism is provided for the handling of personal data,Privacy policy,"Contact person
+<p>If you have questions regarding data protection, need information or want your data to be deleted please contact our data protection office via email: privacy@doodle.com"
+12,20993,25,good,You can opt out of targeted advertising,Privacy policy,You may object at any time by email to the processing of Your Data for marketing and advertising purposes.
+13,20994,10,neutral,Your personal data is aggregated into statistics,Privacy policy,We use this information for internal analytical purposes to improve the product for you.
+14,20995,25,good,Your personal data is not sold,Privacy policy,We do not sell your data to third parties.
+15,21143,40,neutral,This service has a no refund policy with some exceptions,Terms of Service,"There will be no refunds also in the following explicit cases: unavailability of services, downgrade, unused services, or when the functionality of services is changed."
+16,21144,50,neutral,The service has a no refund policy,Terms of Service,"<li>Premium Doodle is billed in advance and is non-refundable.
+"
+17,21145,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms of Service,"
+<li>Doodle reserves the right to update and change the Terms of Service at any time without notice."
+18,21146,50,good,You aren’t forced into binding arbitration in case of disputes,Terms of Service,"You and Doodle agree to submit to the exclusive jurisdiction of the courts located in Zurich, Switzerland, to resolve any legal matter arising from the Terms of Service.</li>"
+19,21154,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy policy,"When deleting a poll, that poll’s information will be deleted from the Doodle application databases but may be archived in some other form for internal analytical purposes to improve the product for you."
+20,21155,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy policy,"<p>Doodle may share personal information with other companies or individuals only in the following limited circumstances: (i) Doodle has your consent.
+(ii) Doodle has good faith that there is a legal obligation to share the data.
+"

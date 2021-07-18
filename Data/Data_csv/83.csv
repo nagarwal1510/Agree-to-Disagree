@@ -1,0 +1,64 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4249,15,neutral,This service is only available to users over a certain age,Terms of Service,You must be at least thirteen years old.</p>
+1,16717,0,neutral,Separate policies are employed for different parts of the service,Terms of Service,"The company may offer other products and services, under different terms.
+These terms apply only to use of the website"
+2,16718,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms of Service,"You may not send advertisements, chain letters, or other solicitations through the website, or use the website to gather addresses for commercial mailing lists.</p>"
+3,16719,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms of Service,"You may not automate access to the website, or monitor the website, such as with a web crawler, browser plug-in or add-on, or other computer program that is not a web browser."
+4,16720,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Terms of Service,"The company reserves the right to change, redact, and delete content on the website for any reason."
+5,16721,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"You agree to be responsible for all action taken using your account, whether authorized by you or not, until you either close your account or notify the company that your account has been compromised."
+6,16722,15,neutral,"If you are the target of a copyright claim, your content may be removed",Terms of Service,"The company may restrict, suspend, or close your account on the website according to its policy for handling copyright-related takedown requests, or if the company reasonably believes that you’ve breached these terms."
+7,16723,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service,"You agree to indemnify the company from legal claims by others related to your breach of these terms, or breach of these terms by others using your account on the website."
+8,16724,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"As far as the law allows, the company provides the website as is, without any warranty whatsoever.</p>"
+9,16728,50,neutral,There is a date of the last update of the agreements,Terms of Service,"The company last updated these terms on May 25, 2018, and may update these terms again."
+10,16730,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"When you delete personal data from freeCodeCamp, we immediately delete it from our servers.</p>
+<p>We make emergency backups of our database every day, and we delete each of these backups after a few days."
+11,16731,25,good,Your personal data is not sold,Privacy Policy,We don't sell your data to anyone.
+12,16732,0,neutral,Third parties are involved in operating the service,Privacy Policy,"In order to provide service to you, your data does pass through some other services.
+All of these companies are based in the United States.</p>
+<p>We use Amazon Web Services, Azure, and mLab for our servers and databases."
+13,23237,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"This includes content that is harassing, inappropriate, or abusive"
+14,23238,0,good,The publishing of personally identifiable information without the owner’s consent is not allowed,Terms of Service,"
+<p>You may not use the website to disclose information that you don’t have the right to disclose, like others’ confidential information"
+15,23239,20,good, Pseudonyms are allowed,Terms of Service,"If you create an account, you agree to provide, at a minimum, a valid e-mail address, and to keep that address up-to-date.
+"
+16,23240,15,good,You have the right to leave this service at any time,Terms of Service,"You may close your account at any time by logging into your account and clicking the button on your account settings page.</p>
+<p>"
+17,23241,10,neutral,You must report to the service any unauthorized use of your account or any breach of security,Terms of Service,You agree to notify the company immediately if you suspect your account has been compromised.
+18,23242,15,neutral,Your account can be suspended for several reasons,Terms of Service,"The company may restrict, suspend, or close your account on the website according to its policy for handling copyright-related takedown requests, or if the company reasonably believes that you’ve breached these terms.</p>"
+19,23243,50,good,You maintain ownership of your content,Terms of Service,"Nothing in these terms gives the company any ownership rights in intellectual property that you share with the website, such as your account information or other content you submit to the website."
+20,23244,10,good,You can choose the copyright license,Terms of Service,"<p>Content you submit to the website belongs to you, and you decide what permission to give others for it.
+But at a minimum, you license the company to provide content that you submit to the website to other users of the website.
+"
+21,23245,15,good,Copyright license limited for the purposes of that same service but transferable and sublicenseable,Terms of Service,"That special license allows the company to copy, publish, and analyze content you submit to the website.</p>
+<p>When content you submit is removed from the website, whether by you or by the company, the company’s special license ends when the last copy disappears from the company’s backups, caches, and other systems."
+22,23246,35,bad,"Defend, indemnify, hold harmless; survives termination",Terms of Service,"The following provisions survive the end of our agreement: Your Content, Feedback, Your Responsibility, Disclaimers, Limits on Liability, and General Terms"
+23,23247,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"You accept all risk of using the website and content on the website.
+As far as the law allows, the company provides the website as is, without any warranty whatsoever.</p>
+<p>"
+24,23248,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of Service,"<p>As far as the law allows, the company’s total liability to you for claims of any kind that are related to the website or content on the website will be limited to $50.</p>"
+25,23249,50,good,"If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",Terms of Service,"<p>You agree that the company will be free to act on feedback and suggestions you provide, and that the company won’t have to notify you that your feedback was used, get your permission to use it, or pay you.
+"
+26,23250,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Terms of Service,"<p>California law will govern any dispute, including any legal proceedings, related to these terms or your use of the website."
+27,23251,50,bad,You are forced into binding arbitration in case of disputes,Terms of Service,"Other than to seek an injunction or for claims under the Computer Fraud and Abuse Act, you and the company will resolve any Dispute by binding American Arbitration Association arbitration."
+28,23252,50,bad,You waive your right to a class action.,Terms of Service,"You will settle any dispute as an individual, and not as part of a class action or other representative proceeding, whether as the plaintiff or a class member.
+"
+29,23253,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Terms of Service,"The company will post all updates to the website.
+For updates that contain substantial changes, the company agrees to e-mail you, if you’ve created an account and provided a valid e-mail address.
+"
+30,23254,50,good,No need to register,Privacy Policy,"You can access all of freeCodeCamp's articles, videos, podcasts, and interactive coding lessons without creating an account."
+31,23255,40,good,You can retrieve an archive of your data,Privacy Policy,"at any time, you can download all of your data in a convenient JSON format.</p>"
+32,23256,0,good,You can choose with whom you share content,Privacy Policy,<p>You can control which data shows up on your developer portfolio.</p>
+33,23257,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"In order to provide service to you, your data does pass through some other services."
+34,23258,20,good,The service claims to be GDPR compliant for European users,Privacy Policy,"Does freeCodeCamp meet Europe's GDPR privacy regulations?<p>Yes.
+freeCodeCamp respects the privacy rights covered by Regulation (EU) 2016/679 - the European Union's General Data Protection Regulation (GDPR)"
+35,23259,20,good,This Service provides a list of Third Parties involved in its operation.,Privacy Policy,"We use Amazon Web Services, Azure, and mLab for our servers and databases.
+You can read the privacy policy for <strong>Amazon Web Services</strong>, <strong>Microsoft Azure</strong>, and <strong>mLab</strong>.</p>
+<p>We use Stripe and PayPal to process donations.
+You can read the privacy policy for <strong>Stripe</strong> and for <strong>PayPal</strong>.</p>
+<p>We use the CloudFlare and Netlify Content Delivery Networks so that freeCodeCamp is fast in all parts of the world.
+You can read the privacy policy for <strong>CloudFlare</strong> and <strong>Netlify</strong> online.</p>
+<p>We use Auth0 to sign you into freeCodeCamp.
+You can read <strong>the privacy policy for Auth0 online</strong>.</p>"
+36,23260,5,bad,"Third party cookies are employed, but with opt out instructions",Privacy Policy,"<p>We use Google Analytics to help us understand the demographics of our community and how people are using freeCodeCamp.
+You can opt out of Google Analytics on freeCodeCamp by <strong>installing this browser plugin</strong>."
+37,23261,30,good,The service is open-source,Terms of Service, Open Source

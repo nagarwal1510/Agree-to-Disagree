@@ -1,0 +1,18 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,19355,15,neutral,This service is only available to users over a certain age,Terms And Conditions,By using the Services you promise to us that you accept these Terms and that you are 18 years of age or over.
+1,19356,25,neutral,You must create an account to use this service,Terms And Conditions,The Service requires you to register and create accounts for validation.
+2,19357,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms And Conditions,"maintain the security of your password and identification.
+and (d) be fully responsible for all use of your account and for any actions that take place using your account.</p>"
+3,19358,25,neutral,This service is only available for use individually and non-commercially.,Terms And Conditions,The Products shall be for private use only and use of the Products in commercial or public settings is not permitted.
+4,19359,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"You have the right to access the personal information that we hold about you.
+This may be called a ‘Subject Access Request’.
+If you make a request for your information we will provide it to you or your designated agent free of charge within a reasonable timeframe.</p>
+<p>Before providing personal information to you or your designated agent on your behalf, we may ask for proof of identity and sufficient information about your interactions with us that we can locate your personal information.</p>
+<p>If any of the personal information we hold about you is inaccurate or out of date, you may ask us to correct it or correct, update, delete, or deactivate it yourself by making the change on our member information page or by contacting us at privacy@brain.fm."
+5,19360,15,good,Information is provided about security practices,Privacy Policy,"Brain.FM has put in place certain technological and procedural security functions in order to protect the personal information it collects, uses or transfers from loss, misuse, alteration or destruction.
+Brain.FM uses firewalls to help prevent outside parties from accessing our database server through the Internet, and physical access to the database server is restricted to authorized individuals.</p>
+<p>When transferring personally identifiable information to and from third parties Brain.FM uses SSL &amp.
+SFTP (Secure FTP) (which includes SHA-2 encryption), as required for Email Sender and Provider Coalition (ESPC) membership."
+6,19361,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy Policy,Please be aware that Brain.FM is not responsible for the privacy practices of those other sites and do not exercise authority over such web sites.
+7,19362,50,neutral,The service is not responsible for linked or (clearly) quoted content from third-party content providers,Privacy Policy,"Brain.FM therefore assumes no responsibility for the privacy and data collection policies and procedures of such linked web sites, nor for the content or reliability of such web sites."
+8,19363,50,neutral,There is a date of the last update of the agreements,Privacy Policy,"This policy may be amended from time to time and was last updated on May 23rd, 2018."

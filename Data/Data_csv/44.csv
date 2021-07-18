@@ -1,0 +1,14 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,2037,0,neutral,The court of law governing the terms is in location X,Terms of Use,"Any claim, cause of action, demand, or dispute arising from or related to CL (""Claims"") will be governed by the internal laws of California, without regard to conflict of law provisions, except to the extent governed by US federal law.
+Any Claims will be exclusively resolved by courts in San Francisco, CA (except we may seek preliminary or injunctive relief anywhere)."
+1,8463,50,neutral,There is a date of the last update of the agreements,Terms of Use,"Terms of Use (""TOU"") (last updated August 16, 2019)."
+2,8465,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Use,"Our actions or silence toward you or anyone else does not waive, modify, or limit the TOU or our ability to enforce it."
+3,8466,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms of Use,"You agree not to copy/collect CL content via robots, spiders, scripts, scrapers, crawlers, or any automated or manual equivalent (e.g., by hand)."
+4,8467,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms of Use,"We may modify the TOU at any time in our sole discretion.
+You are responsible for periodically checking for changes and are bound by them if you continue to use CL."
+5,8468,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Use,"provide CL on an ""AS IS"" and ""AS AVAILABLE"" basis and any risk of using CL is assumed by you."
+6,8469,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Use,"accuracy,"
+7,10058,50,bad,This service takes credit for your content,Terms of Use,"You grant us a perpetual, irrevocable, unlimited, worldwide, fully paid/sublicensable license to use, copy, display, distribute, and make derivative works from content you post.</p>"
+8,10075,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"We do not respond to ""Do Not Track"" signals (see allaboutdnt.com)."
+9,10077,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"in connection with a merger, bankruptcy, or sale/transfer of assets."
+10,10078,50,neutral,The service has a no refund policy,Terms of Use,"Fees are non-refundable, even for posts we remove, delay, omit, re-categorize, re-rank, or otherwise moderate."

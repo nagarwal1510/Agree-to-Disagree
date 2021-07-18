@@ -1,0 +1,29 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5931,50,bad,Many third parties are involved in operating the service,Privacy Policy,"<p>We use Digital Ocean Inc.
+(101 Avenue of the Americas 10th Floor, New York, NY 10013, United States of America) as a service provider to host our server infrastructure.
+We use OVH GmbH, Dudweiler Landstraße 5, 66123 Saarbrücken, Germany to ensure our service availability.
+While we are currently hosting our services in Frankfurt, Germany, we may expand to other server locations offered by our hosting service providers in order to ensure the reliablity and performance of our service around the world.</p>"
+1,5932,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Privacy Policy,"<p>We may update this privacy policy in the future.
+If we make any material changes we will notify you by email (using the email address stored in your account) or by displaying a notice banner on our site before the changes become effective.
+We encourage you to review the privacy policy periodically to ensure you are aware of the latest information.
+"
+2,5933,50,good,You maintain ownership of your content,Terms and Conditions,You retain ownership of and responsibility for content you create even if it does not belong to you.
+3,5934,30,blocker,This service holds onto content that you've deleted,Terms and Conditions,"Deleting an account terminates these Agreements, but grants us an indefinite license for content you collaborated to the service (e.g.
+event pages).
+This ensures that we can continue to provide this content beyond the termination of the Agreements."
+4,5935,60,bad,Your account can be deleted without prior notice and without a reason,Terms and Conditions,<p>We reserve the right to delete your account at any time.
+5,5936,50,neutral,The service has a no refund policy,Terms and Conditions,"If you terminate an account before your active subscription expires, you will not be entitled to a refund, even partial.
+Subscriptions are billed in advance on a monthly basis and are non-refundable.
+We will not offer refunds or credits for partial months of service."
+6,8131,15,neutral,This service is only available to users over a certain age,Terms and Conditions,Colloq’s services are only available for human individuals who are at least 16 years old.</p>
+7,8138,15,good,You have the right to leave this service at any time,Terms and Conditions,Users can delete their account at any time.
+8,8139,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms and Conditions,"Colloq offers services through one-time purchases and subscriptions to give users access to premium features or services for their events or their personal accounts.
+The according pricing is available through the Service and may change over time and be different at the end of a payment term.
+Pricing changes that affect a currently active subscription will be announced 14 days before renewal.
+All transactions are final and our services are paid in advance and are not refundable.
+By agreeing to these terms You give Us permission to charge the fees that you have authorized for Colloq to your provided payment method"
+9,8140,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms and Conditions,We may modify this agreement without notice
+10,8141,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms and Conditions,Our Services are provided “as is”.
+11,8143,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms and Conditions,"<p>If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining portions will remain in full force and effect."
+12,8144,60,good,Your personal data is used for limited purposes,Privacy Policy,We only use your personal data for the exact reason it was provided.
+13,8148,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,<p>It is your right to access or delete the personal information we store as long as it is not in conflict with local law to retain certain information.

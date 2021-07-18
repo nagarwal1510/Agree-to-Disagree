@@ -1,0 +1,67 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,8397,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"
+You may choose to correct, update, access or delete the personal information you have submitted to us by sending an email to privacypolicy@eff.org.</p>"
+1,8398,50,neutral,There is a date of the last update of the agreements,Privacy Policy,"
+<em>Updated on June 2, 2014 to reflect the possible collection of information for research datasets.</em>
+</p>
+<p>
+<em>Updated on February 4, 2015 to correct typographical errors.</em>
+</p>
+<p>Previous Privacy Policies for Software and Technology Projects:</p>
+<ul>
+<li>Apr 21, 2014 - Jun 2, 2014</li>
+<li>Jun 3, 2014 - May 24, 2018</li>
+</ul>"
+2,8401,60,good,Your personal data is used for limited purposes,Privacy Policy,"Generally, we do not store personally identifiable information (PII), including the IP addresses of users,&nbsp;when collecting bug reports or research data.
+However, on occasion, we may store IP addresses for&nbsp;limited debugging purposes.
+(You may also choose to submit these reports and data via Tor in order to prevent&nbsp;us from being able to observe your IP address.)</p>
+<p>
+<strong"
+3,8403,70,bad," Terms may be changed any time at their discretion, without notice to you ",Privacy Policy,"We may occasionally update this document or the relevant user interfaces to reflect changes in the information that we collect or new products or technologies we release.
+However, any revised privacy policy will be consistent with EFF's mission and will be available at&nbsp;https://www.eff.org/code/privacy-policy.</p>
+<p"
+4,8404,80,good,Your information is only shared with third parties when given specific consent,Privacy Policy,"Your Information:</strong> While EFF endeavors to provide the highest level of protection for your information, we may disclose personally identifiable information about you to third parties in limited circumstances, including: (1) with your consent.
+or (2) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other judicial or administrative order.</p>
+<p>If we are required by law to disclose the information that you have submitted, we will attempt to provide you with prior notice (unless we are prohibited or it would be futile) that a request for your information has been made in order to give you an opportunity to object to the disclosure.
+We will attempt to provide this notice by whatever means is reasonably practical."
+5,20241,50,good,Archives of their agreements are provided so that changes can be viewed over time,Privacy Policy,"Previous Privacy Policies
+<ul>
+<li>
+<p>Feb 26 2007 - Jan 4 2009</p>
+</li>
+<li>
+<p>Jan 5 2009 - Jan 25 2009</p>
+</li>
+<li>
+<p>Jan 26 2009 - Jun 21 2011</p>
+</li>
+<li>
+<p>Jun 22 2011 - Oct 18 2011</p>
+</li>
+<li>
+<p>Oct 19 2011 - Jul 23 2012</p>
+</li>
+<li>
+<p>Jul 24, 2012 - Apr 30, 2014</p>
+</li>
+<li>
+<p>Apr 31, 2014 – Jun 12, 2014</p>
+</li>
+<li>
+<p>Jun 13, 2014 – Apr 7, 2015</p>
+</li>
+<li>
+<p>Apr 8, 2015 – Jul 13, 2016</p>
+</li>
+<li>
+<p>Jul 14, 2016 to Feb 19, 2018</p>
+</li>
+<li>
+<p>Feb 20, 2018 to May 24, 2018"
+6,20242,30,good,A complaint mechanism is provided for the handling of personal data,Privacy Policy,"<p>If you have any questions about our privacy and data protection practices, you can reach EFF at:</p>
+<p>Electronic Frontier Foundation<br>815 Eddy Street<br>San Francisco, CA 94109 USA<br>Phone: +1-415-436-9333<br>Fax: +1-415-436-9993<br>Email: privacypolicy@eff.org.</p>"
+7,20243,15,good,Information is provided about security practices,Privacy Policy,"<p>EFF employs industry standard security measures to protect the loss, misuse, and alteration of the information under our control, including appropriate technical and organizational measures to ensure a level of security appropriate to the risk, such as the pseudonymization and encryption of personal data, data backup systems, and engaging security professionals to evaluate our systems effectiveness.
+EFF has turned on&nbsp;HTTPS&nbsp;by default.</p>
+<p>Although we make good faith efforts to store information collected by EFF in a secure operating environment, we cannot guarantee complete security.</p>"
+8,20245,50,bad,Your data is processed and stored in a country that is less friendly to user privacy protection,Privacy Policy,"EFF is located within the United States, and therefore will transfer, process, and store your information in the United States, which may not provide as much protection as your home country."
+9,20246,20,good,The service claims to be GDPR compliant for European users,Privacy Policy,"Where applicable, we have entered into General Data Protection Regulation (GDPR) compliant Data Protection Addendums with third-parties who process data on our behalf."

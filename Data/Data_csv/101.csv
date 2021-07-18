@@ -1,0 +1,55 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,8043,50,bad,You are forced into binding arbitration in case of disputes,Terms of Use,"you and Hulu agree that any and all claims, except disputes relating to the ownership or enforcement of intellectual property rights, that either of us may have, whether based on past, present, or future events, arising out of or relating to: (i) these Terms (including formation, performance, or breach of them, and including the scope and enforceability of this arbitration provision).
+(ii) the Privacy Policy, which is incorporated in these Terms.
+(iii) any aspect of our relationship with each other.
+and (iv) use of the Services, must be resolved through binding arbitration."
+1,8044,40,good,"When the service wants to make a material change to its terms, you are notified at least 30 days in advance",Terms of Use,"Any material change to these Terms will be effective automatically 30 days after the revised Terms are first posted or, for users who register or otherwise provide opt-in consent during this 30-day period, at the time of registration or consent, as applicable."
+2,8046,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms of Use,"uses technology or other means to access, index, frame or link to the Services (including the Content) that is not authorized by Hulu (including by removing, disabling, bypassing, or circumventing any content protection or access control mechanisms intended to prevent the unauthorized download, stream capture, linking, framing, reproduction, access to, or distribution of the Services);</li>
+<li>
+involves accessing the Services (including the Content) through any automated means, including ""robots,"" ""spiders,"" or ""offline readers"" (other than by individually performed searches on publicly accessible search engines for the sole purpose of, and solely to the extent necessary for, creating publicly available search indices - but not caches or archives - of the Services and excluding those search engines or indices that host, promote, or link primarily to infringing or unauthorized content);</li"
+3,8049,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Use,"YOU AGREE TO DEFEND, INDEMNIFY, AND HOLD HARMLESS THE HULU PARTIES FROM AND AGAINST ANY AND ALL LIABILITIES, CLAIMS, DAMAGES, EXPENSES (INCLUDING REASONABLE ATTORNEYS' FEES AND COSTS), AND OTHER LOSSES ARISING OUT OF OR IN ANY WAY RELATED TO YOUR BREACH OR ALLEGED BREACH OF THESE TERMS OR YOUR USE OF THE SERVICES (INCLUDING YOUR USE OF THE CONTENT)."
+4,12126,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy," In addition to cookies, we may use other technologies such as web beacons or pixel tags,"
+5,12128,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Terms of Use,"We reserve the right, but have no obligation, to monitor User Material and to restrict or remove User Material that we determine, in our sole discretion, is inappropriate or for any other business reason, as permitted by law.
+"
+6,12130,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"For example, we share payment information with our third-party payment processor to assist us in our billing efforts, email addresses with our marketing service providers to assist with our email campaigns,"
+7,12131,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,"We may share information collected from or about you with companies that provide services to us, our business partners, and advertisers, including companies that assist with payment processing, analytics, data processing and management (e.g., to facilitate our targeted advertising and marketing efforts),"
+8,12133,10,bad,Third-party cookies are used for statistics,Privacy Policy,"We may collect information from and about the browser or device you’re using and information about your internet or other electronic network activity, including through analytics tools and the technologies described below (“Data Collected Through Cookies and Similar Technologies”).
+"
+9,12134,50,bad,You have a reduced time period to take legal action against the service,Terms of Use,"you and Hulu agree to bring any claim arising out of or relating to these Terms (including Hulu’s Privacy Policy), our relationship, or the use of the Services within one year after a claim arises.
+otherwise, the claim is waived.
+"
+10,12135,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Use,"Hulu's decision to delay exercising or enforcing any right or remedy under these Terms shall not constitute a waiver of such right or remedy with respect to any party.
+Even if Hulu acts in a way that appears to you to be inconsistent with these Terms, Hulu's action shall not be deemed a waiver or constructive amendment of these Terms.</p>"
+11,12136,40,neutral,They may stop providing the service at any time,Terms of Use,"We hope not to, but we may change, suspend, or discontinue - temporarily or permanently - some or all of the Services (including the Content and the Compatible Devices through which the Services are accessed), with respect to any or all users, at any time without notice."
+12,12137,15,good,You have the right to leave this service at any time,Terms of Use,"You may cancel your subscription at any time as described in the ""Cancellation and Refunds"" section of these Terms.
+"
+13,12138,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Use,"We will charge your Payment Method a periodic subscription fee on a recurring basis corresponding to the term of your subscription, and any applicable taxes."
+14,12139,30,good,Details are provided about what kind of information they collect,Privacy Policy,"Hulu may collect the following information from or about you,"
+15,12140,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,"Please note that disabling cookies or deleting information contained in cookies or Flash cookies may interfere with the performance and features of the Hulu Services, including not being able to store your preferences or login information.
+"
+16,12141,25,good,You can opt out of targeted advertising,Privacy Policy,"To learn about opting out of interest-based or online behavioral advertising, please see the information we have provided in Section 6 (“Your Controls and Choices, Including Opt-Out Options”).
+</p>"
+17,12142,50,bad,Information is gathered about you through third parties,Privacy Policy,"We may also collect information about you from other sources, including service providers (e.g., data licensors, research and analytics companies, and payment processors), public databases, our marketing partners, and advertisers.
+"
+18,12143,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Policy,"In some instances, we may disclose information from or about you without providing you a choice.
+For example, we may disclose your information in the following ways: to protect the legal rights of Hulu and our affiliates or partners.
+to protect the safety and security of users of the Hulu Services or third parties.
+to enforce our Terms of Use.
+to protect against fraud.
+and to comply with or respond to the law or legal process or a request for cooperation by a government entity, whether or not legally required.
+</p>"
+19,12869,75,bad,"This service may collect, use, and share location data",Privacy Policy,"
+We may share information collected from or about you with such business partners, including email address, Viewing Information, information about the ads you view on Hulu and account or device information (e.g., age, gender, device type, IP address, ZIP code, advertising identifiers)."
+20,12870,50,bad,You waive your right to a class action.,Terms of Use,"YOU AND HULU AGREE TO ARBITRATE IN EACH OF OUR INDIVIDUAL CAPACITIES ONLY, NOT AS A REPRESENTATIVE OR MEMBER OF A CLASS, AND EACH OF US EXPRESSLY WAIVES ANY RIGHT TO FILE A CLASS ACTION OR SEEK RELIEF ON A CLASS BASIS."
+21,24079,70,bad,Third-party cookies are used for advertising,Privacy Policy,"We may also use or work with third parties including our business partners and service providers who use mobile Software Development Kits (“SDKs”) to collect information, such as advertising identifiers (e.g., “ad-ID” or “IDFA”) and information related to how mobile devices interact with the Hulu Services.
+"
+22,24080,45,bad,This service receives your precise location through GPS coordinates,Privacy Policy,"Use of Precise Location Data.
+In order to access certain Hulu Services from your computer or mobile device, you may be required to share your device’s precise location data (e.g., latitude and longitude) with us.
+In addition to providing you with certain Hulu Services, this also enables us to serve you Content related to your local area such as news and sports, depending on your subscription.
+This data may also be used to tailor advertising to you based on your location"
+23,24081,10,neutral,Your personal data is aggregated into statistics,Privacy Policy,"In addition to the individual data use described in this Privacy Policy, we may aggregate information about you and other individuals together, or otherwise “de-identify” the information about you (which means that the information does not directly or indirectly identify you).
+We may use information in these forms for any legitimate business purpose, including for research and analysis, administration of the Hulu Services, advertising (e.g., improving our targeting efforts), and promotional purposes."
+24,24082,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"We work with a number of business partners who help us offer the Hulu Services, including, for example, our content programmers, distributors and device partners, and corporate owners.
+We may share information collected from or about you with such business partners, including email address, Viewing Information, information about the ads you view on Hulu and account or device information (e.g., age, gender, device type, IP address, ZIP code, advertising identifiers).
+"
+25,24083,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,"and IP address, hashed emails, and advertising identifiers with service providers to assist in our advertising and marketing efforts."

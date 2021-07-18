@@ -1,0 +1,3 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,19220,50,neutral,There is a date of the last update of the agreements,Privacy,"last updated on August 8, 2020.</em>"
+1,19221,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy,"However, currently, no universally accepted standard exists for how to interpret ""Do Not Track"" signals, and we do not have the technology to interpret such signals at this time."

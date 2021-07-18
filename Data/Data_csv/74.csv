@@ -1,0 +1,78 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,10294,0,neutral,You agree to comply with the law of the service's country,Firefox Cloud Services: Terms of Service,"<p>These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions."
+1,10297,50,neutral,The copyright license that you grant this service is limited to the parties that make up the service's broader platform.,Firefox Cloud Services: Terms of Service,"By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services."
+2,10300,10,neutral,Instructions are provided on how to submit a copyright claim,Firefox Cloud Services: Terms of Service,See here to report claims of copyright or trademark infringement.
+3,10302,90,good,Features of the website are made available under a free software license,Firefox Cloud Services: Terms of Service,The Services are distributed under and subject to the current version of the Mozilla Public License.</p>
+4,10303,60,bad,Your account can be deleted without prior notice and without a reason,Firefox Cloud Services: Terms of Service,<p>We may suspend or terminate your access to the Services at any time for any reason
+5,10304,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Firefox Cloud Services: Terms of Service,"You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents (""Indemnified Parties"") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services (including, but not limited to, from any content uploaded by you)."
+6,10305,20,neutral,The service is provided 'as is' and to be used at your sole risk,Firefox Cloud Services: Terms of Service,"THE SERVICES ARE PROVIDED ""AS IS"" WITH ALL FAULTS"
+7,10306,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Firefox Cloud Services: Terms of Service,"Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision.
+The updated Terms will be posted online.
+If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums."
+8,10308,50,neutral,There is a date of the last update of the agreements,Firefox Cloud Services: Terms of Service,"To make your review more convenient, we will post an effective date at the top of this page.</p>
+"
+9,10309,0,neutral,The terms for this service are translated into different languages,Firefox Cloud Services: Terms of Service,"In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control"
+10,10310,30,good,You will be notified if personal data has been affected by data breaches,Firefox Cloud Services: Terms of Service,<li>Breach Alerts: This notifies you if your email address appears in a new data breach.</li>
+11,10311,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Firefox Cloud Services: Terms of Service,"It is your responsibility to protect your online accounts using strong and different passwords, security questions, two-factor authentication, password managers, and other safety measures."
+12,11216,50,bad,Many third parties are involved in operating the service,"Websites, Communications & Cookies Privacy Notice","We may also use cookies, device information, and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms.
+We use:</p>
+<ul>
+<li>Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.
+This helps us to improve site content.</li>
+<li>Convert.com and ShareProgress, which place a cookie on your device, to help us test variations of web content.
+This helps us offer better web experiences to users.</li>
+<li>DoubleClick and Flashtalking, each of which uses a clear GIF on our download Firefox page.
+This helps us measure the effectiveness of our advertising campaigns.</li>
+<li>Yahoo Dot Pixel, which uses JavaScript on our download Firefox page.
+This helps us measure the effectiveness of our advertising campaigns.</li>
+<li>HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page.
+"
+13,11217,50,neutral,Blocking first party cookies may limit your ability to use the service,"Websites, Communications & Cookies Privacy Notice","<strong>Cookie History</strong>: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section.
+Note that certain features of our products and services may not function properly without the aid of cookies."
+14,11218,70,bad,Third-party cookies are used for advertising,"Websites, Communications & Cookies Privacy Notice","Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns.
+you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign into your Google Account)"
+15,22892,10,good,You can opt out of promotional communications,Firefox Cloud Services: Terms of Service,<p>You can change your email subscriptions with Mozilla from our emails (click the link at the bottom) or from the browser (visit Firefox / Preferences / Sync / Manage Account / Email Preferences).</p>
+16,22893,10,good,The service has non-exclusive use of your content,Firefox Cloud Services: Terms of Service,"By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services."
+17,22894,15,good,You have the right to leave this service at any time,Firefox Cloud Services: Terms of Service,You can choose to end them at any time for any reason by deleting your Firefox account
+18,22895,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Firefox Cloud Services: Terms of Service,"The updated Terms will be posted online.
+If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums."
+19,22896,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Firefox Cloud Services: Terms of Service,"governed by the laws of the state of California, U.S.A."
+20,22897,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Firefox Cloud Services: Terms of Service,"If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect."
+21,22898,25,good,"This service offers a symbolic but nonbinding statement about a matter of opinion, ethics, society, or politics",Firefox Privacy Notice,"At Mozilla, we believe that privacy is fundamental to a healthy internet."
+22,22899,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Firefox Privacy Notice,"<strong>Location data</strong>: When you first use Firefox, it uses your IP address to set your default search provider based on your country."
+23,22900,30,good,Information is provided about how your personal data is used,Firefox Privacy Notice,"In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less."
+24,22902,10,neutral,Only aggregate data is given to third parties,Firefox Privacy Notice,We also share aggregated data about the sponsored content you see and click
+25,22903,80,good,Logs are deleted after a finite period of time,Firefox Privacy Notice,System logs of your DNS requests are deleted from the service within 24 hours
+26,22905,50,bad,Extra data may be collected about you through promotions,Firefox Privacy Notice,"as well as basic data about your interactions with Firefox’s suggested content.
+This includes the number of times suggested content is displayed or clicked.</p>"
+27,22906,50,good,Your personal data is not shared with third parties,Firefox Privacy Notice,Firefox does not share your IP address or any other information that could be used to identify you with either Amazon or AdMarketplace.
+28,22907,10,neutral,First-party cookies are used,Firefox Privacy Notice,We base the recommendations in about:addons on a cookie.
+29,22908,15,good,Information is provided about security practices,Firefox Privacy Notice,"To help protect you from malicious downloads, Firefox sends basic information about unrecognized downloads to Google's SafeBrowsing Service, including the filename and the URL it was downloaded from."
+30,22909,50,bad,This service tracks which web page referred you to it,Firefox Privacy Notice,"Firefox by default sends Mozilla HTTP data that may be included with Firefox’s installer.
+This enables us to determine the website domain or advertising campaign (if any) that referred you to our download page."
+31,22910,20,good, Pseudonyms are allowed,Firefox Privacy Notice,display name
+32,22911,15,good,Information is provided about security practices,Firefox Privacy Notice,"For security purposes, we store the IP addresses used to access your Firefox Account in order to approximate your city and country.
+We use this data to send you email alerts if we detect suspicious activity, such as account logins from other locations."
+33,22912,40,good,You are informed about the risk of publishing personal info online,"Websites, Communications & Cookies Privacy Notice",Please minimize the personal information you choose to share on these forums because your comments may be accessible to the public.</p>
+34,22913,50,good,"You can request access, correction and/or deletion of your data","Websites, Communications & Cookies Privacy Notice",see here to manage account data
+35,22914,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting","Websites, Communications & Cookies Privacy Notice","We may use cookies, clear GIFs, third party web analytics"
+36,22915,10,bad,Third-party cookies are used for statistics,"Websites, Communications & Cookies Privacy Notice","Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites."
+37,22916,35,good,The service deletes tracking data after a period of time and allows you to opt out,"Websites, Communications & Cookies Privacy Notice","You can control individual cookie preferences, indicate your cookie preferences to others, and opt-out of web analytics and optimization tools."
+38,22917,30,good,Your browser's Do Not Track (DNT) headers are respected,"Websites, Communications & Cookies Privacy Notice","If you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the Metrics section."
+39,22918,20,good,This Service provides a list of Third Parties involved in its operation.,"Websites, Communications & Cookies Privacy Notice",We use:</p>
+40,22919,5,bad,"Third party cookies are employed, but with opt out instructions","Websites, Communications & Cookies Privacy Notice","Follow the instructions below to prevent data collection about your visits to Mozilla websites:</p>
+<ul>"
+41,22920,20,good,The service claims to be GDPR compliant for European users,Mozilla Privacy Policy,"EU, EEA, Switzerland,"
+42,22921,20,good,The service claims to be CCPA compliant for California users,Mozilla Privacy Policy,California
+43,22922,80,good,Your information is only shared with third parties when given specific consent,Mozilla Privacy Policy,"When do we share your information with others?
+<ul>
+<li>When we have asked and received your permission to share it."
+44,22923,20,good,Third parties used by the service are bound by confidentiality obligations,Mozilla Privacy Policy,"For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla."
+45,22924,50,good,The service promises to inform and/or notify you regarding government inquiries that may involve your personal data,Mozilla Privacy Policy,"We follow the law whenever we receive requests about you from a government or related to a lawsuit.
+We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so."
+46,22925,30,good,The service will only respond to government requests that are reasonable,Mozilla Privacy Policy,"When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so."
+47,22926,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Mozilla Privacy Policy,"If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.</li>"
+48,22927,50,good,The data retention period is kept to the minimum necessary for fulfilling its purposes,Mozilla Privacy Policy,"We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for.
+Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer."
+49,22931,30,good,Your feedback is invited regarding changes to the terms.,Mozilla Privacy Policy,"or you have any questions about our privacy policies, please get in touch with:</p>
+<p> Mozilla Corporation<br> Attn: Mozilla - Privacy<br> 2 Harrison St., # 175,<br> San Francisco, CA 94105<br> USA<br> compliance@mozilla.com "

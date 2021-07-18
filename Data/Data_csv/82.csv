@@ -1,0 +1,23 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,20005,20,good,Only temporary session cookies are used,Privacy Policy,Cookies are used for authentication and session data only.
+1,20006,100,good,You are not being tracked,Privacy Policy,There are no ads or tracking scripts.
+2,20007,15,good,Information is provided about security practices,Privacy Policy,"Your password is stored as a bcrypt hash.
+It's an industry standard for storing passwords.
+It means that even in the event that someone did obtain the bcrypt value, it would be very hard to derive your actual password from it."
+3,20008,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"In the future, we may sell to, buy, merge with, or partner with other businesses.
+In such transactions, user information may be among the transferred assets.</p>"
+4,20009,20,good,The service claims to be CCPA compliant for California users,Privacy Policy,"We comply with the California Online Privacy Protection Act.
+We therefore will not distribute your personal information to outside parties without your consent."
+5,20010,15,good,The terms for this service are easy to read,,
+6,20011,30,good,Details are provided about what kind of information they collect,Privacy Policy,"The data that is collected and stored by Feedbin are all the things you would expect that are necessary to run the service.</p>
+<ul>
+<li>
+<strong>Feed data</strong>: Feedbin is an RSS reader, so its primary purpose is to keep track of the things you are subscribed to.
+Feedbin also keeps track of which articles you have and have not read so it can display the read/unread status of articles.
+If you star an article, Feedbin saves that too.
+</li>
+<li>
+<strong>Email address</strong>: When you sign up, Feedbin asks for your email address and password.
+Providing an email address will result in the best experience.
+Things like password resets and email receipts depend on a valid email address.
+However if you would prefer not to provide an email address, then you don't have to."

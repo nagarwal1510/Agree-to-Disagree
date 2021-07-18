@@ -1,0 +1,29 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,9283,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK.
+THE SERVICE IS PROVIDED ON AN ""AS IS"" AND ""AS AVAILABLE"" BASIS."
+1,9284,50,bad,You have a reduced time period to take legal action against the service,Terms of Service,"You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Service or these Terms must be filed within one (1) year after such claim or cause of action arose or be forever barred, unless required otherwise by applicable law."
+2,9286,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Service,"If any provision of these Terms is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of these Terms remain in full force and effect."
+3,11850,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Service,"You agree that any termination of your access to the Service under any provision of these Terms may be effected without prior notice, and acknowledge and agree that Genius may immediately deactivate or delete your account and all related information and files in your account and/or bar any further access to such files or the Service."
+4,11851,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"The Service does not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Service and after you leave our Service."
+5,11852,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,We employ tracking pixels (also known as web beacons) which are used to anonymously track the online usage patterns of our Users.
+6,11853,10,bad,Third-party cookies are used for statistics,Privacy Policy,"We collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service."
+7,11854,70,bad,Third-party cookies are used for advertising,Privacy Policy,"Online Behavioral Advertising:</strong> Some of our advertising (“Behavioral Advertising”) involves using tracking tools such as cookies, pixel tags, and web beacons, to collect information about a user’s online activities (over time and across non-affiliated websites and applications) and providing ads to the user based the user’s interests (as inferred from the user’s online activity) or use of our Service.
+"
+8,11855,10,good,You can opt out of promotional communications,Privacy Policy," If you do not want to receive promotional emails from us, you can click the “unsubscribe” button on the promotional email communications or email us at privacy@genius.com with the subject “Marketing Opt-Out”."
+9,11856,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Terms of Service,"We reserve the right, in our sole discretion, to change or modify portions of these Terms at any time.
+If we modify these Terms, we will post a notice at the top of our Service for a period of seven (7) days.
+"
+10,20954,50,neutral,There is a date of the last update of the agreements,Terms of Service,"<b>Last Updated: June 24, 2020"
+11,20955,15,neutral,This service is only available to users over a certain age,Terms of Service,"By using the Service, you represent and warrant that you are 13 years of age or older.</p>
+"
+12,20956,50,good,No need to register,Terms of Service,"Registration may not be required to view content on the Service, but even unregistered Users are bound by these Terms."
+13,20957,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"You are responsible for maintaining the confidentiality of your password and account, if any, and are fully responsible for any and all activities that occur under your password or account."
+14,20958,10,neutral,You must report to the service any unauthorized use of your account or any breach of security,Terms of Service,"You agree to (a) immediately notify Genius of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session when accessing the Service."
+15,20959,30,good,Details are provided about what kind of information they collect,Privacy Policy,<strong>What Personal Data Do We Collect From You?</strong>
+16,20960,50,bad,Information is gathered about you through third parties,Privacy Policy,We also receive information about you from some of our service providers
+17,20961,50,bad,This service tracks which web page referred you to it,Privacy Policy,"eferring/exit pages and URLs,"
+18,20962,50,bad,Extra data may be collected about you through promotions,Privacy Policy,"If you take part in any interactive features of the Service (such as any contests, games, promotions, quizzes, surveys, research or other services or features), you may provide us with additional types of Personal Data.
+"
+19,20963,5,bad,Tracking pixels are used in service-to-user communication,Privacy Policy,"In addition, we also use tracking pixels in some HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients.
+"
+20,20964,50,bad, You are being tracked via social media cookies/pixels,Privacy Policy,"Some parts of our Service may include social media features, such as the Facebook “like” button, and widgets"

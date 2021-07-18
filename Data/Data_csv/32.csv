@@ -1,0 +1,63 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,6224,0,neutral,Separate policies are employed for different parts of the service,Privacy policy,"Read this document to understand how the Brave Browser uses data.</p>
+<p>To learn how we use data to operate our websites, forums, and communications, visit the Website Privacy Policy.
+To learn how we use data for publishers and creators visit the Publisher Privacy Policy on the Basic Attention Token website"
+1,6226,50,good,"You can request access, correction and/or deletion of your data",Privacy policy,"</p>
+<p>You can ask to know what information we have about you, update incorrect information, delete it, object to our use of it, or get a copy of it."
+2,6229,10,neutral,The service informs you that its privacy policy does not apply to third party websites,"Brave websites, forums and email privacy policy","Brave runs these forums, and they are hosted on its behalf by Civilized Discourse Construction Kit.
+Their privacy policy describes how they use your data to host the forum for us.
+"
+3,9513,30,good,Information is provided about how your personal data is used,Brave Rewards Advertiser Privacy Policy,">When you establish an advertiser account with us, we will ask you for the information we need to validate your identity and to bill you for advertising services.
+"
+4,9514,30,good,Details are provided about what kind of information they collect,Brave Rewards Advertiser Privacy Policy,"This always includes:</p>
+<ul>
+<li>your name, email address, and phone number;</li>
+<li>your business’s name and mailing address;</li>
+<li>the domain name(s) to which your ads will direct people who see them.
+and</li>
+<li>billing information needed to process payment."
+5,12401,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of policy document,The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder.
+6,14677,0,neutral,Third parties are involved in operating the service,Privacy policy,"<p>If you switch on Brave Rewards you are assigned a “wallet” identifier by Uphold, our payments partner.
+We record this identifier on servers operated by Amazon and Heroku (a Salesforce company) in the United States."
+7,14678,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy policy,<p>Each time Brave sends users a monthly gift of BAT it makes a record of their IP addresses that can be analysed to safeguard against fraud.
+8,14679,10,neutral,Your personal data is aggregated into statistics,Privacy policy,"<p>Even with Brave Rewards enabled, we never collect your browsing history or similar information, and we can’t derive this information from your contributions to content creators and sites.
+Instead, we aggregate contributions among all Brave users, and we cannot trace contributions to individual users, or link any of your contributions together.</p>"
+9,14680,30,bad,Your personal data is used for advertising,Privacy policy,"If you switch on Brave Rewards and switch on ads (in Rewards settings) you will receive notifications promoting ads, and BAT to reward you for viewing those ads.
+While the ads you see are based on interests inferred from your browsing, Brave Ads is private and anonymous."
+10,14707,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of policy document,"You shall defend, indemnify, and hold harmless Brave, its affiliates and each of its, and its affiliates employees, contractors, directors, suppliers and representatives from all liabilities, losses, claims, and expenses, including reasonable attorneys’ fees, that arise from or relate to (i) your use or misuse of, or access to, the Service, or (ii) your violation of the Terms of Use or any applicable law, contract, policy, regulation or other obligation."
+11,14708,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of policy document,"ALL USE OF THE SERVICE AND ANY CONTENT IS UNDERTAKEN ENTIRELY AT YOUR OWN RISK.
+THE SERVICE (INCLUDING, WITHOUT LIMITATION, THE BRAVE BROWSER AND ANY CONTENT) IS PROVIDED “AS IS” AND “AS AVAILABLE” "
+12,14709,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of policy document,"WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED.
+"
+13,14710,35,bad,"Defend, indemnify, hold harmless; survives termination",Terms of policy document,"Upon any termination, all rights and licenses granted to you in this Agreement shall immediately terminate, but all provisions hereof which by their nature should survive termination shall survive termination, including, without limitation, warranty disclaimers, indemnity and limitations of liability.</p> "
+14,14711,10,neutral,You agree not to use the service for illegal purposes,Terms of policy document,"By way of example, and not as a limitation, you shall not (and shall not permit any third party to) take any action (including contributing any Content) that: would constitute a violation of any applicable law, rule or regulation.
+"
+15,14712,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of policy document,"is threatening, abusive, harassing, defamatory, libelous,"
+16,14713,15,neutral,The posting of pornographic content is prohibited,Terms of policy document,"tortious, obscene, offensive, or profane.
+"
+17,14714,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms of policy document,"constitutes unauthorized or unsolicited advertising, junk or bulk e-mail."
+18,14715,40,neutral,They may stop providing the service at any time,Terms of policy document,"Brave reserves the right, at its sole discretion, to modify or replace any of the Terms of Use, or change, suspend, or discontinue the Service (including without limitation, the availability of any feature, database, or content) at any time by posting a notice on the Brave websites or Service or by sending you an email."
+19,14716,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of policy document," (III) FOR ANY DIRECT DAMAGES IN EXCESS (IN THE AGGREGATE) OF THE FEES PAID BY YOU FOR THE SERVICE OR, IF GREATER, $500.
+"
+20,14717,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of policy document,"<p>IN NO EVENT SHALL BRAVE OR ITS DIRECTORS, EMPLOYEES, AGENTS, PARTNERS, SUPPLIERS OR CONTENT PROVIDERS, BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE THEORY WITH RESPECT TO THE SERVICE (I) FOR ANY LOST PROFITS, DATA LOSS, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER, OR SUBSTITUTE GOODS OR SERVICES,"
+21,14718,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of policy document,"If any provision of the Terms of Use is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that the Terms of Use will otherwise remain in full force and effect and enforceable."
+22,14719,50,good,IP addresses of website visitors are not tracked,Privacy policy,"Your IP address will not be stored by Brave, but it may be stored by the website you have visited.
+"
+23,14720,50,bad,The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.,Privacy policy,"These services are operated in the United States, and are certified under the EU-US Privacy Shield agreement, which provides safeguards intended to be equivalent to those provided in the EU.</p>"
+24,14721,50,good,The cookies used by this service do not contain information that would personally identify you,Privacy policy,"No data that identifies you or that can be linked to you as an individual leaves the Brave browser on your device.
+"
+25,14813,30,good,A complaint mechanism is provided for the handling of personal data,Privacy policy,You can contact our data protection officer and the rest of our privacy team at privacy@brave.com.
+26,14814,30,bad,Your use is throttled,Terms of policy document,Brave may also impose limits on certain features and services or restrict your access to parts or all of the Service without notice or liability.
+27,14815,50,bad,"Instead of asking directly, this Service will assume your consent merely from your usage.",Terms of policy document,"It is your responsibility to check the Terms of Use periodically for changes.
+Your continued use of the Service following the posting of any changes to the Terms of Use constitutes acceptance of those changes.</p>"
+28,14816,15,neutral,Your account can be suspended for several reasons,Terms of policy document,"Brave may terminate your access to all or any part of the Service at any time if you fail to comply with these Terms of Use, which may result in the forfeiture and destruction of all information associated with your account.
+Further, either party may terminate the Services for any reason and at any time upon written notice."
+29,14817,15,good,You have the right to leave this service at any time,Terms of policy document,"If you wish to terminate your account, you may do so by following the instructions on the Service."
+30,14818,10,neutral,You cannot distribute or disclose your account to third parties,Terms of policy document,"The Terms of Use are personal to you, and are not assignable or transferable by you except with Brave’s prior written consent."
+31,14819,10,neutral,Instructions are provided on how to submit a copyright claim,Terms of policy document,"If you believe in good faith that any Content made available in connection with the Service infringes your copyright, you (or your agent) may send us a notice requesting that the Content be removed, or access to it blocked as set forth below (see https://www.copyright.gov/&nbsp;for further details)."
+32,14820,15,neutral,"If you are the target of a copyright claim, your content may be removed",Terms of policy document,"It is Brave’s policy to (1) block access to or remove material that it believes in good faith to be copyrighted material that has been illegally copied and distributed by any of our advertisers, affiliates, content providers, members or users.
+and (2) remove and discontinue service to repeat offenders."
+33,14821,50,neutral,There is a date of the last update of the agreements,Terms of policy document,"Terms of Use Effective Date:</strong>
+<br>
+July 14, 2020"
+34,14822,10,good,A free help desk is provided,Terms of policy document,"For support, please visit community.brave.com."

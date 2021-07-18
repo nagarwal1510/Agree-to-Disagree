@@ -1,0 +1,41 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,6502,70,bad," Terms may be changed any time at their discretion, without notice to you ",Privacy Policy,"<p>DiscourseHosting.com has the discretion to update this privacy policy at any time.
+When we do, we will revise the updated date at the bottom of this page.
+We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.
+You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications."
+1,6503,40,good,"When the service wants to make a material change to its terms, you are notified at least 30 days in advance",Terms of Service,"Changes to the TOS
+<p>DiscourseHosting reserves the right to amend any or all of the above policies, guidelines and disclaimer upon thirty (30) days prior written notice to you."
+2,6504,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service,"Customer agrees that it shall defend, indemnify, save and hold DiscourseHosting harmless from any and all demands, liabilities, losses, costs and claims, including reasonable attorney’s fees asserted against DiscourseHosting, its agents, its customers, officers and employees, that may arise or result from any service provided or performed or agreed to be performed or any product sold by customer, its agents, employees or assigns."
+3,6505,10,good,Accessibility to this service is guaranteed at 99% or more,Terms of Service,"We offer an uptime guarantee of 99.9%.
+Any downtime over 0.1% will be refunded with a prorated fee based on actual downtime per month.
+Our network and servers are monitored continuously, and are rarely down except for scheduled maintenance and hardware and software upgrades"
+4,6507,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"DiscourseHosting shall not be responsible for any claimed damages, including incidental and consequential damages, which may arise from DiscourseHosting’ servers going off-line or being unavailable for any reason whatsoever."
+5,6508,0,neutral,Third parties are involved in operating the service,Terms of Service,"Certain services provided by DiscourseHosting are resold.
+Thus, certain equipment, routing, software and programming used by DiscourseHosting are not directly owned or written by DiscourseHosting.</p>
+"
+6,6510,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,"User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent.
+If they do so, note that some parts of the Site may not function properly."
+7,6511,25,good,Your personal data is not sold,Privacy Policy,"We do not sell, trade, or rent Users personal identification information to others."
+8,6513,10,neutral,Only aggregate data is given to third parties,Privacy Policy,"
+We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above."
+9,6516,10,neutral,Your personal data is aggregated into statistics,Privacy Policy,We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+10,6517,0,neutral,The service is not transparent regarding government requests or inquiries that may involve your data. ,,
+11,16282,15,good,Information is provided about security practices,Privacy Policy,"We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
+<p>Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+"
+12,16283,30,good,A complaint mechanism is provided for the handling of personal data,Privacy Policy,"<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at our contact page.</p>
+"
+13,16284,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Service,"<p>By selecting a subscription plan you agree to pay DiscourseHosting the monthly or annual subscription fees for the service and additional usage fees indicated for that subscription plan.
+Payments will be charged on the subscription start date and will cover the use of the service for a monthly or annual period as indicated.
+"
+14,16285,50,neutral,The service has a no refund policy,Terms of Service,"Subscription fees are not refundable and are paid in advance of using such services.
+"
+15,16286,15,good,You have the right to leave this service at any time,Terms of Service,"The subscription can be canceled at any time in the Payments section of your site’s dashboard.</p>
+"
+16,16287,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"<p>If you create an account on DiscourseHosting, you are responsible for maintaining the security of your account and forum, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the forum."
+17,16288,60,good,You can access most of the pages on the service's website without revealing any personal information,Privacy Policy,"
+Users may, however, visit our Site anonymously.
+"
+18,16289,30,good,Information is provided about how your personal data is used,Privacy Policy,How we use collected information
+19,16290,60,good,Your personal data is used for limited purposes,Privacy Policy,">DiscourseHosting.com may collect and use Users personal information for the following purposes:</p>
+<"

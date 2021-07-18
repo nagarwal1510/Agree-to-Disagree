@@ -1,0 +1,112 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,8281,50,good,User accounts can be terminated after having been in breach of the terms of service repeatedly,Copyright Notification,"Dailymotion reserves the right also to terminate a User's account, if they are determined to be a repeat infringer"
+1,8282,50,neutral,There is a date of the last update of the agreements,Terms of Use,Last Updated: May 23rd 2018
+2,8283,0,neutral,The court of law governing the terms is in location X,Terms of Use,"If you reside in a country that is not part of the European Economic Area, You agree that any dispute between You and Dailymotion arising out of or relating in any way to these Terms or Your use of the Dailymotion Service shall be interpreted in accordance with the New York laws, without reference to its conflicts of laws, and notwithstanding multiple defendants or third party claims.
+You also agree that any claim or dispute between You and Dailymotion shall be decided by a court of competent jurisdiction located in the New York county"
+3,8286,50,neutral,The service is not responsible for linked or (clearly) quoted content from third-party content providers,Terms of Use,"The Dailymotion Service may contain links to websites operated by other entities (a ""<b>Linked Site</b>"").
+If You decide to visit any Linked Site, You do so at Your own risk and it is Your responsibility to take all protective measures to guard against viruses or other destructive elements.Dailymotion has no responsibility to You with respect to any Linked Site, and no Linked Site, regardless of the linking form (e.g.
+hotlinks, hypertext links, IMG links) is maintained, controlled, endorsed, monitored or otherwise governed by Dailymotion"
+4,8290,35,good,The service deletes tracking data after a period of time and allows you to opt out,Cookie Policy,"Others have a longer duration, although this never exceeds 13 months in accordance with current regulations"
+5,8291,50,neutral,Blocking first party cookies may limit your ability to use the service,Cookie Policy,"NOTICE</u>: We remind you that refusing cookies is likely to modify the terms of your access to our Site as well as its use (viewing our videos, saving identifying information, receiving personalized recommendations, etc.).
+"
+6,8293,10,neutral,First-party cookies are used,Cookie Policy,Internal cookies</b> are saved directly by DAILYMOTION (also called first-party cookies);</
+7,8294,5,bad,"Third party cookies are employed, but with opt out instructions",Cookie Policy,">
+<li>
+<b>Third-party cookies</b> are saved by companies of the Vivendi group or by DAILYMOTION partners, which are usually advertising partners</li>
+</ol>
+<br>
+<p>Cookies may consist of «&nbsp;session&nbsp;» cookies that only last for as long as the site is being visited, or may consist of cookies of a longer duration, which allow information from one visit to be memorized until the next.</p>
+<p>You can configure cookies settings yourself by accessing the cookie settings page available at all times on the Site"
+8,8296,40,good, A list of all cookies set by the website is provided,Cookie Policy,You may find here an exhaustive listing of all the cookies likely to be saved on your device
+9,8298,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Terms of Use,"Dailymotion may, in its sole discretion, modify these Terms from time to time, and You agree to be bound by such modifications.
+Although we may attempt to notify You when major changes are made to these Terms, You should periodically review the most up-to-date version which shall always be accessible from the homepage of the Dailymotion website"
+10,8299,15,neutral,This service is only available to users over a certain age,Terms of Use,"You shall not use the Dailymotion Service if (a) You are not of legal age to form a binding contract with Dailymotion, "
+11,8300,50,good,You maintain ownership of your content,Terms of Use,"Despite this allowance, Your Content shall always remain Your property"
+12,8301,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Use,"Please note that due to the nature of the Internet and digital media, data transmitted – including Your Content – cannot be protected against risks of misappropriation and/or piracy, for which Dailymotion shall not be liable.
+You are responsible for taking all appropriate steps to protect Your data, where applicable"
+13,8305,50,neutral,Your content can be deleted if you violate the terms,Terms of Use,"Dailymotion reserves the right to decide in its sole discretion whether Your Content, Your Dailymotion Account and/or Your use of the Dailymotion Service violates these Terms for any reasons other than copyright infringement, such as, but not limited to, pornography, obscenity, or excessive length.
+Failure to comply with these Terms may result in (i) Your Content being removed and/or "
+14,8307,20,bad,Usernames can be rejected or changed for any reason,Terms of Use,"i.e.
+allegedly infringing username, metadata considered inappropriate, etc.) from the Dailymotion Service, without prior notice"
+15,8308,10,neutral,only for your individual use,Terms of Use,"<p>6.9.
+You agree not to access content hosted on the Dailymotion Service for any reason other than your personal, non-commercial use solely as intended through and permitted by the normal functionality of the Dailymotion Service, and solely for Streaming purposes"
+16,9852,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"<p>In addition to cookies, we may use other similar technologies such as web beacons or pixel tags, which can be embedded in web pages, videos, or emails."
+17,17868,10,bad,Third-party cookies are used for statistics,Cookie Policy,"DAILYMOTION uses audience measurement cookies (including Google Analytics) to obtain anonymous visitor statistics for its Site, which are then used to optimize it by analyzing the browsing activity of users and detecting any potential malfunctions.</li>
+<li>"
+18,17869,60,bad,This service tracks you on other websites,Cookie Policy,"They allow for a determination of your areas of interest based on the pages you visit on our Site, and for personalization of the ads we show you on other sites from the Vivendi group, such as Canal+, Universal, Digitick, Wengo, Seetickets, Radionomy, MyBestPro, etc."
+19,17870,70,bad,Third-party cookies are used for advertising,Cookie Policy,"Third-party advertising cookies: these cookies are saved via third-party content distributed in our advertising spaces</i>
+<br>
+<p>Advertising cookies are saved by non-affiliated companies (like advertisers, advertising agencies, communications consulting agencies, audience measurement companies, providers of targeted advertising, etc.) through the advertising spaces on our Site.
+the operation of these spaces helps pay for the content and services that we provide to you free of charge.</p>
+<p>First and foremost, these cookies allow us to record the total number of ads viewed in our advertising spaces, to identify these ads, their number of respective views, the number of users who have clicked on each ad, and where applicable, the actions then taken by these users on the sites where these ads take them, all in order to calculate amounts owed to members of the advertising distribution chain (communications agency, advertising agency, distribution site/media) and to establish statistics.</p>
+"
+20,17871,50,bad, You are being tracked via social media cookies/pixels,Cookie Policy,"ocial network cookies (Facebook, Google+, Twitter, Pinterest, etc.)&nbsp;generated by share buttons</i>
+<br>
+<p>We are likely to include computer applications originating with third parties on our Site.
+These applications allow you to share content from our Site with third parties.
+These include ""Share"" and ""Like"" buttons from social networks like Facebook, Twitter, Pinterest or Google+.</p>
+<p>Social networks providing a share button will likely identify you using this function, even if you have not used this button during your visit.
+"
+21,17872,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Cookie Policy,"Finally, you may configure the browser on your device to send a code informing websites that you do not wish to be tracked.
+This option is often called “Do Not Track” and can be accessed at the following links for the main browsers listed below:</p>
+<ul>
+<li>Internet Explorer ™</li>
+<li>Safari ™</li>
+<li>Chrome ™</li>
+<li>Firefox ™</li>
+<li>Opera ™</li>
+<li>Microsoft Edge ™</li>
+</ul>
+<p>However, we draw your attention to the fact that we cannot guarantee that this choice will always be acted on by independent non-affiliated companies.
+Therefore, on its own, this option does not represent a solution for refusing all cookies.</p>
+"
+22,17873,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,Your Personal Data may also be processed by our Commercial Partners (or by their respective Data Processors) for purposes that each of them defines independently.
+23,17874,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,"Transfer of Data</u>
+<p>The Data collected by us through our Service may be sent to and stored on servers located in the United States, France, and other countries around the world.</p>"
+24,17875,80,bad,You must provide your identifiable information,Privacy Policy,"For instance, when you register to use the Dailymotion Service, we may collect your name, email address, birth date, gender, and other similar information."
+25,17876,50,bad,Extra data may be collected about you through promotions,Privacy Policy,"In addition, Dailymotion may collect information you provide to us when you respond to surveys, set your preferences on the Dailymotion Service, directly contact Dailymotion through the Dailymotion Help Center or by other means, or agree to participate in promotions that Dailymotion may offer from time to time."
+26,17877,50,bad,Information is gathered about you through third parties,Privacy Policy,"We may also collect information you have authorized the third-party service to share with us (such as, for example, your user ID, billing information, public profile information, email address, birthday, and profile data).</p>
+"
+27,17878,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,"</li>
+<li>
+<b>- Mobile Device Identifiers and Software Development Kits (""SDKs"")</b>
+<p>We may use or work with third parties, including our Commercial Partners and service providers, who use mobile SDKs to collect information such as advertising identifiers (e.g., ""ad-ID"" or ""IDFA"") and information related to how mobile devices interact with the Dailymotion Service.
+An SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected and related services and functionality to be implemented (a mobile SDK is a mobile app version of a pixel tag or beacon, described above).
+For instance, we may use this technology to analyze how you interact with Content and advertisements and to enable analytics or other features through mobile devices.</p>"
+28,17879,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"
+We may use your Data to send you marketing communications, communicate with you about the Dailymotion Service and update you about our policies and terms."
+29,17880,30,bad,Your personal data is used for advertising,Privacy Policy,"Dailymotion offers its users the opportunity to watch numerous videos without charging any fee in return.
+Such free of charge service can only be possible thanks to the presence of advertisements.
+We may use Data we have, including information received from our Commercial Partners, to evaluate and improve our advertising and analytics systems so that the ads shown to you on and off our Services are customized and of real interest to you.
+"
+30,17881,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,"
+Your Data may be shared with our Commercial Partners to inform them about your decision whether or not to allow processing of your Personal Data and, if you agreed, to allow them to estimate whether the products or service for which they run advertising campaigns may be of interest to you.
+"
+31,17882,75,bad,"This service may collect, use, and share location data",Privacy Policy,"We may collect your device’s location data (limited to the city level only).
+This information not only allows us to serve you Content related to your local area, such as local news and sports videos, but enables us to ensure the respect of Content geo-restrictions imposed by the Content right holders."
+32,17883,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"Depending on your country of residence, you may be entitled to access, correct and/or delete the Data you have provided to us, by requesting to do so through the setting of your account, or by reaching out to the Dailymotion Help Center via the dedicated section."
+33,17884,30,good,The service reviews its privacy policy on a regular basis,Privacy Policy,"We may do so as needed, but in any event, the Privacy Policy will be updated at least once every 12 months."
+34,17885,40,bad,"The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",Privacy Policy,We may also continue to use some of the Data in anonymized or pseudonymized forms for various operational and analytical purposes.
+35,17886,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Policy,"If you delete your account, we will still retain some information from or about you when we are required to do so under the applicable law or contracts we are party to."
+36,17887,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Use,"You acknowledge and agree that the Dailymotion Service, in whole or in part (including, without limitation, the look and feel, the thematic channels, the functionality, and/or the Dailymotion video player), on and through which Your Content will be distributed is provided “AS IS” without warranty"
+37,17888,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Use,"The DM Parties make no warranty or representation that the Dailymotion Service or its functionalities or technology, in whole or in part, will be uninterrupted, error-free or secure, including with respect to the delivery of Your content and/or any limitations on Your or any other Visitors ability to access, view or use Your Content or any other content, or that any information obtained from the Dailymotion Service will be accurate or reliable.</p>"
+38,17889,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Use,"The DM Parties also disclaim all warranties, take no responsibility and assume no liability for the content present on the Dailymotion Service, including but not limited to any mistakes, defamation, libel, slander, omissions, falsehoods, obscenity, pornography or profanity You may encounter on the Dailymotion Service."
+39,17890,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Use,"Subject to this overall provision above, Dailymotion shall not be liable for: (a) any indirect or consequential losses which may be incurred by You.
+This shall include.
+(i) any loss of profit (whether incurred directly or indirectly).
+(ii) any loss of goodwill or business reputation.
+(iii) any loss of opportunity.
+or (iv) any loss of data suffered.
+(b) any loss or damage which may be incurred as a result of: (i) any reliance placed by You on the completeness, accuracy or existence of any advertising, or as a result of any relationship or transaction between You and any advertiser or sponsor whose advertising appears on the Dailymotion Service.
+"
+40,17891,40,neutral,They may stop providing the service at any time,Terms of Use,"(ii) any changes which Dailymotion may make to the Dailymotion Service, or for any permanent or temporary cessation in the provision of the Dailymotion Service (or any of its features)."
+41,17892,40,bad,You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.,Terms of Use,"You agree and shall indemnify and hold Dailymotion- harmless from and against any liability, loss, damages (including punitive damages), claim, settlement payment, cost and expense, interest, award, judgment, diminution in value, fine, fee (including reasonable attorneys’ fees), and penalty, or other charge (including reasonable attorneys’ fees and all other cost of investigating, defending or asserting any claim for indemnification under these Terms) arising from or relating to (i) Your Content, (ii) Your violation of the Terms or any other policy of Dailymotion.
+(iii) Your use of the Dailymotion Service.
+and (iv) Your violation of any third party rights, including without limitation any copyright, property, publicity or privacy rights.</p>
+<p>"
+42,17893,35,bad,"Defend, indemnify, hold harmless; survives termination",Terms of Use,"
+Any obligations which expressly or by their nature are to continue after termination, cancellation, or expiration of the Terms shall survive and remain in effect after such happening.</p>"
+43,17894,50,good,You aren’t forced into binding arbitration in case of disputes,Privacy Policy,"You also agree that any claim or dispute between you and Dailymotion shall be decided by a court of competent jurisdiction located in Paris.</p>
+<p>
+<b>If you reside in a country that is not part of the European Economic Area</b>: you agree that any dispute between you and Dailymotion arising out of or relating in any way to this Privacy Policy or our collection, processing and/or use of your Data shall be interpreted in accordance with the laws of the State of New York, without reference to its conflicts of laws, and notwithstanding multiple defendants or third party claims.
+"

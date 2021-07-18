@@ -1,0 +1,80 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,21002,50,neutral,There is a date of the last update of the agreements,Domain Name Registration Agreement,Last Revised: 10/21/2020
+1,21003,70,bad," Terms may be changed any time at their discretion, without notice to you ",Domain Name Registration Agreement,"You acknowledge and agree that (i) GoDaddy, in its sole and absolute discretion, may change or modify this Agreement, and any policies or agreements which are incorporated herein, at any time, and such changes or modifications shall be effective immediately upon posting to this Site, and (ii) your use of this Site or the Services found at this Site after such changes or modifications have been made shall constitute your acceptance of this Agreement as last revised.
+If you do not agree to be bound by this Agreement as last revised, do not use (or continue to use) this Site or the Services found at this Site.
+In addition, GoDaddy may occasionally notify you of changes or modifications to this Agreement by email."
+2,21004,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Domain Name Registration Agreement,"You agree to indemnify, defend and hold harmless (within 30 days of demand) the Registry Operator and Registry Service Provider and their subcontractors, subsidiaries, affiliates, divisions, shareholders, directors, officers, employees, accountants, attorneys, insurers, agents, predecessors, successors and assigns, from and against any and all claims, demands, damages, losses, costs, expenses, causes of action or other liabilities of any kind, whether known or unknown, including reasonable legal and attorney’s fees and expenses, in any way arising out of, relating to, or otherwise in connection with the your domain name registration, including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration."
+3,21005,35,bad,"Defend, indemnify, hold harmless; survives termination",Domain Name Registration Agreement,ou agree that these indemnification obligations shall survive the termination or expiration of the Agreement for any reason.
+4,21006,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Domain Name Registration Agreement,"IN NO EVENT SHALL THE REGISTRY OPERATOR BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY OR PUNITIVE DAMAGES"
+5,21008,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Domain Name Registration Agreement,"hen you register a domain name, you will have the following renewal options: </p>
+<ol>
+<li>
+<p>
+<strong>Automatic Renewal.</strong> Automatic Renewal is the default setting.
+Domain names will automatically renew, for a period equivalent to the length of your original domain name registration, and payment will be taken from the Payment Method you have on file with GoDaddy, at GoDaddy's then current rates.
+Thus, if you have chosen to register your domain name for one (1) year, GoDaddy will automatically renew it for one (1) year."
+6,21009,80,bad,You must provide your identifiable information,Domain Name Registration Agreement,"<p>You agree that for each domain name registered by you, the following contact data is required: postal address, email address, telephone number, and if available, a facsimile number for the Registered Name Holder and, if different from the Registered Name Holder, the same contact information for, a technical contact, an administrative contact and a billing contact.<br>
+<br>"
+7,21010,50,bad,You are forced into binding arbitration in case of disputes,Universal Terms Of Service,"You and GoDaddy further agree: (i) to arbitrate all Disputes between the parties pursuant to the provisions in these Terms.
+"
+8,21011,60,bad,Your account can be deleted without prior notice and without a reason,Domain Name Registration Agreement,"You acknowledge and agree that GoDaddy and registry reserve the right to deny, cancel or transfer any registration or transaction, or place any domain name(s) on lock, hold or similar status, as either deems necessary, in the unlimited and sole discretion of either GoDaddy or the registry"
+9,21012,50,neutral,The service has a no refund policy,Domain Name Registration Agreement,All membership fees are non-refundable.</p>
+10,21013,15,good,You have the right to leave this service at any time,Domain Name Registration Agreement,"While You can elect to deactivate the Service at any time, you also acknowledge and agree that the Service is subject to our Refund Policy, and that you may not be entitled to a refund"
+11,21014,20,neutral,The service is provided 'as is' and to be used at your sole risk,Domain Name Registration Agreement,The service is provided “as is”
+12,21015,10,good,Accessibility to this service is guaranteed at 99% or more,Domain Name Registration Agreement,"<p>Subject to the provisions of Force Majeure below, we offer a service uptime guarantee (“<u>Service Uptime Guarantee</u>”) for paid services of 99.999% availability (defined below)"
+13,21016,30,good,Details are provided about what kind of information they collect,Privacy Policy,What information we collect
+14,21017,50,bad,Extra data may be collected about you through promotions,Privacy Policy,"or</li>
+<li>participate in contests and surveys, apply for a job, or otherwise participate in activities we promote that might require information about you.</li>
+"
+15,21018,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"Internet Protocol (IP) address,"
+16,21019,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"information about devices accessing the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers and error data is collected."
+17,21020,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"We may share your personal information with affiliated companies within our corporate family, with third parties with which we have partnered to allow you to integrate their services into our own Services, and with trusted third party service providers as necessary for them to perform services on our behalf"
+18,21021,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,"such as:</p>
+<ul>
+<li>Processing credit card payments</li>
+<li>Serving advertisements</li>
+<li>Conducting contests or surveys</li>
+<li>Performing analysis of our Services and customers demographics</li>"
+19,21022,70,bad,Third-party cookies are used for advertising,Cookie Policy,"Advertising technology may include first or third-party cookies, web beacons/pixels, and scripts placed in order to gather information on the effectiveness of our marketing efforts, deliver personalized content"
+20,21023,60,bad,This service tracks you on other websites,Cookie Policy,"or to generate data that allows for the delivery of advertising relevant to your specific interests on our sites, as well as third-party websites."
+21,21024,10,bad,Third-party cookies are used for statistics,Cookie Policy,"
+<strong>Performance:</strong> Performance technologies may include first or third-party cookies, web beacons/pixels, and scripts placed in order to gather information about how you use our website (pages you visit, if you experience any errors, load times).
+These cookies do not collect any information that could identify you and are only used to help us improve how our website works, understand the interests of our users, and measure how effective our content is by providing anonymous statistics and data regarding how our website is used."
+22,21025,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Cookie Policy,we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser.</em>
+23,21026,30,bad,Your personal data is used for advertising,Privacy Policy,"If you wish to opt out of interest-based advertising click here [or if located in the European Union click here].
+"
+24,21027,25,good,You can opt out of targeted advertising,,
+25,21028,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"We will also disclose your information to third parties:</p>
+<ul>
+<li>in the event that we sell or buy any business or assets (whether a result of liquidation, bankruptcy or otherwise), "
+26,21029,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"We may also contact you with offers for additional services we think you’ll find valuable if you give us consent, or where allowed based upon legitimate interests.
+You don’t need to provide consent as a condition to purchase our goods or services.
+These contacts may include:</p>
+<ul>
+<li>Email</li>
+<li>Text (SMS) messages</li>
+<li>Telephone calls</li>
+<li>Messenger applications (e.g.
+WhatsApp, etc.)</li>
+<li>Automated phone calls or text messages.</li>
+</ul>
+<p>"
+27,21030,10,good,You can opt out of promotional communications,Privacy Policy,"You may also update your subscription preferences with respect to receiving communications from us and/or our partners by signing into your account and visiting “Account Settings” page.</p>
+"
+28,21031,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy Policy,"We are not responsible for the privacy practices or the content of third-party sites.
+Please read the privacy policy of any website you visit.</p>"
+29,21032,50,good,The service promises to inform and/or notify you regarding government inquiries that may involve your personal data,Privacy Policy,"To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process."
+30,21033,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Policy,"
+<p>We retain personal information only for as long as necessary to provide the Services you have requested and thereafter for a variety of legitimate legal or business purposes.
+These might include retention periods:</p>
+<ul>
+<li>mandated by law, contract or similar obligations applicable to our business operations;</li>
+<li>"
+31,21034,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"To easily access, view, update, delete or port your personal information, or to update your subscription preferences, please sign into your Account and visit “Account Settings.”"
+32,21035,30,good,A complaint mechanism is provided for the handling of personal data,Privacy Policy,"If you have any questions, concerns, or complaints about our Privacy Policy, or how we handle your personal data, you may contact our Office of the Data Protection Officer by email at privacy@godaddy.com."
+33,21036,15,neutral,This service is only available to users over a certain age,Privacy Policy,"Our Services are not targeted to, intended to be consumed by or designed to entice individuals under the age of 18."
+34,21081,20,bad, The service is only available in some countries approved by its government,Universal Terms Of Service,"None of the Services found at this Site may be downloaded or otherwise exported or re-exported (i) into (or to a national or resident of) any country with which the United States has embargoed trade.
+or (ii) to anyone on the U.S.
+Treasury Department's list of Specially Designated Nationals or the U.S.
+Commerce Department's Denied Persons List, or any other denied parties lists under U.S.
+Export Laws."

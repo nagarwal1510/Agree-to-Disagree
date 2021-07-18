@@ -1,0 +1,143 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,856,50,neutral,There is a date of the last update of the agreements,Privacy Policy,We always indicate the date the last changes were published
+1,950,50,good,Archives of their agreements are provided so that changes can be viewed over time,,
+2,1141,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"When you’re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you’re using."
+3,2142,10,neutral,You agree not to use the service for illegal purposes,Privacy Policy,"When we detect spam, malware, illegal content, and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action."
+4,5841,75,bad,"This service may collect, use, and share location data",Privacy Policy,"We collect information about your location when you use our services, which helps us offer features like driving directions for your weekend getaway or showtimes for movies playing near you.</p>
+<p>"
+5,5842,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,"You can also configure your browser to block all cookies from a specific domain or all domains.
+But remember that our services rely on cookies to function properly, for things like remembering your language preferences."
+6,5843,40,good,You can retrieve an archive of your data,Privacy Policy,"You can export a copy of your information or delete it from your Google Account at any time</p>
+<p>You can export a copy of content in your Google Account if you want to back it up or use it with a service outside of Google.</p>"
+7,5844,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"To delete your information, you can:</p>
+<ul>
+<li>Delete your content from specific Google services</li>
+<li>Search for and then delete specific items from your account using My Activity</li>
+<li>Delete specific Google products, including your information associated with those products</li>
+<li>Delete your entire Google Account</li>
+</ul>
+<p>Delete your information"
+8,5845,50,bad,Your profile is combined across various products,Privacy Policy,"</p>combine the information we collect<p>Some examples of how we combine the information we collect include:</p>
+<ul>
+<li>When you’re signed in to your Google Account and search on Google, you can see search results from the public web, along with relevant information from the content you have in other Google products, like Gmail or Google Calendar.
+This can include things like the status of your upcoming flights, restaurant, and hotel reservations, or your photos."
+9,12811,15,good,The terms for this service are easy to read,Privacy Policy,"To help explain things as clearly as possible, we’ve added examples, explanatory videos, and definitions for key terms."
+10,12812,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"We also collect information about the interaction of your apps, browsers, and devices with our services, including IP address"
+11,12813,50,bad,This service tracks which web page referred you to it,Privacy Policy,"and the date, time, and referrer URL of your request."
+12,12814,80,bad,App required for this service requires broad device permissions,Privacy Policy,"We collect this information when a Google service on your device contacts our servers — for example, when you install an app from the Play Store or when a service checks for automatic updates.
+If you’re using an Android device with Google apps, your device periodically contacts Google servers to provide information about your device and connection to our services.
+This information includes things like your device type, carrier name, crash reports, and which apps you've installed."
+13,12815,45,bad,This service receives your precise location through GPS coordinates,Privacy Policy,"Your location can be determined with varying degrees of accuracy by:</p>
+<ul>
+<li>GPS</li>
+<li>IP address</li>
+<li>Sensor data from your device"
+14,12817,30,bad,Your biometric data is collected,Privacy Policy,Voice and audio information when you use audio features
+15,12818,0,neutral,Third parties are involved in operating the service,Privacy Policy,"For example, we use service providers to help us with customer support."
+16,12819,50,blocker,Your browsing history can be viewed by the service,Privacy Policy,<li>Chrome browsing history you’ve synced with your Google Account
+17,12820,30,good,Information is provided about how your personal data is used,Privacy Policy,</p>Why Google collects data
+18,12821,50,bad,Information is gathered about you through third parties,Privacy Policy,"We may also collect information about you from trusted partners, including marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse.
+We also receive information from advertisers to provide advertising and research services on their behalf."
+19,12823,30,bad,Your personal data is used for advertising,Privacy Policy,"</p>Provide personalized services, including content and ads<p>We use the information we collect to customize our services for you, including providing recommendations, personalized content, and customized search results."
+20,12824,10,neutral,Your personal data is aggregated into statistics,Privacy Policy,"<p>We use data for analytics and measurement to understand how our services are used.
+For example, we analyze data about your visits to our sites to do things like optimize product design."
+21,12825,60,bad,This service tracks you on other websites,Privacy Policy,"When you visit sites that use Google Analytics, Google and a Google Analytics customer may link information about your activity from that site with activity from other sites that use our ad services.</p>"
+22,12827,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,And we also use data about the ads you interact with to help advertisers understand the performance of their ad campaigns.
+23,12829,40,bad,Your personal information is used for many different purposes,Privacy Policy,"<p>We use data to build better services</p>
+<p>We use the information we collect from all our services for the following purposes:"
+24,12830,25,good,You can opt out of targeted advertising,Privacy Policy,"You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services."
+25,12831,90,blocker,Your identity is used in ads that are shown to other users,Privacy Policy,"Choose whether your name and photo appear next to your activity, like reviews and recommendations, that appear in ads"
+26,12832,0,good,You can choose with whom you share content,Privacy Policy,"Many of our services let you share information with other people, and you have control over how you share."
+27,12833,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,</ul>For external processing<p>We provide personal information to our affiliates and other trusted businesses or persons to process it for us
+28,13934,30,good,Details are provided about what kind of information they collect,Privacy Policy,Information Google collects<p>We want you to understand the types of information we collect as you use our services
+29,13935,70,blocker,Private messages can be read,Privacy Policy,"<p>We also collect the content you create, upload, or receive from others when using our services.
+This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos."
+30,13936,25,good,Two factor authentication is provided for your account,Privacy Policy,"We offer a range of security features, like Safe Browsing, Security Checkup, and 2 Step Verification to help you protect your account"
+31,13937,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Policy,"And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping."
+32,13938,30,good,The service reviews its privacy policy on a regular basis,Privacy Policy,We regularly review this Privacy Policy and make sure that we process your information in ways that comply with it.</p>
+33,13939,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,"We maintain servers around the world and your information may be processed on servers located outside of the country where you live.
+Data protection laws vary among countries, with some providing more protection than others.
+Regardless of where your information is processed, we apply the same protections described in this policy."
+34,13940,30,good,A complaint mechanism is provided for the handling of personal data,Privacy Policy,"If you have questions, you can contact Google and our data protection office.
+And you can contact your local data protection authority if you have concerns regarding your rights under local law.</p>"
+35,13941,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy Policy,"<p>This Privacy Policy applies to all of the services offered by Google LLC and its affiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services.
+This Privacy Policy doesn’t apply to services that have separate privacy policies that do not incorporate this Privacy Policy.</p>
+<p>This Privacy Policy doesn’t apply to:</p>
+<ul>
+<li>The information practices of other companies and organizations that advertise our services</li>
+<li>Services offered by other companies or individuals, including products or sites that may include Google services, be displayed to you in search results, or be linked from our services"
+36,13942,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Policy,based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+37,13943,30,bad,Your use is throttled,Terms of Service,"For example, we invest in artificial intelligence that uses machine learning to detect and block spam and malware, and to provide you with innovative features, like simultaneous translations.
+As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones.</p>
+<p>We maintain a rigorous product research program, so before we change or stop offering a service, we carefully consider your interests as a user, your reasonable expectations, and the potential impact on you and others.
+We only change or stop offering services for valid reasons, such as to improve performance or security, to comply with law, to prevent illegal activities or abuse, to reflect technical developments, or because a feature or an entire service is no longer popular enough or economical to offer.</p>
+<p>If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice and an opportunity to export your content from your Google Account using Google Takeout, except in urgent situations such as preventing abuse, responding to legal requirements, or addressing security and operability issues.</p>"
+38,13945,0,neutral,Separate policies are employed for different parts of the service,Terms of Service,<p>Our service-specific additional terms and policies provide additional details about appropriate conduct that everyone using those services must follow.
+39,13946,50,good,You maintain ownership of your content,Terms of Service,"Your content remains yours, which means that you retain any intellectual property rights that you have in your content.
+For example, you have intellectual property rights in the creative content you make, such as reviews you write."
+40,13947,10,good,The service has non-exclusive use of your content,Terms of Service,"This license is:<ul>
+<li>worldwide, which means it’s valid anywhere in the world</li>
+<li>non-exclusive, which means you can license your content to others"
+41,13948,30,blocker,This service holds onto content that you've deleted,Terms of Service,"<p>If you remove from our services any content that’s covered by this license, then our systems will stop making that content publicly available in a reasonable amount of time.
+There are two exceptions:</p>
+<ul>
+<li>If you already shared your content with others before removing it.
+For example, if you shared a photo with a friend who then made a copy of it, or shared it again, then that photo may continue to appear in your friend’s Google Account even after you remove it from your Google Account.</li>
+<li>If you make your content available through other companies’ services, it’s possible that search engines, including Google Search, will continue to find and display your content as part of their search results."
+42,13949,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"You’re responsible for what you do with your Google Account, including taking reasonable steps to keep your Google Account secure, and we encourage you to regularly use the Security Checkup."
+43,13950,50,good,"If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",Terms of Service,"If you choose to give us feedback, such as suggestions to improve our services, we may act on your feedback without obligation to you."
+44,13951,15,neutral,"If you are the target of a copyright claim, your content may be removed",Terms of Service,"For example, we suspend or close the Google Accounts of repeat copyright infringers as described in our Copyright Help Center.</p>"
+45,13952,10,neutral,Instructions are provided on how to submit a copyright claim,Terms of Service,"<p>If you think someone is infringing your intellectual property rights, you can send us notice of the infringement and we’ll take appropriate action."
+46,13953,50,neutral,This service assumes no responsibility and liability for the contents of links to other websites,Terms of Service,"<p>Finally, some of our services give you access to content that belongs to other people or organizations — for example, a store owner’s description of their own business, or a newspaper article displayed in Google News.
+You may not use this content without that person or organization’s permission, or as otherwise allowed by law.
+The views expressed in other people or organizations’ content are theirs, and don’t necessarily reflect Google’s views."
+47,13954,20,neutral,No guarantee is given regarding quality,Terms of Service,"We provide our services using reasonable skill and care.
+If we don’t meet the quality level described in this warranty, you agree to tell us and we’ll work with you to try to resolve the issue."
+48,13955,15,neutral,Your account can be suspended for several reasons,Terms of Service,"Google reserves the right to suspend or terminate your access to the services or delete your Google Account if any of these things happen:</p>
+<ul>
+<li>you materially or repeatedly breach these terms, service-specific additional terms or policies</li>
+<li>we’re required to do so to comply with a legal requirement or a court order</li>
+<li>we reasonably believe that your conduct causes harm or liability to a user, third party, or Google"
+49,13956,15,good,You have the right to leave this service at any time,Terms of Service,"Of course, you’re always free to stop using our services at any time.
+If you do stop using a service, we’d appreciate knowing why so that we can continue improving our services."
+50,13957,30,good,The service will only respond to government requests that are reasonable,Terms of Service,"When we receive data disclosure requests, our team reviews them to make sure they satisfy legal requirements and Google’s data disclosure policies.
+Google Ireland Limited accesses and discloses data, including communications, in accordance with the laws of Ireland, and EU law applicable in Ireland.
+For more information about the data disclosure requests that Google receives worldwide, and how we respond to such requests, see our Transparency Report and Privacy Policy."
+51,13958,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Service,"<p>If it turns out that a particular term is not valid or enforceable, this will not affect any other terms."
+52,13959,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Service,"If you don’t follow these terms or the service-specific additional terms, and we don’t take action right away, that doesn’t mean we’re giving up any rights that we may have, such as taking action in the future.</p>"
+53,13960,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Terms of Service,"<p>If we materially change these terms or service-specific additional terms, we’ll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new service or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements."
+54,13961,20,neutral,You are prohibited from attempting to gain unauthorized access to other computer systems,Terms of Service,"— for example, by hacking, phishing,"
+55,13962,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"harassing,"
+56,13963,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms of Service,"spamming,"
+57,13964,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms of Service,"misleading others, or scraping content that doesn’t belong to you"
+58,13965,10,good,A free help desk is provided,Terms of Service,"We also make various policies, help centers, and other resources available to you to answer common questions and to set expectations about using our services.
+These resources include our Privacy Policy, Copyright Help Center, Safety Center, and other pages accessible from our policies site.</p>"
+59,13966,50,bad,Your content can be licensed to third parties,Terms of Service,"sublicense these rights to:</li>
+<ul>
+<li>other users to allow the services to work as designed, such as enabling you to share photos with people you choose</li>
+<li>our contractors who’ve signed agreements with us that are consistent with these terms, only for the limited purposes described in the <em>Purpose</em> section below</li>
+</ul>
+</ul>Purpose<p>This license is for the limited purpose of:</p>
+<ul>
+<li>
+<b>operating and improving the services</b>, which means allowing the services to work as designed and creating new features and functionalities."
+60,13967,50,bad,Many third parties are involved in operating the service,Privacy Policy,"Many websites and apps partner with Google to improve their content and services.
+For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube).
+These services may share information about your activity with Google and, depending on your account settings and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information.</p>"
+61,13968,10,bad,Third-party cookies are used for statistics,Privacy Policy,"For example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies.
+Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings.
+Learn more about these partners and how they use your information.</p>"
+62,13969,100,blocker,They store data on you even if you did not interact with the service,Privacy Policy,<li>Activity on third-party sites and apps that use our services
+63,14755,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,,"GOOGLE MAKES NO OTHER WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE AND NONINFRINGEMENT."
+64,14756,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms.
+65,14757,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"Other than the rights and responsibilities described in this section (<em>In case of problems or disagreements</em>), Google won’t be responsible for any other losses, unless they’re caused by our breach of these terms or service-specific additional terms.</p>"
+66,14758,40,bad,You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.,Terms of Service,"For business users and organizations only<p>If you’re a business user or organization, then to the extent allowed by applicable law:</p>
+<ul>
+<li>You’ll indemnify Google and its directors, officers, employees, and contractors for any third-party legal proceedings (including actions by government authorities) arising out of or relating to your unlawful use of the services or violation of these terms or service-specific additional terms.
+"
+67,14759,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of Service,"<li>Google’s total liability arising out of or relating to these terms is limited to the greater of (1) €500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breach</li>
+"
+68,14760,40,bad,"Per the service's terms, you may not express negative opinions about them",Terms of Service,"If we reasonably believe that any of your content (1) breaches these terms, service-specific additional terms or policies, (2) violates applicable law, or (3) could harm our users, third parties, or Google, then we reserve the right to take down some or all of that content in accordance with applicable law."
+69,14761,40,neutral,They may stop providing the service at any time,,"Either party may terminate this Agreement at any time with notice.
+Upon any termination of this Agreement, Google will stop providing, and You will stop accessing the Service."
+70,14762,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Service,Suspending or terminating your access to Google services

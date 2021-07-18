@@ -1,0 +1,275 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,17162,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Use,"You shall defend, indemnify, and hold harmless Foursquare, its subsidiaries, affiliates and each of its and its subsidiaries’, affiliates' employees, contractors, directors, suppliers and representatives from all losses, costs, actions, claims, damages, expenses (including legal costs) or liabilities, that arise from or relate to your use or misuse of, or access to, our Sites, Services, Content, Save-to Link or otherwise from your User Submissions, violation of these Terms of Use, or infringement by you, or any third party using your account, of any intellectual property or other right of any person or entity"
+1,17163,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,"If you reject cookies, this could affect the availability and functionality of the Consumer Services."
+2,17164,15,neutral,This service is only available to users over a certain age,Terms of Use,You must be at least 13 years of age to access of use the Services.
+3,17166,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"At this time, we do not honor web browser Do Not Track (“DNT”) signals or other similar mechanisms."
+4,17167,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"You may also request a copy of your data by (a) logging into your Swarm account or (b) logging into your City Guide account (web only) and clicking on “Export My Data” in your privacy settings.</p>
+<p>You may also delete your data and"
+5,17168,15,good,You have the right to leave this service at any time,Privacy Policy,"account at any time on our Sites by clicking on the ""Delete Your Account"" link in your ""Privacy Settings"" page through your web account."
+6,18431,10,bad,Third-party cookies are used for statistics,Privacy Policy,"On our Consumer Services, we use third-party analytics services, such as those of Google Analytics."
+7,19457,70,bad,Many different types of personal data are collected,Privacy Policy,"We may also collect other data you provide when you use the Consumer Services, including pictures you upload, messages you send through the Apps, searches, likes, follows, check-ins, tips, survey responses, demographic information, and any other data that you voluntarily provide to us."
+8,19458,45,bad,This service receives your precise location through GPS coordinates,Privacy Policy,"If you opt in to sharing your location with us, we automatically receive data about your precise location (e.g., latitude-longitude coordinates) whenever you use the Consumer Services (e.g.
+open our mobile apps, visit our website, etc.)."
+9,19459,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"and</li>
+<li>data from cookies, pixels and other technologies, such as cookie ID, advertising ID or other unique advertising ID, web beacons, and local storage."
+10,19463,50,bad,Your profile is combined across various products,Privacy Policy,"
+In the event that we obtain data about you from our Enterprise Customers and third parties, we will combine all data collected about you into one single profile."
+11,19464,75,bad,"This service may collect, use, and share location data",Privacy Policy,"If you have location services turned on, whenever you use our Apps on your mobile device, we collect and use your geocoordinates (e.g.
+latitude and longitude) to tailor the Consumer Services to your current location.
+We will only process your location with your express permission.
+If you have persistent background location turned on, we will obtain your device’s location even if you are not using the Apps.
+Your location is never shared with others, except with your consent or as permitted under this Privacy Policy.</p>"
+12,19465,10,good,You can opt out of promotional communications,Privacy Policy,"To opt out of receiving marketing communications, please see the “Unsubscribe from Marketing Emails and Text Messages” section of this Privacy Policy below.</p>"
+13,19467,50,bad,Information is gathered about you through third parties,Privacy Policy,"In particular, we receive data from unaffiliated apps and websites, online advertising services, and our partners, which we may use to send you advertisements that are tailored to your interests.
+The data collected for this purpose includes data about how you interact with the Consumer Services or with unaffiliated websites and apps, device data, and data from cookies, pixels or other similar technologies.</p>
+<p>We combine the data described above with demographic data, location and other interest-based segment data obtained from third parties, including data obtained from the Enterprise Services to provide our Products.</p>"
+14,19468,30,bad,Your personal data is used for advertising,Privacy Policy,"In addition, we may use or transfer data for interest-based advertising, including cross-device linking."
+15,19469,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Privacy Policy,"If we make material changes in the way we use your data, we will notify you by posting an announcement on our Sites or Apps, or by sending you an email (if we have your email)."
+16,19470,80,bad,You must provide your identifiable information,Terms of Use,"If you register for an account with Foursquare, you shall provide Foursquare with accurate and complete registration information (including, but not limited to your email address and/or mobile telephone number (optional) and a password you will use to access the Service)."
+17,19471,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Use,You are solely responsible and liable for activity that occurs on your account and shall be responsible for maintaining the confidentiality of your Foursquare password.
+18,19473,15,neutral,Your account can be suspended for several reasons,Terms of Use,"Failure to do so shall constitute a breach of these Terms of Use, which may result in immediate termination of your Foursquare account.
+"
+19,19477,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Use,Foursquare cannot guarantee the authenticity of any Content or data which users may provide about themselves.
+20,19481,50,good,Third parties are not allowed to access your personal information without a legal basis,Privacy Policy,if we are required to do so by law or legal process (such as a court order or subpoena).
+21,19482,30,good,The service will only respond to government requests that are reasonable,Privacy Policy,"in response to requests by government agencies, such as law enforcement authorities."
+22,19483,5,bad,Tracking pixels are used in service-to-user communication,Privacy Policy,"We may use technologies like cookies, pixels, web beacons, local storage and other automated technologies on our Sites, in our emails, within our Apps, and sometimes in third party apps that use our APIs or SDKs to provide you with a range of products and services."
+23,19498,40,bad,Your personal information is used for many different purposes,Privacy Policy,"To Operate, Maintain and Improve The Consumer Services<p>We use your data to operate, maintain the Consumer Services, and our business, and to understand you better and personalize the Consumer Services.
+To do so, when you download more than one App, we combine your data that we obtain in each App.
+In addition, if you use the Consumer Services when you are not logged into your Foursquare account, when you subsequently log in to your Foursquare account, we combine data collected while you were not logged in.</p>
+<p>Some features and functionality in our Apps require that you provide your location."
+24,19610,20,good,The service claims to be GDPR compliant for European users,Privacy Policy,"12.
+More Information for Consumers From the EEA, UK and Switzerland<p>Where GDPR applies to the processing of your Personal Data, we rely on several legal bases."
+25,19676,20,good,The service claims to be CCPA compliant for California users,CCPA,"PDATE July 15, 2020:</strong> We have updated our Privacy Policy.
+Our Consumer Services Privacy Policy and Enterprise Services Privacy Policy will become effective on August 20, 2020.
+If you use our services on or after August 20, 2020, you will have accepted our new policies.XFoursquare City GuideJe recherche...<ul>
+<li>Se connecter</li>
+<li>S'inscrire</li>
+</ul>À proximité:<ul>
+</ul>Un peu d’inspiration:<ul>
+</ul>
+<ul>
+<li>Choix populaires</li>
+<li>Tendances</li>
+<li>Manger</li>
+<li>Café</li>
+<li>Vie nocturne</li>
+<li>Loisirs</li>
+<li>Shopping</li>
+</ul>
+<p>
+<strong>Last Updated: July 15, 2020</strong>
+</p>CALIFORNIA CONSUMER PRIVACY STATEMENT<p>This California Consumer Privacy Statement (“Statement”) supplements the Consumer Services Privacy Policy.
+It applies solely to California consumers that use or interact with our Consumer Services.</p>
+<p>This Statement uses certain terms that have the meaning given to them in the California Consumer Privacy Act of 2018 and its implementing regulations (the “CCPA”).</p>1.
+Notice of Collection and Use of Personal Information<p>We may collect (and may have collected during the 12-month period prior to the effective date of this Statement) the following categories of personal information about you:</p>
+<ul>
+<li>
+<strong>Identifiers:</strong> identifiers such as a real name, alias, unique personal identifier (such as a device identifier.
+cookies, beacons, pixel tags, mobile ad identifiers and similar technology.
+customer number, unique pseudonym, or user alias.
+telephone number and other forms of persistent or probabilistic identifiers), online identifier, internet protocol address, email address, account name, and other similar identifiers,</li>
+<li>
+<strong>Additional Data Subject to Cal.
+Civ.
+Code § 1798.80:</strong> physical characteristics or description and education,</li>
+<li>
+<strong>Protected Classifications:</strong> characteristics of protected classifications under California or federal law, such as race, age, sex, gender, gender identity, gender expression, sexual orientation, and marital status,</li>
+<li>
+<strong>Commercial Information:</strong> commercial information, including products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies,</li>
+<li>
+<strong>Online Activity:</strong> Internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements,</li>
+<li>
+<strong>Geolocation Data,</strong>
+</li>
+<li>
+<strong>Sensory Information:</strong> electronic, visual, and similar information,</li>
+<li>
+<strong>Employment Information:</strong> professional or employment-related information, and</li>
+<li>
+<strong>Inferences:</strong> inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.</li>
+</ul>
+<p>We may use (and may have used during the 12-month period prior to the effective date of this Statement) your personal information for the purposes described in our Consumer Services Privacy Policy and for the following business purposes specified in the CCPA:</p>
+<ul>
+<li>Performing services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing advertising or marketing services, providing analytics services, or providing similar services,</li>
+<li>Auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance,</li>
+<li>Short-term, transient use, including, but not limited to, the contextual customization of ads shown as part of the same interaction,</li>
+<li>Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity,</li>
+<li>Debugging to identify and repair errors that impair existing intended functionality,</li>
+<li>Undertaking internal research for technological development and demonstration, and</li>
+<li>Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by us.</li>
+</ul>2.
+Sources of Personal Information<p>During the 12-month period prior to the effective date of this Statement, we may have obtained personal information about you from the following categories of sources:</p>
+<ul>
+<li>Our affiliates and subsidiaries;</li>
+<li>Vendors who provide services on our behalf;</li>
+<li>Online advertising services and advertising networks.
+and</li>
+<li>Data brokers.</li>
+</ul>3.
+Sale of Personal Information<p>We may sell certain categories of your personal information to our enterprise customers in connection with our products and services.
+You have the right to opt-out of this disclosure of your information.</p>
+<p>During the 12-month period prior to the effective date of this Statement, we may have sold the following categories of personal information to the following categories of third parties:</p>Category of Personal InformationCategory of Third PartyIdentifiers<ul>
+<li>Our Enterprise Customers</li>
+<li>Online advertising services and advertising networks</li>
+</ul>Protected Classifications<ul>
+<li>Our Enterprise Customers</li>
+<li>Online advertising services and advertising networks</li>
+</ul>Geolocation data<ul>
+<li>Our Enterprise Customers</li>
+<li>Online advertising services and advertising networks</li>
+</ul>Employment Information<ul>
+<li>Our Enterprise Customers</li>
+<li>Online advertising services and advertising networks</li>
+</ul>Inferences<ul>
+<li>Our Enterprise Customers</li>
+<li>Online advertising services and advertising networks</li>
+</ul>
+<p>We do not have actual knowledge that we sell personal information of minors under 16 years of age.</p>4.
+Sharing of Personal Information<p>During the 12-month period prior to the effective date of this Statement, we may have shared your personal information with certain categories of third parties, as described below.</p>
+<p>We may have disclosed the following categories of personal information about you for a business purpose to the following categories of third parties:</p>Category of Personal InformationCategory of Third PartyIdentifiers<ul>
+<li>Our affiliates and subsidiaries</li>
+<li>Vendors who provide services on our behalf</li>
+<li>Data analytics providers</li>
+<li>Internet service providers</li>
+<li>Operating systems and platforms</li>
+</ul>Additional Data Subject to Cal.
+Civ.
+Code § 1798.80 Law<ul>
+<li>Our affiliates and subsidiaries</li>
+<li>Vendors who provide services on our behalf</li>
+</ul>Protected Classifications<ul>
+<li>Our affiliates and subsidiaries</li>
+<li>Vendors who provide services on our behalf</li>
+</ul>Commercial Information<ul>
+<li>Our affiliates and subsidiaries</li>
+<li>Vendors who provide services on our behalf</li>
+</ul>Online Activity<ul>
+<li>Our affiliates and subsidiaries</li>
+<li>Vendors who provide services on our behalf</li>
+<li>Data analytics providers</li>
+<li>Internet service providers</li>
+</ul>Geolocation data<ul>
+<li>Our affiliates and subsidiaries</li>
+<li>Vendors who provide services on our behalf</li>
+</ul>Sensory Information<ul>
+<li>Our affiliates and subsidiaries</li>
+<li>Vendors who provide services on our behalf</li>
+</ul>Employment Information<ul>
+<li>Our affiliates and subsidiaries</li>
+<li>Vendors who provide services on our behalf</li>
+</ul>Inferences<ul>
+<li>Our affiliates and subsidiaries</li>
+<li>Vendors who provide services on our behalf</li>
+<li>Online advertising services and advertising networks</li>
+</ul>
+<p>In addition to the categories of third parties identified above, during the 12-month period prior to the effective date of this Statement, we may have shared personal information about you with government entities, such as in response to requests from law enforcement authorities.</p>5.
+California Consumer Privacy Rights<p>You have certain choices regarding your personal information, as described below.</p>
+<ul>
+<li>
+<strong>Access:</strong> You have the right to request, twice in a 12-month period, that we disclose to you the personal information we have collected, used, disclosed and sold about you during the past 12 months.</li>
+<li>
+<strong>Deletion:</strong> You have the right to request that we delete certain personal information we have collected from you.</li>
+<li>
+<strong>Opt-Out of Sale:</strong> You have the right to opt-out of the sale of your personal information.</li>
+</ul>
+<p>
+<strong>How to Submit a Request.</strong> To submit an access or deletion request, please log into your Foursquare account or call us at (855)-505-8916.</p>
+<p>To opt-out of the sale of your personal information, click here or email us at privacy@foursquare.com.</p>
+<p>You must provide us with your device identifier, which we will use to fulfill your opt-out request.
+If you do not know your device identifier, below are instructions on how to locate it.
+We will not use the information you provide as part of your request for any purpose other than to fulfill your opt-out request.</p>
+<ul>
+<li>If you use an iOS operating system, a third-party application is required to locate your Apple IDFA.
+Please note that we do not control such third-party tools and are not responsible for their content, their privacy policies, or their use of your personal information.</li>
+<li>If you use an Android operating system, open the Google Settings app on your Android device and select “Ads.” Your Advertising Identifier should be listed at the bottom of the screen.</li>
+</ul>
+<p>To submit a request as an authorized agent on behalf of a consumer, please send us a notarized power of attorney and/or other legal documentation.
+Requests from agents that do not submit sufficient proof that they have been authorized by you to act on your behalf will be denied.
+For questions or concerns about our privacy policies and practices, please contact us as described in the “Contact Us” section of our Enterprise Services Privacy Policy.</p>
+<p>
+<strong>Verifying Requests.</strong> To help protect your privacy and maintain security, we will take&nbsp;steps to verify your identity before granting you access to your personal information or complying with your request.
+If you have an account with us, we are unable to fulfill your access or deletion requests at this time because there is no reasonable method by which we can verify your identity to the level of certainty required by California law.
+The reason for this is that Foursquare historically has not linked IP addresses, device identifiers or other information collected through automated means to named actual persons unless the individual uses the Consumer Services.</p>
+<p>
+<strong>Additional Information.</strong> If you choose to exercise any of your rights under the CCPA, you have the right to not receive discriminatory treatment by us.
+To the extent permitted by applicable law, we may charge a reasonable fee to comply with your request.</p>
+<ul>
+<li>À propos</li>
+<li>Blog</li>
+<li>Entreprises</li>
+<li>Villes</li>
+<li>Développeurs</li>
+<li>Aide</li>
+<li>Carrières</li>
+<li>Cookies (Mis à jour)</li>
+<li>Vie privée (Mis à jour)</li>
+<li>Do Not Sell My Personal Info</li>
+<li>Conditions</li>
+<li>Français<ul>
+<li>English</li>
+<li>Français</li>
+<li>Deutsch</li>
+<li>Bahasa Indonesia</li>
+<li>Italiano</li>
+<li>日本語</li>
+<li>한국어</li>
+<li>Português</li>
+<li>Русский</li>
+<li>Español</li>
+<li>ภาษาไทย</li>
+<li>Türkçe</li>
+</ul>
+</li>
+</ul>Foursquare © 2021 Lovingly made in NYC, CHI, SEA &amp.
+LATu dois activer JavaScript pour naviguer sur foursquare.com<p>Nous utilisons les meilleures technologies de pointe disponibles pour offrir à nos utilisateurs une expérience Web optimale.<br>Il est recommandé d'activer JavaScript dans les paramètres du navigateur pour continuer.</p>
+<p> Télécharge Foursquare pour ton smartphone et commence à explorer le monde qui t'entoure&nbsp;!</p>
+<ul>
+<li>Villes&nbsp;:</li>
+<li>Atlanta</li>
+<li>Austin</li>
+<li>Boston</li>
+<li>Chicago</li>
+<li>Dallas</li>
+<li>Denver</li>
+<li>Houston</li>
+<li>Las Vegas</li>
+<li>Los Angeles</li>
+<li>New York</li>
+<li>Philadelphie</li>
+<li>Portland</li>
+<li>San Diego</li>
+<li>San Francisco</li>
+<li>Seattle</li>
+<li>Washington, D.C.</li>
+</ul>
+<ul>
+<li>Pays&nbsp;:</li>
+<li>Belgique</li>
+<li>Brésil</li>
+<li>Canada</li>
+<li>Chili</li>
+<li>Finlande</li>
+<li>France</li>
+<li>Allemagne</li>
+<li>Grande-Bretagne</li>
+<li>Hongrie</li>
+<li>Indonésie</li>
+<li>Japon</li>
+<li>Mexique</li>
+<li>Pays-Bas</li>
+<li>Philippines</li>
+<li>Russie</li>
+<li>Singapour</li>
+<li>Espagne</li>
+<li>Thailande</li>
+<li>Turquie</li>
+</ul>
+<ul>
+</ul>
+<ul>
+"
+26,19887,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Use,You acknowledge that all Content accessed by you using the Service is at your own risk and you will be solely responsible and liable for any damage or loss to you or any other party resulting therefrom.
+27,20223,20,bad,Usernames can be rejected or changed for any reason,Terms of Use,"<p>Foursquare reserves the right to refuse registration of, or cancel a user name, in its sole discretion.
+"
+28,20224,20,good, Pseudonyms are allowed,Terms of Use,"We recommend, but do not require, that you use your own name as your user name (“User Name”) so your friends can recognize you more easily."
+29,20225,0,neutral,Minors must have the authorization of their legal guardians to use the service,Terms of Use,"If you are under 18 years of age (or the age of legal majority where you reside), you may only access or use the Services under the supervision of a parent of legal guardian who agrees to be bound by these Terms of Use."

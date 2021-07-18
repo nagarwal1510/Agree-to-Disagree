@@ -1,0 +1,63 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4617,70,bad,Third-party cookies are used for advertising,Privacy Policy,"Other parties that support the Fox News Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Fox News Services usage statistics, may also use these technologies to collect similar information when you use the Fox News Services or other parties’ services.
+"
+1,4618,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"At this time we do not respond to browser ‘Do Not Track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted"
+2,4619,30,bad,Your personal data is used for advertising,Privacy Policy,"We may use the information we collect from and about you to provide the Fox News Services and features to you, including: to measure and improve those Fox News Services and features and to develop new products and services.
+to improve your experience with both online and off-line Fox News Services by delivering content you will find relevant and interesting, including advertising and marketing messages"
+3,4621,50,bad,You waive your right to a class action.,Terms of Use," YOU AND COMPANY WAIVE THE RIGHT TO BRING OR PARTICIPATE IN A CLASS ACTION IN CONNECTION WITH SUCH DISPUTES.
+"
+4,4622,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of Use,"IF ANY, BY YOU TO COMPANY FOR THE COMPANY SERVICES DURING THE TERM OF YOUR USE OF THE COMPANY SERVICES.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, COMPANY WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DAMAGES OTHER THAN THE AMOUNT PAID, IF ANY, BY YOU TO COMPANY FOR THE COMPANY SERVICES DURING THE TERM OF YOUR USE OF THE COMPANY SERVICES,"
+5,6470,20,bad,Usernames can be rejected or changed for any reason,Terms of Use,"Company reserves the right to refuse registration of, or cancel, a username, in its sole discretion.
+"
+6,6471,20,bad,"You must provide your legal name, pseudonyms are not allowed",Terms of Use,"
+All registration information you submit to create an account must be accurate and kept up to date.
+Your failure to do so will constitute a breach of the Agreement, which may result in immediate termination of your account.
+You may not (i) select or use as a username a name of another person with the intent to impersonate that person.
+or (ii) use as a username a name subject to any rights of another person without appropriate authorization.
+"
+7,6472,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Use,"You are responsible for maintaining the confidentiality of your password and are responsible for all use of your account.
+It is therefore critical that you do not share your password with anyone.
+You agree not to use the account, username, email address or password of another member or subscriber at any time and not to allow any other person to use your account.
+"
+8,6473,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Use,"Company may terminate your account and/or access to the Company Services at any time, for any or no reason, with or without prior notice or explanation, and shall have no liability to you for such termination."
+9,6476,35,neutral,This service does not condone any ideas contained in its user-generated contents,Terms of Use,"You understand that Company does not control the User Content posted by users via the Company Services and, as such, you understand you may be exposed to offensive, inaccurate or otherwise objectionable User Content.
+Company assumes no responsibility or liability for this type of Content.
+"
+10,6478,50,bad,You waive your right to a class action.,Terms of Use,"
+<u>Each of you and Company also agrees to give up the ability to seek to represent, in a class action or otherwise, anyone but each of you and Company</u>&nbsp;</strong>(see paragraph 9 below).</p>"
+11,7562,50,bad,You have a reduced time period to take legal action against the service,Terms of Use,"UBJECT TO APPLICABLE LAW, YOU AGREE THAT ANY CAUSE OF ACTION YOU MAY HAVE ARISING OUT OF OR RELATED TO THIS AGREEMENT, THE COMPANY SITES OR THE COMPANY SERVICES MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER SUCH CAUSE OF ACTION ACCRUES.
+AFTER SUCH PERIOD, SUCH CAUSE OF ACTION SHALL BE PERMANENTLY BARRED.</p>
+<p>"
+12,7563,50,neutral,There is a date of the last update of the agreements,Terms of Use,"Effective as of May 19, 2020</p>"
+13,7564,30,good,This service fines spammers,Terms of Use,"Send or cause to send (directly or indirectly) unsolicited bulk messages or other unsolicited bulk communications of any kind through the Company Services.
+If you do so, you acknowledge you will have caused substantial harm to Company, but that the amount of harm would be extremely difficult to measure.
+As a reasonable estimation of such harm, and by way of liquidated damages and not as a penalty, you agree to pay Company $50 for each actual or intended recipient of such communication;</p>
+<p>- Solicit, collect or request any personal information for commercial or unlawful purposes"
+14,7565,25,bad,You shall not interfere with another person's enjoyment of the service,Terms of Use,"You may not use the Site in any manner that could damage, disable, overburden, or impair the Site, or interfere with any other party's use and enjoyment of the Site."
+15,7870,20,bad,Usernames can be rejected or changed for any reason,Terms of Use,"Company reserves the right to refuse registration of, or cancel, a username, in its sole discretion."
+16,8655,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms of Use,"Company may modify this Agreement at any time, and each such modification will be effective upon posting on the Company Sites.
+"
+17,12808,25,neutral,This service is only available for use individually and non-commercially.,Terms of Use,<p>The Site is intended solely for your personal and non-commercial use
+18,16625,30,bad,Your personal data is used for advertising,Do-Not-Sell My Personal Information,"We and our advertising partners collect certain information, including cookies and similar information stored on your browsers, advertising identifiers on your mobile devices, and/or the IP address of your devices when you visit our sites or use our apps."
+19,17264,60,bad,Your Personal data may be sold unless you opt out,Do-Not-Sell My Personal Information,"We and our partners use that information to deliver online advertisements to you on your devices and tailor those ads to your interests.
+Such sharing may be considered a ""Sale"" under the California Consumer Privacy Act (CCPA).
+The CCPA provides a right to opt out of the ""Sale"" of personal information.</p>
+<ul>
+<li>
+<p>
+<strong>
+<em>Fox News Sites</em>
+</strong>
+<br> If you wish to opt out of the ""Sale"" of your information in connection with tailored advertising that appears primarily on Fox News' websites, move the toggle above to ""On.""</p>
+</li>
+<li>
+<p>
+<strong>
+<em>Other Sites</em>
+</strong>
+<br> To also opt out of the ""Sale"" of your information related to tailored advertising on other sites, please visit http://optout.aboutads.info/#/ or http://optout.networkadvertising.org/# and follow the instructions.</p>
+</li>"
+20,17265,30,blocker,This service still tracks you even if you opted out from tracking,Do-Not-Sell My Personal Information,"And after opting out of the ""Sale"" of your personal information as described above, you may still see interest-based ads.
+Because interest-based advertising relies on cookies and other similar technologies, opting out needs to be controlled at the device and/or browser level.
+"

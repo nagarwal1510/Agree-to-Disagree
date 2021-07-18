@@ -1,0 +1,8 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,17069,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,A pixel tag (also known as a web beacon) is a piece of code embedded in the Services that collects information about engagement on the Services.
+1,17071,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Use,"The Company may terminate your account, delete your profile and any content or information that you have posted on the Services and/or prohibit you from using or accessing the Services for any reason, or no reason, at any time in its sole discretion, with or without notice."
+2,17072,50,neutral,There is a date of the last update of the agreements,Terms of Use,"Date of Last Revision: October 14, 2020"
+3,17073,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"“Do Not Track”</b>
+</p>
+<p>Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers.
+Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.</p>"

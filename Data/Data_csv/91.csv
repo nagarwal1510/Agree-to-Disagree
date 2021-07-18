@@ -1,0 +1,40 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4303,15,neutral,This service is only available to users over a certain age,Terms of Service,The Website is available only to individuals who are at least 13 years old.
+1,4304,0,neutral,The court of law governing the terms is in location X,Terms of Service,"This Agreement will be governed by the laws of the State of California, U.S.A.
+without regard to its conflict of laws provisions.
+The federal and state courts sitting in San Francisco County, California, U.S.A.
+will have proper and exclusive jurisdiction and venue with respect to any disputes arising from or related to the subject matter of this Agreement.
+"
+2,4357,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"strong>Your Account and Website</strong>
+<p>
+If you create an account on the Website, you are responsible for maintaining the security of your account, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the account.
+You must immediately notify GitLab of any unauthorized use of your account or any other breaches of security.
+GitLab will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions"
+3,4358,10,good,You can choose the copyright license,,
+4,8851,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,The Website is provided “as is”
+5,8989,50,good,You maintain ownership of your content,Terms of Service,"We do not claim any ownership rights to the information that you submit to the GitLab application itself, your code is yours."
+6,8991,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Terms of Service,"As part of your voluntary contribution to any GitLab project, by agreeing to these terms, you are acknowledging and agreeing that your name and email address will become embedded and part of the repository, which may be publicly available.
+You understand the removal of this information would be impermissibly destructive to the project and the interests of all those who contribute, utilize, and benefit from it.
+Therefore, in consideration of your participation in any project, you understand that retaining your name and email address, as described above, does not require your consent and that the right of erasure, as spelled out in the GDPR Article 17 (1) b does not apply.
+The legal basis for our lawful processing of this personal data is Article 6 (1) f (""processing is necessary for the purposes of the legitimate interests pursued by the controller"")."
+7,8992,10,good,You can opt out of promotional communications,Terms of Service,You can unsubscribe at any time by using the link at the bottom of the newsletter.
+8,8993,10,good,You can opt out of promotional communications,Privacy Policy,You may withdraw your consent at any time through the unsubscribe feature provided with each marketing email or by contacting us at the addresses given at the end of this Privacy Policy.</p>
+9,8994,40,bad,You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.,Terms of Service,"Indemnification</strong>
+<p>
+You agree to indemnify and hold harmless GitLab, its affiliates, contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys’ fees, arising out of your use of this Website, including but not limited to your violation of this Agreement"
+10,8995,35,bad,"Defend, indemnify, hold harmless; survives termination",Terms of Service,"All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability."
+11,8996,10,neutral,You agree not to use the service for illegal purposes,Terms of Service,"your use of the Website will be in strict accordance with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside)"
+12,8997,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Service,"Partial Invalidity</strong>
+<p>
+If any provision of this document is held by a court of competent jurisdiction to be invalid, void, or unenforceable, the remaining provisions shall nevertheless continue in full force without being impaired or invalidated in any way"
+13,8998,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Service,"Failure to Enforce</strong>
+<p>
+The failure of either party to enforce at any time, or for any period of time, the provisions hereof shall not be construed to be a waiver of such provisions or of the right of such party to enforce each and every such provision"
+14,8999,50,bad,You are forced into binding arbitration in case of disputes,Terms of Service,"Arbitration</strong>
+<p>
+Any dispute, controversy or claim arising out of or relating to this Agreement, including the formation, interpretation, breach or termination thereof, including whether the claims asserted are arbitrable, which has not been resolved via the process laid out in Dispute resolution will then be referred to and finally determined by arbitration in accordance with the Arbitration Rules of the Netherlands Arbitration Institute.
+The arbitral tribunal shall be composed of one arbitrator.
+The place of arbitration shall be Utrecht or Amsterdam, The Netherlands.
+The arbitral procedure shall be conducted in the English language.
+Judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof"
+15,9289,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"Neither GitLab nor its suppliers and licensors, makes any warranty that the Website will be error free or that access thereto will be continuous or uninterrupted."

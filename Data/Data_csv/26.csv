@@ -1,0 +1,5 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5478,25,good,Your personal data is not sold,Privacy Policy,"We’ll never sell your data you share with the Blender Market.
+Period."
+1,5479,0,neutral,The service is transparent regarding government requests or inquiries that may involve your data.,Privacy Policy,"Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.</p>"
+2,5480,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,<p>This Website does not support “Do Not Track” requests.

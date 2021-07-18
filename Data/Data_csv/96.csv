@@ -1,0 +1,18 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,564,50,bad,The copyright license maintained by the service over your data and/or content is broader than necessary.,Terms of Service,"you hereby do and shall grant to Automattic a worldwide, perpetual, irrevocable, royalty-free and fully-paid, transferable (including rights to sublicense) right to perform the Services (e.g., to use, modify, reproduce, distribute, prepare derivative works of, display, perform, and otherwise fully exercise and exploit all intellectual property, publicity, and moral rights with respect to any User Submissions, and to allow others to do so)."
+1,19495,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"You warrant, represent and agree that you will not Submit any User Submissions or otherwise use the Services in a manner that (i) infringes the intellectual property or proprietary rights, or rights of publicity or privacy, of any third party.
+(ii) violates any law, statute, ordinance or regulation.
+or (iii) is harmful, threatening, abusive, harassing, tortuous, defamatory"
+2,19496,15,neutral,The posting of pornographic content is prohibited,Terms of Service,obscene
+3,19497,50,neutral,There is a date of the last update of the agreements,Privacy Policy,"This is our current policy, last updated on October 12, 2020.</em>"
+4,20231,50,good,Information is provided about how they collect personal data,Privacy Policy,<i>Information We Collect Automatically
+5,20232,50,bad,Information is gathered about you through third parties,Privacy Policy,We may also get information about you from other sources.
+6,20233,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,We may determine the approximate location of your device from your IP address.
+7,20234,10,bad,Third-party cookies are used for statistics,Cookies policy,"utma / utmb / utmc / utmt / utmz / ga / gat / gid
+Google Analytics.
+Gathers information that helps us understand how visitors interact with our websites, which allow us to create a better experience for our visitors.
+Our users may also implement Google Analytics on their own websites."
+8,20235,40,good, A list of all cookies set by the website is provided,Cookies policy,We provide more information on these cookies below.</p>
+9,20236,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Cookies policy,"
+<p>Both websites and HTML emails may also contain other tracking technologies such as “web beacons” or “pixels.”"
+10,20237,5,bad,Tracking pixels are used in service-to-user communication,,

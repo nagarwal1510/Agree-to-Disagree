@@ -1,0 +1,79 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,21682,15,neutral,This service is only available to users over a certain age,Terms of Service,YOU AGREE THAT BY USING THE SERVICE YOU REPRESENT THAT YOU ARE AT LEAST 18 YEARS OLD AND THAT YOU ARE LEGALLY ABLE TO ENTER INTO THIS AGREEMENT.
+1,21683,50,bad,The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.,Terms of Service,These terms and conditions are governed by and construed in accordance with the laws of Belize.
+2,21684,40,neutral,They may stop providing the service at any time,Terms of Service,"
+FileFactory.com reserves the right to change or discontinue any of the Services at any time.</p>
+"
+3,21685,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service," <p>Customer is solely responsible for maintaining the confidentiality of Customer access information, i.e.
+account ID's and passwords of its Authorised Users, and are responsible for all activities that occur under your account.</p>"
+4,21686,10,neutral,You must report to the service any unauthorized use of your account or any breach of security,Terms of Service,"Customer will immediately notify FileFactory.com if Customer notices any activity indicating that Customer's account or data is being used without authorisation, including: (a) Customer has received confirmation of an order or orders placed using Customer's account which Customer did not place or any similar conflicting report.
+or (b) Customer becomes aware of any unauthorised use of any product or service related to its account(s).</p>
+"
+5,21687,30,blocker,This service holds onto content that you've deleted,Terms of Service,"However, FileFactory.com may retain Customer data in its archives after deletion and will not be liable to Customer in any way for such retained data."
+6,21688,15,neutral,"If you are the target of a copyright claim, your content may be removed",Terms of Service,"If Customer data violates the Acceptable Use Policy or DMCA Policy then such data may be removed.
+"
+7,21689,50,neutral,Harming minors in any ways is prohibited,Terms of Service,"c.
+to harm minors in any way, this includes any form of child pornography."
+8,21690,0,good,The publishing of personally identifiable information without the owner’s consent is not allowed,Terms of Service," <p>Customer shall not commit or permit wrongful or damaging acts which justify civil action including, but not limited to, posting of defamatory, scandalous, or private information about a person without their consent"
+9,21691,10,neutral,You agree not to use the service for illegal purposes,Terms of Service," <p>FileFactory.com Services may be used only for lawful purposes.
+"
+10,21692,25,bad,You shall not interfere with another person's enjoyment of the service,Terms of Service,"Whether lawful or unlawful, FileFactory.com reserves the right to determine what is harmful to its Customers, operations or reputation, including any activities that restrict or inhibit any other user from using and enjoying the Service or the Internet.</p>
+<p>Please be aware FileFactory.com reserves the right to cancel any account or transmission they find in violation of any of the above policies."
+11,21693,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"(A) YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK.
+FILEFACTORY.COM SERVICES ARE PROVIDED ON AN ""AS IS"" AND ""AS AVAILABLE"" BASIS.
+"
+12,21694,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Service,"FILEFACTORY.COM AND ITS SUPPLIERS, TO THE FULLEST EXTENT PERMITTED BY LAW, DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF TITLE, FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY AND NON-INFRINGEMENT OF PROPRIETARY OR THIRD PARTY RIGHTS.
+"
+13,21695,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"FILEFACTORY.COM MAKES NO WARRANTY THAT (I) THE SERVICE WILL MEET YOUR REQUIREMENTS, (II) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE,"
+14,21696,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Service,"(III) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE,"
+15,21697,20,neutral,No guarantee is given regarding quality,Terms of Service,"(IV) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS"
+16,21698,50,bad,The service does not guarantee that software errors will be corrected,Terms of Service,"(V) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.
+"
+17,21699,50,neutral,"You are responsible for any risks, damages, or losses that may incur by downloading materials",Terms of Service,(D) ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
+18,21700,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service,"You agree to defend, indemnify, and hold harmless FileFactory.com, its affiliates, officers, directors, employees and agents, from and against any claims, actions or demands, including without limitation reasonable legal fees, alleging or resulting from your use of the Service, or your breach of this Agreement or other FileFactory.com policies, terms and conditions.</p> "
+19,21701,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"You expressly understand and agree that FileFactory.com shall not be liable for any direct, indirect, incidental, special, consequential exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if we have been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Service.
+(ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Service.
+(iii) unauthorised access to or alteration of your transmissions or data.
+(iv) statements or conduct of any third party on the service.
+or (v) any other matter relating to the Service.</p>"
+20,21702,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms of Service, <p>We reserve the right to change this Service Agreement at any time without notice.
+21,21704,15,neutral,Your account can be suspended for several reasons,Terms of Service,"FileFactory.com may immediately issue a warning, suspend (i.e., lock out access and operation of Services for Customer) either temporarily or indefinitely, or terminate Customer's account and refuse to provide Services to Customer if: (a) FileFactory.com believes that Customer has violated or acted inconsistently with this Agreement, or any of our policies.
+or (b) Customer has failed to pay fees or other payments due to FileFactory.com.
+or (c) FileFactory.com is unable to verify or authenticate any information Customer provides to FileFactory.com.
+or (d) FileFactory.com believes that Customer's actions may cause legal liability for Customer, FileFactory.com's other clients, or FileFactory.com."
+22,21705,35,bad,"Defend, indemnify, hold harmless; survives termination",Terms of Service,"Upon termination of this Agreement by either Customer or FileFactory.com, all of Customer rights under this Agreement, and FileFactory.com's provision of Services, will terminate immediately.</p>
+</li>
+<li>
+<p>13.2 The Sections 7 (""Customer Data""), 9 (""No Warranty""), 10 (""Indemnity""), 11 (""Limitation Of Liability"") and this Section 13 will survive any termination of this Agreement.</p>
+"
+23,21706,50,neutral,The service has a no refund policy,Terms of Service,"All purchases of Services through the Site are nonrefundable prepayments for Services.
+"
+24,21707,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Service,"<p>If you sign up for a FileFactory 30 day recurring Service, your subscription continues to bill monthly until you cancel it.
+To cancel a recurring credit card subscription simply visit your Account page on FileFactory.com.
+"
+25,21708,50,bad,You are forced into binding arbitration in case of disputes,Terms of Service,"If any controversy or dispute arising from or relating to this Agreement, your use of the Site, the Services provided to you by Company, or any other matter related to the relationship between you and the Company, even if arising after termination of this Agreement, cannot be resolved through mutual agreement, the sole means of resolving the controversy will be binding arbitration under the auspices of the Belize Arbitration Act."
+26,21709,50,bad,You waive your right to a class action.,Affiliate Terms and Conditions,"CLASS ACTION WAIVER.
+<p>IN ANY DISPUTE, NEITHER AFFILIATE NOR ANY OTHER PERSON SHALL BE ENTITLED TO JOIN OR CONSOLIDATE CLAIMS BY OR AGAINST FILEFACTORY OR OTHER PERSONS, OR ARBITRATE ANY CLAIM AS A REPRESENTATIVE OR CLASS ACTION OR IN A PRIVATE ATTORNEY GENERAL CAPACITY.
+AFFILIATE ACKNOWLEDGES THAT IT IS GIVING UP ITS RIGHT TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE ACTION WITH RESPECT TO ANY SUCH CLAIM."
+27,21710,70,blocker,Content you post may be edited by the service for any reason,Privacy Policy,We may edit or delete any material We consider inappropriate at our sole discretion.</p>
+28,21711,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,,
+29,21712,30,good,Details are provided about what kind of information they collect,Privacy Policy,TYPES OF INFORMATION COLLECTED
+30,21713,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,We automatically track and collect the following categories of information when you visit our Site: (1) IP addresses.
+31,21714,70,bad,Many different types of personal data are collected,Privacy Policy,"In order for you to access certain premiums, services and to purchase products that we offer via the Site, we require you to provide us with certain information that personally identifies you (""Personal Information"").
+Personal Information includes the following categories of information: (1) Contact Data (such as your name, mailing address, and e-mail address).
+(2) Financial Data (such as your account or credit card number).
+and (3) Demographic Data (such as your zip code, age, and income)."
+32,21715,30,good,Information is provided about how your personal data is used,Privacy Policy,USES OF INFORMATION COLLECTED 
+33,21716,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"We use Contact Data to send you information about our company or our products or services, or promotional material from some of our partners"
+34,21717,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy," except that we share Contact Data and Financial Data with our business partners who assist us by performing core services (such as hosting, billing, fulfilment, or data storage and security) related to our operation of the Site"
+35,21718,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Policy,"Those business partners have all agreed to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy (to include the implementation and maintenance of reasonable security procedures to protect sensitive data), and they will only use your Contact Data and other Personal Information to carry out their specific business obligations to Company."
+36,21719,50,good,You can opt out of providing personal information to third parties,Privacy Policy,"If you do not want us to share your Contact Data with any third parties, please email us at privacy@filefactory.com or select the ""opt out"" box on our online forms, but please understand that such a request will likely limit your ability to take advantage of all of the features and services we offer on the Site."
+37,21720,10,good,You can opt out of promotional communications,Privacy Policy,"If you do not wish to receive information and promotional material from us or from some of our partners, you may select the appropriate ""opt-out"" option each time we ask you for Personal Information.</p>
+</li>
+</ul>"
+38,21721,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Policy," <p>Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process.
+(b) protect our rights or property.
+or (c) enforce our Terms of Service.
+"
+39,21722,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION.
+<p>"

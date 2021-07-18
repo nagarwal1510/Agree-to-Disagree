@@ -1,0 +1,9 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,9400,75,bad,"This service may collect, use, and share location data",Privacy Policy,Location Information:</b> We collect approximate location of your computer or device you use to connect to our websites or Services based on the computer or device's IP address
+1,11472,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,Pixel tags (or web beacons) are placed on our websites
+2,11473,10,good,You can opt out of promotional communications,Privacy Policy,"</p>
+<p>You may opt out of receiving promotional emails from us by following the instructions in those emails."
+3,11474,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"<p>You have the right to access personal data we hold about you and to ask that this data be corrected.
+In certain cases, you may also have the right to request that we erase data we are processing or to restrict or object to certain of our processing activities."
+4,12332,5,bad,Tracking pixels are used in service-to-user communication,Privacy Policy,"and emails, and allow us to track website usage and determine when emails have been opened and acted upon.</p>
+"
