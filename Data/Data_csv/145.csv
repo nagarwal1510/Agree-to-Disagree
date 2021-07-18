@@ -1,0 +1,50 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,15126,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"<p>If you make payments on MeWe, we may share your payment information with third-party payment service providers to process payments."
+1,20175,10,neutral,You agree not to use the service for illegal purposes,Terms of Service,Violate any law or regulation
+2,20176,15,neutral,The posting of pornographic content is prohibited,Terms of Service,"
+<li>Post unlawful, harmful, obscene, or pornographic content.</li>"
+3,20178,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Service,"We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe you have violated these Terms."
+4,20179,50,neutral,Your content can be deleted if you violate the terms,Terms of Service,"MeWe reserves the right to remove objectionable content without notice.
+MeWe can remove any content or information you post at MeWe if we believe that it violates our Terms of Service.</p>
+"
+5,20180,20,neutral,You are prohibited from posting content which promotes violence or politically or religiously extremist values.,Terms of Service,"<li>Post content that is hateful, threatening, harmful, incites violence.
+or contains graphic or gratuitous violence.</li>"
+6,20181,15,neutral,This service is only available to users over a certain age,Terms of Service,The use of MeWe is for all persons age 16 and over who agree to these Terms of Service.
+7,20182,15,good,You have the right to leave this service at any time,Privacy Policy,You have the right to delete your account and take your content with you at any time.</li>
+8,20183,15,good,Information is provided about security practices,Privacy Policy,"Security: HTTPS and Encryption<p>We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of your personal user data and other information transmitted to us.
+For example, we encrypt your personally identifiable information, and most, if not all requests from you to the server are created over a secure connection (HTTPS)."
+9,20184,10,neutral,First-party cookies are used,Privacy Policy,Cookies on MeWe let you log in and out of MeWe without needing to retype your login and password
+10,20185,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Terms of Service,"<p>You agree that any action of whatever nature arising from or relating to these Terms, the Site, or Services will be filed only in the state or federal courts located in Los Angeles County, California."
+11,20186,50,good,"User-generated content is encrypted, and this service cannot decrypt it",Terms of Service,"<p>MeWe offers Secret Chat as an option for MeWe users.
+MeWe has no way to decrypt Secret Chat messages of MeWe users because the messages are end-to-end encrypted and MeWe does not have any knowledge of their private keys.
+The encrypted messages and media (images, videos etc.) in MeWe Secret Chat are deleted on MeWe servers after they have been delivered successfully."
+12,20187,50,good,Archives of their agreements are provided so that changes can be viewed over time,Terms of Service,<p>Archive of Previous Terms</p>
+13,21606,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms of Service,".</li>
+<li>Send unsolicited or unauthorized advertising or commercial communications, such as spam.</li>
+<li>"
+14,21607,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms of Service,"<li>Engage in spidering or harvesting, or participate in the use of software, including spyware, designed to collect data from the Site or Services.</li>
+<li>Use automated methods to use the Site or Services."
+15,21608,15,neutral,Your account can be suspended for several reasons,Terms of Service,"</p>
+<p>MeWe reserves the right to ban Pages, Groups and users that do not comply with its Terms of Service as assessed in MeWe’s sole discretion and interpretation of its Terms of Service"
+16,21609,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"You are responsible for maintaining the confidentiality of your MeWe account information, including your username and password.
+You are responsible for all activities that occur under your MeWe account "
+17,21610,10,neutral,You must report to the service any unauthorized use of your account or any breach of security,Terms of Service,you agree to notify MeWe immediately of any unauthorized access or use of your MeWe account
+18,21611,20,good, Pseudonyms are allowed,Terms of Service,"While you may use MeWe pseudonymously or as a&nbsp;parody, commentary, or fan account"
+19,21612,30,good,You will be notified if personal data has been affected by data breaches,Terms of Service,"If MeWe learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps."
+20,21613,25,good,No third-party analytics or tracking platforms are used,Privacy Policy,We NEVER use cookies for third-parties to target you or market to you.
+21,21614,60,good,Your personal data is used for limited purposes,Terms of Service,"MeWe uses your Content Data for the sole purpose of serving and providing you with the full experience of MeWe.
+"
+22,21615,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Terms of Service,"When you use our Services, we may receive information (“Log Data”) such as your IP address"
+23,21616,50,bad,This service tracks which web page referred you to it,Terms of Service, the referring web page
+24,21617,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Terms of Service,device information (including device and application IDs)
+25,21618,40,good,You can retrieve an archive of your data,Terms of Service,"At any time you can retrieve your entire Content Data package from MeWe, using the “Download Your Content” feature in your account."
+26,21619,50,good,You can delete your content from this service,Terms of Service,"Right to Erasure <p>At all times you have an easy way to opt out of our service and delete your account as well as ALL of your Content Data, if you do not wish to continue using our services.
+"
+27,21620,30,good,The service will only respond to government requests that are reasonable,Terms of Service,"MeWe will only respond to requests from non-U.S.
+law enforcement agencies that are issued by a U.S.
+court either by way of a mutual legal assistance treaty or a letter rogatory.
+"
+28,21621,50,bad,This service reserves the right to disclose your personal information without notifying you,Terms of Service,"<p>For all MeWe customers disclosure is governed by U.S.
+law, including the Federal Stored Communications Act (the “SCA”), 18 U.S.C.
+Sections 2701-2712, as well as by our own Terms of Service and Privacy Policy.
+In general, we will turn over “basic subscriber” records (i.e., name, email address, phone number, and so on) in response to a valid subpoena that is issued in connection with an official criminal investigation."

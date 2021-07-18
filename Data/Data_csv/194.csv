@@ -1,0 +1,21 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,6531,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"You may have the right to access or receive certain information about the personal data we process about you.
+You also may have a right to have your personal data rectified, to object to the processing of your personal data, or to ask us to restrict processing or delete your personal data"
+1,6533,50,neutral,There is a date of the last update of the agreements,Privacy Policy,may
+2,6579,50,bad,Many third parties are involved in operating the service,Privacy Policy,Our website uses fonts by Google LLC (“Google”) (“Google Fonts”).
+3,6580,50,bad,Many third parties are involved in operating the service,Privacy Policy,"We use the services of SendGrid to send transactional emails, including account creation emails, password resets, purchase receipts, and account notifications"
+4,6581,25,good,Your personal data is not sold,Privacy Policy,"Customer data is never sold, and is not shared with third parties for those third parties’ own business interests"
+5,6582,50,bad,Many third parties are involved in operating the service,Privacy Policy,"We also use the services of Autopilot, an email automation platform, to better reach ShapeShift product subscribers who have opted in to receive such communications."
+6,6586,5,bad,"Third party cookies are employed, but with opt out instructions",Privacy Policy,You can prevent Google Analytics from using your data by downloading and installing a browser add-on to disable Google Analytics (https://tools.google.com/dlpage/gaoptout?hl=en).
+7,6587,50,bad,Many third parties are involved in operating the service,Privacy Policy,"We use the services of Cloudflare, Inc.
+(“Cloudflare”) in order to identify trusted web traffic (i.e.
+to identify individual clients behind a shared IP address and apply security settings on a per-client basis), in which we have a legitimate interest"
+8,6592,10,bad,Third-party cookies are used for statistics,Privacy Policy,Segment uses cookies and other similar tracking technologies in order to provide these services.
+9,6593,70,bad,Third-party cookies are used for advertising,Privacy Policy,The ShareThis Plugin uses cookies and informs ShareThis that you visited the website.
+10,6594,75,bad,"This service may collect, use, and share location data",Privacy Policy,The information collected by ShareThis may include user data (including IP address) and the geographical region as well as technical data.
+11,6596,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"Referral Hero and its service providers automatically collect certain information using tracking technologies like cookies, web beacons and similar technologies, and web forms."
+12,6597,10,bad,Third-party cookies are used for statistics,Privacy Policy,"We also use cookies to analyze the use of the website, to optimize our services and to enable the use of marketing tools."
+13,6601,60,bad,This service tracks you on other websites,Privacy Policy,"We also use Google Tag Manager to set re-targeting tags.
+These tags enable us to target users with information about our services when they visit different websites."
+14,6605,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,The data sharing may include transfers to companies or organizations in countries without an adequate standard of data protection.
+15,6606,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Policy,"Specifically, we may need to further process and retain your personal data to perform a contract with you or your company or organization, to protect our legitimate interests (such as the establishment, exercise or defense of legal claims) or to comply with legal requirements."

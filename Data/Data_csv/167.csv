@@ -1,0 +1,9 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5998,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,"Without these cookies, the Services that you have asked for cannot be provided.</li>"
+1,6000,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"In addition, we use <strong>""pixel tags""</strong> (also referred to as clear GIFs, Web beacons, or Web bugs).
+Pixel tags are tiny graphic images with a unique identifier, similar in function to cookies, which are used to track online movements of Web users"
+2,6001,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"Some internet browsers may be configured to send ""Do Not Track"" signals to the online services that you visit.
+We currently do not respond to do not track signals"
+3,6002,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"We may share some or all of your personal information in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets.
+In the event of an insolvency, bankruptcy, or receivership, personal information may also be transferred as a business asset"
+4,6010,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Service,"OR WILL BE ACCURATE, RELIABLE,"

@@ -1,0 +1,110 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,1127,30,good,Details are provided about what kind of information they collect,Privacy Policy,"You give other data to us, such as by syncing your address book or calendar."
+1,5882,10,neutral,"You are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",Terms of Service,Use your real name on your profile
+2,5883,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms of Service,"Develop, support or use software, devices, scripts, robots or any other means or processes (including crawlers, browser plugins and add-ons or any other technology) to scrape the Services or otherwise copy profiles and other data from the Services"
+3,5888,50,good,You can delete your content from this service,Privacy Policy,"You can ask us to erase or delete all or some of your personal data (e.g., if it is no longer necessary to provide Services to you)."
+4,5889,30,good,This service provides a way for you to export your data,Privacy Policy,"Members may go to their settings to make requests.
+us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.</li>"
+5,5891,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Do Not Track Policy,"With regard to DNT, LinkedIn currently doesn't respond to DNT signals in browsers because no DNT standard has been adopted, as noted above."
+6,5894,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"We can also share your personal data as part of a sale, merger or change in control, or in preparation for any of these events."
+7,5918,50,bad,This service can use your content for all their existing and future services,Terms of Service,"A worldwide, transferable and sublicensable right to use, copy, modify, distribute, publish and process, information and content that you provide through our Services and the services of others, without any further consent, notice and/or compensation to you or others"
+8,20607,50,neutral,There is a date of the last update of the agreements,Terms of Service,"<p>
+<em>Effective on August 11, 2020</em>
+"
+9,20608,50,good,No need to register,Terms of Service,"
+If you have chosen not to register for our Services, you may access certain features as a “Visitor.”</p>"
+10,20609,15,neutral,This service is only available to users over a certain age,Terms of Service,The Services are not for use by anyone under the age of 16.</p>
+11,20610,30,neutral,Alternative accounts are not allowed,Terms of Service,"(2) you will only have one LinkedIn account,"
+12,20611,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Service,"If you purchase a subscription, your payment method automatically will be charged at the start of each subscription period for the fees and taxes applicable to that period."
+13,20612,0,good,You can choose with whom you share content,Terms of Service,"Where we have made settings available, we will honor the choices you make about who can see content or information (e.g., message content to your addressees, sharing content only to LinkedIn connections, restricting your profile visibility from search engines, or opting not to notify others of your LinkedIn profile update).
+For job searching activities, we default to not notifying your connections network or the public.
+So, if you apply for a job through our Service or opt to signal that you are interested in a job, our default is to share it only with the job poster.</p>
+<p>"
+14,20613,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Terms of Service,We are not obligated to publish any information or content on our Service and can remove it with or without notice.</p>
+15,20614,50,good,You maintain ownership of your content,Terms of Service,>You own all of the content
+16,20615,50,good,"If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",Terms of Service, feedback and personal information you provide to us
+17,20616,10,good,The service has non-exclusive use of your content,Terms of Service,"
+the following non-exclusive license:</p>
+<p>"
+18,20617,90,blocker,Your identity is used in ads that are shown to other users,Terms of Service,"We will not include your content in advertisements for the products and services of third parties to others without your separate consent (including sponsored content).
+However, we have the right, without payment to you or others, to serve ads near your content and information, and your <dfn>social actions</dfn>e.g.
+likes, comments, follows, shares may be visible and included with ads, as noted in the Privacy Policy.
+If you use a Service feature, we may mention that with your name or photo to promote that feature within our Services, subject to your settings.</li>"
+19,20618,15,good,Copyright license limited for the purposes of that same service but transferable and sublicenseable,Terms of Service,"A worldwide, transferable and sublicensable right to use, copy, modify, distribute, publish and process, information and content that you provide through our Services and the services of others, without any further consent, notice and/or compensation to you or others."
+20,20619,40,neutral,They may stop providing the service at any time,Terms of Service,"
+<p>We may change, suspend or discontinue any of our Services."
+21,20620,30,bad,Your use is throttled,Terms of Service,"We have the right to limit how you connect and interact on our Services.</p>
+<p>LinkedIn reserves the right to limit your use of the Services, including the number of your connections and your ability to contact other Members."
+22,20621,15,neutral,Your account can be suspended for several reasons,Terms of Service,"LinkedIn reserves the right to restrict, suspend, or terminate your account if you breach this Contract or the law or are misusing the Services (e.g., violating any of the Dos and Don’ts or Professional Community Policies).</p>"
+23,20622,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"LINKEDIN AND ITS AFFILIATES MAKE NO REPRESENTATION OR WARRANTY ABOUT THE SERVICES, INCLUDING ANY REPRESENTATION THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE,"
+24,20623,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,AND PROVIDE THE SERVICES (INCLUDING CONTENT AND INFORMATION) ON AN “AS IS” AND “AS AVAILABLE” BASIS.
+25,20624,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Service,"TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW, LINKEDIN AND ITS AFFILIATES DISCLAIM ANY IMPLIED OR STATUTORY WARRANTY, INCLUDING ANY IMPLIED WARRANTY OF TITLE, ACCURACY OF DATA, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</p>"
+26,20625,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"LINKEDIN, INCLUDING ITS AFFILIATES, WILL NOT BE LIABLE IN CONNECTION WITH THIS CONTRACT FOR LOST PROFITS OR LOST BUSINESS OPPORTUNITIES, REPUTATION (E.G., OFFENSIVE OR DEFAMATORY STATEMENTS), LOSS OF DATA (E.G., DOWN TIME OR LOSS, USE OF, OR CHANGES TO, YOUR INFORMATION OR CONTENT) OR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES.</p>"
+27,20626,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of Service,"<p>LINKEDIN AND ITS AFFILIATES WILL NOT BE LIABLE TO YOU IN CONNECTION WITH THIS CONTRACT FOR ANY AMOUNT THAT EXCEEDS (A) THE TOTAL FEES PAID OR PAYABLE BY YOU TO LINKEDIN FOR THE SERVICES DURING THE TERM OF THIS CONTRACT, IF ANY, OR (B) US $1000.</p>"
+28,20627,15,good,You have the right to leave this service at any time,Terms of Service,Both you and LinkedIn may terminate this Contract at any time with notice to the other.
+29,20628,50,good,You aren’t forced into binding arbitration in case of disputes,Terms of Service,"In the unlikely event we end up in a legal dispute, you and LinkedIn agree to resolve it in California courts using California law, or Dublin, Ireland courts using Irish law."
+30,20629,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Terms of Service,"We use the term “Designated Countries” to refer to countries in the European Union (EU), European Economic Area (EEA), and Switzerland.</strong>: You and LinkedIn Ireland agree that the laws of Ireland, excluding conflict of laws rules, shall exclusively govern any dispute relating to this Contract and/or the Services.
+You and LinkedIn Ireland agree that claims and disputes can be litigated only in Dublin, Ireland, and we each agree to personal jurisdiction of the courts located in Dublin, Ireland.</p>
+<p>
+<strong>For others outside of Designated Countries, including those who live outside of the United States</strong>: You and LinkedIn agree that the laws of the State of California, U.S.A., excluding its conflict of laws rules, shall exclusively govern any dispute relating to this Contract and/or the Services."
+31,20630,10,neutral,Instructions are provided on how to submit a copyright claim,Terms of Service,"We respect the intellectual property rights of others.
+We require that information posted by Members be accurate and not in violation of the intellectual property rights or other rights of third parties.
+We provide a policy and process for complaints concerning content posted by our Members"
+32,20631,80,bad,App required for this service requires broad device permissions,Privacy Policy,"
+If you opt to import your address book, we receive your contacts (including contact information your service provider(s) or app automatically added to your address book when you communicated with addresses or numbers not already in your list).</p>
+<p>If you sync your contacts or calendars with our Services, we will collect your address book and calendar meeting information to keep growing your network by suggesting connections for you and others, and by providing information about events, e.g.
+times, places, attendees and contacts.</p>"
+33,20632,30,good,Information is provided about how your personal data is used,Privacy Policy,How We Use Your Data
+34,20633,100,blocker,They store data on you even if you did not interact with the service,Privacy Policy,"We receive personal data (including contact information) about you when others import or sync their contacts or calendar with our Services, associate their contacts with Member profiles, scan and upload business cards, or send messages using our Services (including invites or connection requests).
+If you or others opt-in to sync email accounts with our Services, we will also collect “email header” information that we can associate with Member profiles.</p>
+<p>"
+35,20634,50,bad,Information is gathered about you through third parties,Privacy Policy,"We receive personal data (e.g., your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data.</p>"
+36,20635,50,bad,Your profile is combined across various products,Privacy Policy,"We receive data about you when you use some of the other services provided by us or our <dfn>affiliates</dfn>Affiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation., including Microsoft.
+For example, you may choose to send us information about your contacts in Microsoft apps and services, such as Outlook, for improved professional networking activities on our Services.</p>"
+37,20636,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"We use log-ins, cookies, device information and internet protocol (“IP”) addresses to identify you and log your use.<"
+38,20637,50,bad,This service tracks which web page referred you to it,Privacy Policy,"When you visit or leave our Services (including some plugins and our cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to and the time of your visit.
+"
+39,20638,70,blocker,Private messages can be read,Privacy Policy,"We also use automatic scanning technology on messages to support and protect our site.
+For example, we use this technology to suggest possible responses to messages and to manage or block content that violates our User Agreement or Professional Community Policies from our Services.</p>"
+40,20639,30,bad,Your personal data is used for advertising,Privacy Policy,"We use the data that we have about you to provide and personalize our Services, including with the help of automated systems and inferences we make, so that our Services (including ads) can be more relevant and useful to you and others."
+41,20640,10,good,You can opt out of promotional communications,Privacy Policy,"We also send messages about how to use our Services, network updates, reminders, job suggestions and promotional messages from us and our partners.
+You may change your communication preferences at any time."
+42,20641,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,"We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of <dfn>partners"
+43,20642,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,"Partners include ad networks, exchanges and others</dfn>, using the following data, whether separately or combined:</p>
+<ul>"
+44,20643,70,bad,Many different types of personal data are collected,Privacy Policy,"Partners include ad networks, exchanges and others</dfn>, using the following data, whether separately or combined:</p>
+<ul>
+<li>Data from advertising technologies on and off our Services, pixels, ad tags, cookies, and device identifiers;</li>
+<li>Member-provided information (e.g., profile, contact information, title and industry);</li>
+<li>Data from your use of our Services (e.g., search history, feed, content you read, who you follow or is following you, connections, groups participation, page visits, videos you watch, clicking on an ad, etc.), including as described in Section 1.3;"
+45,20644,50,bad,Your personal data may be used for marketing purposes,Privacy Policy," Marketing<p>We promote our Services to you and others.</p>
+<p>In addition to advertising our Services, we use Members’ data and content for invitations and communications promoting membership and network growth, engagement and our Services, such as by showing your connections that you have used a feature on our Services"
+46,20645,0,neutral,Third parties are involved in operating the service,Privacy Policy,"</p>
+<p>We use others to help us provide our Services (e.g., maintenance, analysis, audit, payments, fraud detection, marketing and development).
+"
+47,20646,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.</p>
+48,20647,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Policy,They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.
+49,20648,30,good,The service will only respond to government requests that are reasonable,Privacy Policy,"We may need to share your data when we believe it’s required by law or to help protect the rights and safety of you, us or others.</p>
+<p>It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies.
+(2) enforce our agreements with you.
+(3) investigate and defend ourselves against any third-party claims or allegations.
+(4) protect the security or integrity of our Services (such as by sharing with companies facing similar threats).
+or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others."
+50,20649,50,good,The service promises to inform and/or notify you regarding government inquiries that may involve your personal data,Privacy Policy,"We attempt to notify Members about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency.
+"
+51,20650,40,bad,"The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",Privacy Policy,"In some cases we choose to retain certain information (e.g., insights about Services use) in a depersonalized or aggregated form."
+52,20651,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"You can access or delete your personal data.
+"
+53,20652,50,good,You can limit how your information is used by third-parties and the service,Privacy Policy,"Object to, or Limit or Restrict, Use of Data:</strong> You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).</li>"
+54,20653,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Policy,"We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse (e.g., if we have restricted your account for breach of our Professional Community Policies), enforce our User Agreement, or fulfill your request to ""unsubscribe"" from further messages from us."
+55,20654,20,good,The service claims to be GDPR compliant for European users,Privacy Policy,"We use the term “Designated Countries” to refer to countries in the European Union (EU), European Economic Area (EEA), and Switzerland and other regions may have more options under their laws"
+56,20655,5,bad,Tracking pixels are used in service-to-user communication,Cookie Policy,We use pixels to learn more about your interactions with email content 
+57,20656,70,bad,Third-party cookies are used for advertising,Cookie Policy,"Similarly, our partners or service providers may use cookies to determine whether we’ve shown an ad or a post and how it performed or provide us with information about how you interact with ads.</p>"
+58,20657,60,bad,This service tracks you on other websites,Cookie Policy,"We use cookies to enable LinkedIn plugins both on and off the LinkedIn sites.</p>
+<p>&nbsp;</p>
+<p>Our plugins may be found on LinkedIn or third-party sites, such as the sites of our customers and partners.
+"
+59,20658,10,bad,Third-party cookies are used for statistics,Cookie Policy,"Analytics and research <p>Cookies help us learn more about how well our Services and plugins perform in different locations.
+We or our service providers use cookies to understand, improve, and research products, features and services, including as you navigate through our sites or when you access LinkedIn from other sites, applications or devices.
+"
+60,20686,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"we use cookies and similar technologies (e.g., pixels and ad tags) to collect data (e.g., device IDs) to recognize you and your device(s) on, off and across different services and devices where you have engaged with our Services. "

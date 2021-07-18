@@ -1,0 +1,20 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4600,30,good,Details are provided about what kind of information they collect,Cookies and Privacy Policy,</p>What information does Setlisting collect? <p>We collect the following types of information from our users:</p> 
+1,4601,15,neutral,This service is only available to users over a certain age,Terms of Use,You must be 13 or older to register as a user or to use the Website.</p> 
+2,4602,70,bad,Third-party cookies are used for advertising,Cookies and Privacy Policy,"<p>When you use this website, you may also be sent the following third party cookies, which may be used for the following purposes:</p>
+<ul>
+<li>Google AdWords conversion tracking (Google) is a service that collects cookie and usage data for purposes of tracking actions performed on this site.</li>
+<li>Google Analytics remarketing and similar audiences features in Adwords (Google) are services that use cookie and usage data to connect activity on this site with the Adwords and Doubleclick advertising networks.
+The collected information enables Google and its partners, to serve advertising based on your activity.</li>
+"
+3,4603,5,bad,"Third party cookies are employed, but with opt out instructions",Cookies and Privacy Policy,"You may opt out of the use of cookies by other third parties by visiting http://www.networkadvertising.org/choices/#completed.
+This opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained.
+You should visit this page periodically to review your preferences, or update to include new participating companies.</li>
+</ul> Refusing cookies <p>Most browsers allow you to refuse to accept cookies.</p>
+<p>In Internet Explorer, you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.</p>
+<p>In Firefox, you can adjust your cookies settings by clicking “Tools”, “Options” and “Privacy”.</p>
+<p>Blocking cookies will have a negative impact upon the usability of some websites.</p> "
+4,4604,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Use,"restrict, suspend, or terminate your access to the Website at any time, for any or no reason, with or without prior notice, and without liability.</p>
+"
+5,4605,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Terms of Use,"We also reserve the right to reject, refuse to post, or remove any posting (including private messages) by you"
+6,4606,10,good,You can opt out of promotional communications,Cookies and Privacy Policy,"If you do not want to receive email or other mail from us, you can opt-out by updating your settings under the ""Settings"" link on www.setlisting.com.</p> "

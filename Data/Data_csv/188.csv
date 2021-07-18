@@ -1,0 +1,13 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,17009,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy ,"We may obtain information by automated means such as through browser cookies, pixels, web server logs, web beacons, and other technologies"
+1,17010,25,good,You can opt out of targeted advertising,Privacy Policy ,"If you opt out of the IBA Service, the IBA Service will no longer deliver interest-based ads.
+Please note, however, that opting out of the IBA Service may not prevent the delivery of generic advertisements to your Smart TV or other devices.
+You may also receive interest-based ads from other Samsung devices, apps or services.
+Please visit the settings menu on the applicable Samsung device, app or service for information on how to opt out of such ads."
+2,17011,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy ,"If you decline to allow the Services to collect, store or share certain information, you may not be able to enjoy full use of all of the features available through the Services"
+3,17013,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy ,The Services are not designed to respond to “do not track” signals received from browsers.<strong>
+4,17014,75,bad,"This service may collect, use, and share location data",Privacy Policy ,"location data, including (1) the precise geolocation of your device if you consent to the collection of this data and (2) information about nearby Wi-Fi access points and cell towers that may be transmitted to us when you use certain Services."
+5,17015,50,bad,Information is gathered about you through third parties,Privacy Policy ,We may obtain certain information about you from publicly or commercially-available sources and from third parties who perform services for us.
+6,24318,50,bad,This service tracks which web page referred you to it,Privacy Policy ,the pages that led or referred you to the Services
+7,24319,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy ,Please note that without cookies you may not be able to use or benefit from all of the features of our Services.
+8,24320,60,bad,This service tracks you on other websites,Privacy Policy ,"we may collect personal information about your online activities on websites and connected devices over time and across third-party websites, devices, apps and other online features and services."

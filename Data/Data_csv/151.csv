@@ -1,0 +1,43 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4473,15,good,The terms for this service are easy to read,,
+1,7287,20,good, Pseudonyms are allowed,Terms of Service,"Our anonymous, numbered accounts <p>We want you to remain anonymous.
+When you sign up for Mullvad, we do not ask for any personal information&nbsp;– no username, no password, no email address.
+Instead, a random&nbsp;account number is generated, a so-called numbered account.
+This number is the only identifier a person needs in order to use a Mullvad account"
+2,7289,60,good,You can access most of the pages on the service's website without revealing any personal information,Terms of Service,"p>
+<p>Anyone at anytime can create as many numbered accounts as they wish on our website.&nbsp;An account can be used by multiple people or by someone other than the person who initially generated it.</p>
+<p"
+3,7290,100,good,You are not being tracked,Terms of Service,"What we don't log <p>We log nothing whatsoever that can be connected to a numbered account's activity:</p>
+<ul>
+<li>no logging of traffic</li>
+<li>no logging of DNS requests</li>
+<li>no logging of connections, including when one is made, when it disconnects, for how long, or any kind of timestamp</li>
+<li>no logging of IP addresses</li>
+<li>no logging of user bandwidth</li>
+<li>no logging of account activity except total simultaneous connections (explained below) and the payment information detailed in this post.</li>
+"
+4,22323,50,good,Only necessary logs are kept by the service to ensure quality,Terms of Service,We do not keep activity logs of any kind.
+5,22324,20,good,The service claims to be GDPR compliant for European users,Terms of Service,"In those cases, we might process your personal data and the General Data Protection Regulation (“GDPR”) and other data protection laws may apply.
+"
+6,22325,20,good,An anonymous payment method is offered,Terms of Service,"Mullvad accepts cash, Bitcoin, Bitcoin Cash, bank wire, credit card, PayPal, and Swish.
+"
+7,22327,40,good,An onion site accessible over Tor is provided,,
+8,22328,40,good,"When the service wants to make a material change to its terms, you are notified at least 30 days in advance",Terms of Service,"Any material changes to these terms will be notified via a prominent notice on mullvad.net/blog at least one month before the changes are applied.
+"
+9,22329,25,neutral,You must create an account to use this service,Terms of Service,"To use the service, you need to use a Mullvad account number together with the Mullvad VPN app,"
+10,22330,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Service,"With a subscription, €5 is automatically deducted from your PayPal account each month."
+11,22331,30,good,You are entitled to a refund if certain thresholds or standards are not met by the service,Terms of Service,"We offer users a 30-day money-back guarantee if you wish to withdraw from these terms or if you are not satisfied with our service.</p>
+<p>The 30-day period starts when your payment is made.
+In the event of a withdrawal, you will be refunded and the expiration date of your account's VPN time will be adjusted to reflect the refunded time.
+If you wish to exercise your right to a refund, please read our refund guide at mullvad.net/help/refunds/.</p>"
+12,22332,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"Despite our best efforts, the service is provided on an “as is” and “as available” basis"
+13,22333,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service, we do not guarantee that the service will be available at all times
+14,22334,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Service,nor the accuracy of the service or any material provided by the service or on the Mullvad website.
+15,22335,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Terms of Service,"The terms shall be construed in accordance with and governed by the substantive laws of Sweden.
+"
+16,22336,50,good,You aren’t forced into binding arbitration in case of disputes,Terms of Service,"Any dispute, controversy, or claim arising out of or in connection with the terms shall be handled by the National Board for Consumer Disputes (ARN) or the Swedish courts, with the city of Gothenburg's district court as the court of first instance.</p> "
+17,22337,40,good, A list of all cookies set by the website is provided,Cookie Policy,"All the cookies we use <p>Yes, this is all of them!</p>
+<ul>"
+18,22375,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"<li>No private information&nbsp.
+not even your email address&nbsp.
+will ever actively be passed to third parties (except the third party which operates our email service on behalf of us), unless you explicitly ask us to.</li>"

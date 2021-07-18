@@ -1,0 +1,68 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4305,50,bad,The copyright license maintained by the service over your data and/or content is broader than necessary.,Terms,"Publishers hereby grant the following:</p>
+<ul>
+<li>To the Company, a worldwide, non-exclusive, royalty-free, sublicensable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the content in connection with the Service, including without limitation for promoting, redistributing in any and all media formats."
+1,4307,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms,"Company reserves the right to modify and
+amend these Terms of Service at any time and without notice, and it is your
+responsibility to review these Terms of Service for any changes.
+Your use of
+the Service following any amendment of these Terms of Service will signify your
+assent to and acceptance of its revised terms."
+2,4308,50,bad,You waive your right to a class action.,Terms,"15.
+Class Action Waiver <blockquote>
+<p>
+<strong>Summary</strong> No dispute related to these Terms of Service may be consolidated into a class action.</p>
+</blockquote>
+<p>YOU AND COMPANY AGREE NOT TO BRING OR PARTICIPATE IN A CLASS, COLLECTIVE, OR
+REPRESENTATIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION OR COLLECTIVE
+ARBITRATION, EVEN IF ARBITRATION PROCEDURES OR RULES WOULD OTHERWISE ALLOW ONE.
+You and Company also agree not to seek to combine any action with any other
+action without the consent of all parties to this Agreement and all other
+actions.</p>
+<p>If the agreement in this Section not to bring or participate in a class,
+collective or representative action, private attorney general action or
+collective arbitration should be found illegal or unenforceable, you and
+Company agree that it shall not be severable, that this entire Section shall be
+unenforceable and any claim or dispute would be resolved in court and not in a
+class or collective action.</p>"
+3,4309,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms,"To the extent permitted by applicable law, you agree to defend, indemnify and
+hold harmless Company and its Affiliates, from and against all claims, damages,
+obligations, losses, liabilities, costs, debt, or expenses (including but not
+limited to attorneys’ fees) arising from: (a) your use and access of the
+service.
+(b) your violation of any term of this Agreement.
+© your violation
+of any third party right, including without limitation any copyright,
+trademark, property or privacy right.
+(d) any claim that your submitted content
+caused damage to a third party."
+4,8885,15,neutral,This service is only available to users over a certain age,Privacy Policy,"Children Under the Age of 13 <p>The Service is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13.
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.
+"
+5,8886,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"Web Beacons.</strong> Pages of the Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit Itch.io, for example, to count users who have visited those pages or opened an email and for other related Service statistics (for example, recording the popularity of certain app content and verifying system and server integrity).</li>"
+6,8887,50,bad, You are being tracked via social media cookies/pixels,Privacy Policy,"When you use the Service or its content, certain third parties may use automatic information collection technologies to collect information about you.
+These third parties may include:</p>
+<ol>
+<li>Social media services like Twitter, Twitch, or Facebook, when you link your accounts to Itch.io."
+7,8888,25,good,Your personal data is not sold,Privacy Policy,<p>We do not intend to sell or market your Personal Information
+8,8889,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Itch.io’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by Itch.io about our Service users is among the assets transferred.</li>"
+9,8890,10,good,You can opt out of promotional communications,Privacy Policy,"If you do not want us to use your email address to promote our own or third parties’ products or services, you can opt-out by de-selecting the option in “Email Notifications” in your user account."
+10,8891,40,good,You can retrieve an archive of your data,Privacy Policy,"
+The Data Export tool can be used to download all data you have explicitly provided and the data we've automatically collected on your user account."
+11,9521,50,neutral,There is a date of the last update of the agreements,Terms,"itch.io Terms of Service<blockquote>
+<p>
+<strong>Updated June 8 2018"
+12,9523,20,good,User suspension from the service will be fair and proportionate.,Terms,"itch.io aims to create a safe environment for users of the site and service.
+This requires a community that is built on goodwill and responsible behavior by
+its members.
+The posting of content or other actions that, in the Company’s
+sole discretion, degrades the experience of others may result in account
+termination without prior notice.
+Prohibited actions include but are not
+limited to:"
+13,9525,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms,"Spamming or sending repeated messages, junk email, contests, surveys or any unsolicited messages;"
+14,9526,0,neutral,You agree not to submit illegal content,Terms,"Uploading viruses or malicious code or acting in any manner to restrict or inhibit any other user from using and enjoying the Service;</li>
+<"
+15,9527,15,good,You have the right to leave this service at any time,Privacy Policy,"You may also send us an email at support@itch.io to request access to, correct, port, delete, or restrict use of any Personal Information that you have provided to us.
+We cannot delete all of your Personal Information except by also deleting your user account.
+We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect."

@@ -1,0 +1,63 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,18439,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,The information collected by log files include internet protocol (IP) addresses
+1,18440,50,bad,This service tracks which web page referred you to it,Privacy Policy,referring/exit pages
+2,18441,10,neutral,Your personal data is aggregated into statistics,Privacy Policy,"The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information."
+3,18442,10,neutral,First-party cookies are used,Privacy Policy,"<p>Like any other website, Shortcutworld uses 'cookies'."
+4,18443,0,neutral,Third parties are involved in operating the service,Privacy Policy,"Google DoubleClick DART Cookie
+<p>Google is one of a third-party vendor on our site."
+5,18444,70,bad,Third-party cookies are used for advertising,Privacy Policy,"It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to shortcutworld.com and other sites on the internet."
+6,18445,5,bad,"Third party cookies are employed, but with opt out instructions",Privacy Policy,"However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – https://policies.google.com/technologies/ads"
+7,18446,20,good,This Service provides a list of Third Parties involved in its operation.,Privacy Policy,"Our Advertising Partners
+<p>Some of advertisers on our site may use cookies and web beacons.
+Our advertising partners are listed below.
+Each of our advertising partners has their own Privacy Policy for their policies on user data.
+For easier access, their Privacy Policies are as followss: https://policies.google.com/technologies/ads</p> Privacy Policies
+<p>You may consult this list to find the Privacy Policy for each of the advertising partners of Shortcutworld."
+8,18447,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy Policy,"Shortcutworld's Privacy Policy does not apply to other advertisers or websites.
+Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information.
+It may include their practices and instructions about how to opt-out of certain options.
+You can choose to disable cookies through your individual browser options.
+To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites."
+9,18448,30,good,Details are provided about what kind of information they collect,Privacy Policy,This Privacy Policy document contains types of information that is collected and recorded by Shortcutworld
+10,18449,30,good,Information is provided about how your personal data is used,Privacy Policy,and how we use it.
+11,18450,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy, Cookies and Web Beacons
+12,18451,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,"Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Shortcutworld, which are sent directly to users' browser.
+They automatically receive your IP address when this occurs.
+These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit."
+13,18452,60,bad,Your Personal data may be sold unless you opt out,Privacy Policy,"(3) Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+If you make a request, we have one month to respond to you.
+If you would like to exercise any of these rights, please contact us."
+14,18453,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"Every user is entitled to the following: (a) The right to access – You have the right to request copies of your personal data whereby we may charge you a small fee for this service, (b) The right to rectification – You have the right to request that we correct any information you believe is inaccurate.
+You also have the right to request that we complete the information you believe is incomplete, (c) The right to erasure – You have the right to request that we erase your personal data, under certain conditions,"
+15,18454,40,good,You can retrieve an archive of your data,Privacy Policy,"(f) the right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+If you make a request, we have one month to respond to you."
+16,18455,90,good,Content is published under a free license instead of a bilateral one,Terms of Use,"<p>If User provide text, images, data, files, links, text, or other materials (""Content"") to the Website, User grants ShortcutWorld certain rights outlined herein including, but not limited to sub-licensing the content under a Creative Commons License."
+17,18456,50,bad,A license is kept on user-generated content even after you close your account,Terms of Use,"If User provides Content, User is granting the ShortcutWorld a royalty-free, worldwide, perpetual, irrevocable,"
+18,18457,50,bad,Your content can be licensed to third parties,Terms of Use,"fully sub-licensable,"
+19,18458,10,good,The service has non-exclusive use of your content,Terms of Use,non-exclusive right
+20,18459,50,bad,Your content can be distributed through any media known now or in the future,Terms of Use,"to use, reproduce, modify, translate, adapt, publish, create derivative works therefrom, transmit, distribute, perform, display and delete such Content in whole or in part worldwide and/or to incorporate such Content in other works in any form, media or technology."
+21,18460,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Use,"(4) User will not post or transmit any Content that is unlawful, untrue, harassing, libelous, defamatory, abusive, tortuous, threatening, harmful, or otherwise objectionable."
+22,18461,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Use,"All information on this page are distributed and transmitted ""as is"" without warranties of any kind, either express or implied,"
+23,18462,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Use,"including without limitation, any warranty for information, services or products provided through or in connection with the ShortcutwWorld service and any implied warranties of merchantability, fitness for a particular purpose, expectation of privacy or non-infringement."
+24,18463,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Use,"ShortcutWorld is not responsible for any damages, including without limitation, any special, indirect, incidental or consequential damages, that may arise from any use of, inability to use, or reliance on the site and/or the materials contained on the site whether the materials contained on the site are provided by the ShortcutWorld, or a third party."
+25,18464,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Use,Information on this web site may contain technical inaccuracies or typographical errors.
+26,18465,50,neutral,This service assumes no responsibility and liability for the contents of links to other websites,Terms of Use,"ShortcutWorld may contains link to sites which are not maintained by ShortcutWorld.
+ShortcutWorld is responsible and has no control over the content of those sites nor guarantees the content of such sites."
+27,18466,50,neutral,The service is not responsible for linked or (clearly) quoted content from third-party content providers,Terms of Use,"All products, services, and deals mentioned by ShortcutWorld are provided by third parties and are subject to change without notice and are subject to restrictions, limitations, availability, conditions, and qualifications.
+ShortcutWorld serves as an informational service and inclusion of a link in this web site does not imply ShortcutWorld's endorsement of the site nor does ShortcutWorld accept any responsibility for the content, or the use, of such web site."
+28,18469,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms of Use,"7.
+Modifications
+<p>Provide may at his sole discretion revise these terms from time to time, or at any time, by updating this Agreement.
+The revised terms will take effect when they are posted."
+29,18470,50,bad,"Instead of asking directly, this Service will assume your consent merely from your usage.",Terms of Use,"By continuing to use the Website and information herein, User is indicating acceptance of an agreement to be bound by the terms of this Agreement and all revisions hereof.</p>"
+30,18471,15,neutral,This service is only available to users over a certain age,Terms of Use,"<p>User may not use this site unless User is at least 13 years old.
+ShortcutWorld will never knowingly solicit nor will it accept personally identifiable information from users known to be under thirteen (13) years of age."
+31,18473,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Use,"If any part of this Agreement is held to be unenforceable, the unenforceable part shall be given effect to the greatest extent possible and the remainder will remain in full force and effect."
+32,18474,10,neutral,You cannot distribute or disclose your account to third parties,Terms of Use,"This Agreement is personal to User and may not be transferred, assigned or delegated to anyone without the express written permission.</p>"
+33,18475,0,neutral,The court of law governing the terms is in location X,Terms of Use,The Terms and Conditions shall be governed by laws of the State of Georgia (except for conflict of law provisions).
+34,18476,50,bad,You are forced into binding arbitration in case of disputes,Terms of Use,"All disputes arising out of or in connection with the Agreement shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce by one or more arbitrators appointed in accordance with the said Rules.
+The arbitration shall take place in Atlanta, GA."
+35,18477,50,neutral,There is a date of the last update of the agreements,Terms of Use,"
+<p>V1.5 Updated Jan, 2021</p>"
+36,18478,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Use,"This disclaimer of liability applies to any damages or injury caused by any error, omission, deletion, defect, interruption, failure of performance, delay in operation or transmission, computer virus, communication line failure, theft or destruction or unauthorized access to, alteration of, or use of record, whether for breach of contract, negligence, tortious behavior, or under any other cause of action.
+"

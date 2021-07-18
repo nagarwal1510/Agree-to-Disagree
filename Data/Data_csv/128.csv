@@ -1,0 +1,5 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,6662,10,bad,Third-party cookies are used for statistics,Privacy Policy,"As part of that service, we place Google Analytics cookies on our site."
+1,6663,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"<p>To the extent we possess it, we may disclose personally identifiable information about you to third parties in limited circumstances."
+2,6664,0,neutral,The service is transparent regarding government requests or inquiries that may involve your data.,Privacy Policy,Law Enforcement and Extenuating Circumstances
+3,6665,50,good,The service promises to inform and/or notify you regarding government inquiries that may involve your personal data,Privacy Policy,"<p>If we are required by law to disclose the information that you have submitted, we will attempt to provide you with prior notice (unless we are prohibited, or it would be futile) that a request for your information has been made in order to give you an opportunity to object to the disclosure."

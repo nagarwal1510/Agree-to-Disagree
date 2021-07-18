@@ -1,0 +1,16 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,11700,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"When this web beacon is accessed, technical information is collected,"
+1,11702,0,neutral,The court of law governing the terms is in location X,Terms of Service,he legal relationship between the contracting partners is governed exclusively by German law with the exclusion of the UN Convention on Contracts for the International Sale of Goods
+2,11703,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"<p>You also have the right to request that inaccurate personal data be <strong>rectified</strong> and where applicable—taking into account the purposes of the processing—incomplete personal data be completed, including by means of a supplementary statement (Art.
+16 of the GDPR).</p>
+</li>
+<li>
+<p>Moreover, in the cases laid out in Art.
+17(1) (a) to (f) of the GDPR, you have a right to request that personal data be <strong>deleted</strong>,"
+3,11704,50,bad, You are being tracked via social media cookies/pixels,Privacy Policy,"The use of Facebook Pixel means that our advertisements on the facebook.com platform (socalled “Facebook Ads”) will only be shown to those Facebook users who have previously visited our website or have indicated, through their usage behavior, that they are interested in certain topics or products."
+4,11705,70,bad,Third-party cookies are used for advertising,Privacy Policy,The cookies used on our website can originate either from us or from third party service providers whose tools we have integrated into our website and serve various different purposes.
+5,11706,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"On the basis of a data processing agreement with us, certain user and usage information is collected by Google, summarized into pseudonymized usage profiles and stored in cookies (see above).
+This includes, for example, information on the browser type/version used, the operating system used, the screen resolution, referrer URL (the website visited prior to this one), anonymized IP address of the computer used to access the website, time of server request, files downloaded, videos watched, advertising banners clicked on, orders placed, sequence of clicks, frequency of page impressions, first and last page visited, time spent on individual pages etc."
+6,11707,50,good,The data retention period is kept to the minimum necessary for fulfilling its purposes,Privacy Policy,The data collected at registration is deleted after expiry of the statutory documentation and data retention periods (in particular those set out under tax and commercial law).
+7,11708,50,bad,Your personal data may be used for marketing purposes,Privacy Policy," to provide us with other analysis services related to the website and its use, e.g.
+on the effect of online marketing campaigns."

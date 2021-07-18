@@ -1,0 +1,26 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,6043,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Terms and Conditions,"We may need to change the terms and conditions.
+If so, we will post notice on our website for a reasonable period before the change takes effect."
+1,6044,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms and Conditions,"We do not promise:</p> a) that the Services will be uninterrupted, secure or error-free."
+2,6045,40,neutral,They may stop providing the service at any time,Terms and Conditions,We may change or discontinue any part of the Services at any time.</p>
+3,6046,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Terms and Conditions,"You must comply with the Amazon Acceptable Use Policy and bring it to the attention of your authorised users.
+You acknowledge that this policy may change from time to time and that it is your responsibility to check it frequently.</p>"
+4,6047,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms and Conditions,"
+<p>9.2 You acknowledge that you are responsible for all persons who use your password or other log-in details to access the Services, whether authorised or not, unless we are at fault.</p>
+<p>9.3 You are responsible for taking your own steps to maintain appropriate security of Your Content, which may include the use of encryption technology to protect Your Content from unauthorized access and routine archiving of Your Content.</p>"
+5,6048,50,good,You maintain ownership of your content,Terms and Conditions,"As between you and us, you or your licensors own all right, title, and interest in and to Your Content.
+Except as provided in this clause, we obtain no rights under this agreement from you or your licensors to Your Content, including any related intellectual property rights."
+6,6049,50,neutral,This service assumes no responsibility and liability for the contents of links to other websites,Terms and Conditions,"Our website may link to third party websites which may be of interest to you.
+We do not recommend or endorse those sites or the products or services which they offer nor are we legally responsible for them as they are outside our reasonable control.
+You use such third party sites at your own risk."
+7,6050,0,neutral,The court of law governing the terms is in location X,Terms and Conditions,This agreement is governed by English law and and any disputes will be decided only by the courts of the United Kingdom.
+8,6051,30,good,Details are provided about what kind of information they collect,Privacy and Cookies Policy,"4.
+<strong>What do we collect?</strong>
+</p>
+<p>4.1 Information which you upload to our service or otherwise give us such as your name, username, email address and other contact details as well as any personal information which you include in public activities on our service, e.g.
+forum posts.</p>
+<p>4.2 Your billing address as well as the last four digits and expiry date of your credit card, which may be sent to us by our payment providers.</p>
+<p>4.3 Automated information such as the internet protocol (IP) address used to connect your device to the internet, connection information such as browser type and version, information about your device including device-type and device identifier, operating system and platform, mobile network data, a unique reference number linked to the data you enter on our system, login details, the site from which you arrived at our service, details of your activity with date / time stamps including pages you visited and your searches / transactions.</p>
+<p>4.4 Personal information of your customers or others which you choose to store on our servers in connection with our supply of services.</p>"
+9,6052,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy and Cookies Policy,"More information and opt out:</b> Click here for Google's privacy policy and here for more information about the kinds of cookies placed by Google.
+Click here for information about how Google uses data from its partners' sites or apps as well as different ways to opt out of Google cookies."

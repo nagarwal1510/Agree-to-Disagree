@@ -1,0 +1,3 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,15218,15,good,Information is provided about security practices,P2P & Privacy," PeerTube wants to deliver the best countermeasures possible, to give you more choice and render attacks less likely."
+1,15362,75,bad,"This service may collect, use, and share location data",P2P & Privacy,The main threat to your privacy induced by BitTorrent lies in your IP address being stored in the instance's BitTorrent tracker as long as you download or watch the video.

@@ -1,0 +1,95 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,639,15,good,The terms for this service are easy to read,,
+1,716,15,good,You have the right to leave this service at any time,Terms of Use,"You can cancel your Netflix membership at any time, and you will continue to have access to the Netflix service through the end of your billing period."
+2,757,50,good,"You can request access, correction and/or deletion of your data",Privacy Statement,"You can request access to your personal information, or correct or update out-of-date or inaccurate personal information we hold about you."
+3,1051,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Statement,"We disclose your information for certain purposes and to third parties, as described below"
+4,1348,50,good,Promises will be kept after a merger or acquisition,Privacy Statement,"In connection with any reorganization, restructuring, merger or sale, or other transfer of assets, we will transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our Privacy Statement.
+</p>
+</li"
+5,10682,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms of Use,"
+use any robot, spider, scraper or other automated means to access the Netflix service."
+6,11354,50,bad,Many third parties are involved in operating the service,Privacy Statement,"The Netflix service may be provided through and/or utilize features (such as voice controls) operated by third party platforms, or contain links to sites operated by third parties whose policies regarding the handling of information may differ from ours."
+7,11355,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Statement,We and our Service Providers use cookies and other technologies (such as web beacons)
+8,11356,0,neutral,The court of law governing the terms is in location X,Terms of Use,These Terms of Use shall be governed by and construed in accordance with the laws of the Netherlands.
+9,12995,80,bad,App required for this service requires broad device permissions,Privacy Statement,"If you use the Netflix app on a mobile device, tablet, or streaming media device, we may collect a resettable device identifier from your device.
+Resettable device identifiers (also known as advertising identifiers) are similar to cookies and are found on many mobile devices and tablets (for example, the ""Identifier for Advertisers"" (or IDFA) on Apple iOS devices and the ""Google Advertising ID"" on Android devices), and certain streaming media devices."
+10,12996,40,bad,Your personal information is used for many different purposes,Privacy Statement,"We use these types of technologies for various reasons, like making it easy to access our services by remembering you when you return.
+to provide, analyze, understand and enhance the use of our services.
+to enforce our terms, prevent fraud.
+to improve site performance, monitor visitor traffic and actions on our site.
+and to deliver and tailor our marketing or advertising, and to understand interactions with our emails, marketing, and online ads on third party sites."
+11,12997,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Statement,"These cookies are strictly necessary to provide our website or online service.
+"
+12,12998,70,bad,Third-party cookies are used for advertising,Privacy Statement,"
+<strong>Advertising cookies and resettable device identifiers:</strong> These cookies and resettable device identifiers use information about your use of this and other websites and apps, your response to ads and emails, and to deliver ads that are more relevant to you and for analytics and optimization purposes.
+These types of ads are called ""interest-based advertising."" The advertising cookies associated with our service belong to our Service Providers."
+13,12999,10,neutral,First-party cookies are used,Privacy Statement,"For example, we and our Service Providers may use these cookies to authenticate and identify our members when they use our websites and applications so we can provide our service to them."
+14,13000,75,bad,"This service may collect, use, and share location data",Privacy Statement,service providers that help us determine a location based on your IP address in order to customize our service and for other uses consistent with this Privacy Statement.
+15,13001,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Statement, IP address (which may tell us your general location)
+16,13002,50,bad,This service tracks which web page referred you to it,Privacy Statement,"referring source (for example, referral URLs),"
+17,13003,50,bad,Information is gathered about you through third parties,Privacy Statement," We collect information from other companies with whom you have a relationship (“Partners”).
+These Partners might include (depending on what services you use): your TV or internet service provider, or other streaming media device providers who make our service available on their device.
+"
+18,13004,50,bad,Your personal data may be used for marketing purposes,Privacy Statement," <p>We use information to provide, analyze, administer, enhance and personalize our services and marketing efforts,"
+19,13005,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Statement,"
+<p>In connection with our use of these technologies, some of the websites and apps where we advertise, as well as advertising technology companies that we use to purchase, deliver, optimize, and/or measure our advertisements (collectively “Advertising Partners”), may receive limited information from us as part of our campaign targeting, measurement, and optimization (e.g., steps completed in sign-up and site visit or app open/install information).</p>
+"
+20,13006,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Statement,"<strong>Promotional offers:</strong> We may offer joint promotions or programs that, in order for your participation, will require us to share your information with third parties.
+In fulfilling these types of promotions, we may share your name and other information in connection with fulfilling the incentive."
+21,13007,30,good,The service will only respond to government requests that are reasonable,Privacy Statement,"</strong> Netflix and its Service Providers may disclose and otherwise use your personal and other information where we or they reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request,"
+22,13008,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Use,"
+If any provision or provisions of these Terms of Use shall be held to be invalid, illegal, or unenforceable, the validity, legality and enforceability of the remaining provisions shall remain in full force and effect."
+23,13009,40,good,"When the service wants to make a material change to its terms, you are notified at least 30 days in advance",Terms of Use,"Changes to Terms of Use.
+Netflix may, from time to time, change these Terms of Use.
+We will notify you at least 30 days before such changes apply to you.
+"
+24,13626,10,good,A free help desk is provided,Privacy Statement,"<p>If you have general questions about your account or how to contact customer service for assistance, please visit our online help center at help.netflix.com."
+25,13627,30,good,A complaint mechanism is provided for the handling of personal data,Privacy Statement,"For questions specifically about this Privacy Statement, or our use of your personal information, cookies or similar technologies, please contact our Data Protection Officer/Privacy Office by email at privacy@netflix.com.
+</p>
+<p>The data controller of your personal information is Netflix International B.V.
+Please note that if you contact us to assist you, for your safety and ours we may need to authenticate your identity before fulfilling your request."
+26,13628,30,good,Details are provided about what kind of information they collect,Privacy Statement,We receive and store information about you such as:
+27,13629,70,bad,Many different types of personal data are collected,Privacy Statement,Collection of Information
+28,13630,5,bad,Tracking pixels are used in service-to-user communication,Privacy Statement,"interact with our customer service,"
+29,13631,50,bad,Extra data may be collected about you through promotions,Privacy Statement,or participate in surveys or marketing promotions.
+30,13632,50,good,Information is provided about how they collect personal data,Privacy Statement,"We collect this information in a number of ways, including"
+31,13633,10,bad,Third-party cookies are used for statistics,Privacy Statement,"<p>online and offline data providers, from which we obtain aggregated demographic, interest based and online advertising related data."
+32,13634,60,bad,This service tracks you on other websites,Privacy Statement,publicly-available sources such as publicly available posts on social media platforms and information available through public databases associating IP addresses with internet service providers (ISPs).</p>
+33,13635,30,bad,Your personal data is used for advertising,Privacy Statement,"For example, we use such information to: </p>
+<ul>
+<li>
+<p>determine your general geographic location, provide localized content, provide you with customized and personalized viewing recommendations for movies and TV shows we think will be of interest to you,"
+34,13636,30,good,Information is provided about how your personal data is used,Privacy Statement,Use of Information
+35,13637,30,bad,Your biometric data is collected,Privacy Statement,"details of your interactions with our customer service, such as the date, time and reason for contacting us, transcripts of any chat conversations, and if you call us, your phone number and call recordings."
+36,13638,10,good,You can opt out of promotional communications,Privacy Statement,"If you no longer want to receive certain communications from us via email or text message, simply access the ""Communications Settings"" option in the ""Account"" section of our website and uncheck those items to unsubscribe.
+Alternatively, click the ""unsubscribe"" link in the email or reply STOP (or as otherwise instructed) to the text message.
+Please note that you cannot unsubscribe from service-related correspondence from us, such as messages relating to your account transactions."
+37,13639,50,bad, You are being tracked via social media cookies/pixels,Privacy Statement,"<p>social plugins and similar technologies allow you to share information.
+</p>
+</li>
+</ul>
+<p>Social plugins and social applications are operated by the social networks themselves, and are subject to their terms of use and privacy policies."
+38,13640,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Statement,"At this time, we do not respond to web browser ""do not track"" signals."
+39,13641,40,good,You can retrieve an archive of your data,Privacy Statement,"<p>If you are the account owner, to download a copy of your personal information go to: www.netflix.com/account/getmyinfo (you must be signed in to access the ""Account"" section), and follow the instructions."
+40,13642,50,good,You can limit how your information is used by third-parties and the service,Privacy Statement,"You can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.
+if we have collected and process your personal information with your consent, then you can withdraw your consent at any time.
+withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+you have the right to complain to a data protection authority about our collection and use of your personal information."
+41,13643,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Statement,"We may retain information as required or permitted by applicable laws and regulations, including to honor your choices, for our billing or records purposes and to fulfill the purposes described in this Privacy Statement.
+We take reasonable measures to destroy or de-identify personal information in a secure manner when it is no longer required."
+42,13644,25,good,You can opt out of targeted advertising,Privacy Statement,"To opt out of interest-based ads from Netflix in connection with a resettable device identifier on a mobile device, tablet, or streaming media devices, please configure the appropriate setting on your device (usually found under ""privacy"" or ""ads"" in your device's settings).
+You may still see Netflix ads on your device, but they will not be tailored to your likely interests."
+43,13645,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Use,"You authorize us to charge any Payment Method associated to your account in case your primary Payment Method is declined or no longer available to us for payment of your subscription fee.
+"
+44,13647,25,neutral,This service is only available for use individually and non-commercially.,Terms of Use,The Netflix service and any content viewed through the service are for your personal and non-commercial use only and may not be shared with individuals beyond your household.
+45,13648,40,good,You are informed about the risk of publishing personal info online,Terms of Use,"To maintain control over the account and to prevent anyone from accessing the account (which would include information on viewing history for the account), the Account Owner should maintain control over the Netflix ready devices that are used to access the service and not reveal the password or details of the Payment Method associated with the account to anyone."
+46,13649,20,bad,"You must provide your legal name, pseudonyms are not allowed",Terms of Use,"You are responsible for updating and maintaining the accuracy of the information you provide to us relating to your account.
+We can terminate your account or place your account on hold in order to protect you, Netflix or our partners from identity theft or other fraudulent activity.
+"
+47,13650,50,neutral,There is a date of the last update of the agreements,Terms of Use,"Last Updated:</strong> December 31, 2019</p>"
+48,14310,50,neutral,The service has a no refund policy,Terms of Use,Payments are non-refundable and we do not provide refunds or credits for any partial - month membership periods or unwatched Netflix content.
+49,14311,25,bad,Your data may be processed and stored anywhere in the world,Privacy Statement,"Whenever in the course of sharing information we transfer personal information to countries outside of the European Economic Area and other regions with comprehensive data protection laws, we will ensure that the information is transferred in accordance with this Privacy Statement and as permitted by the applicable laws on data protection."
+50,20835,15,neutral,This service is only available to users over a certain age,Terms of Use,"You must be 18 years of age, or the age of majority in your province, territory or country, to become a member of the Netflix service."
+51,20836,0,neutral,Minors must have the authorization of their legal guardians to use the service,Terms of Use,Minors may only use the service under the supervision of an adult.
+52,20837,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Use,"The member who created the Netflix account and whose Payment Method is charged (the ""Account Owner"") has access and control over the Netflix account and the Netflix ready devices that are used to access our service and is responsible for any activity that occurs through the Netflix account.
+"

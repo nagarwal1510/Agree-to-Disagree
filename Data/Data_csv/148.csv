@@ -1,0 +1,32 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5504,60,good,Your personal data is used for limited purposes,,
+1,5506,15,good,Information is provided about security practices,,
+2,5518,15,neutral,This service is only available to users over a certain age,,
+3,5521,0,neutral,You agree not to submit illegal content,,
+4,5526,50,neutral,The service has a no refund policy,,
+5,5529,50,neutral,"You are responsible for any risks, damages, or losses that may incur by downloading materials",,
+6,5531,10,neutral,The service does not guarantee accuracy or reliability of the information provided,,
+7,5533,50,bad,You waive your right to a class action.,,
+8,5534,0,neutral,The court of law governing the terms is in location X,,
+9,15693,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,Minds does not respond to Do Not Track (“DNT”) signals and handles all user information consistent with its Terms.
+10,15708,30,good,Information is provided about how your personal data is used,Privacy Policy,There are four categories of sensitive information that is deemed Personal Information which may be collected and stored by Minds:
+11,15711,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service," 2.
+If you create a channel on the Minds platform, you are responsible for maintaining the security of your channel, and you are fully and solely responsible for all activities that occur therein."
+12,15716,50,neutral,Your content can be deleted if you violate the terms,Terms of Service,"4.
+Minds reserves the right to remove any content from the Services that is deemed in violation of these Terms, without prior notice."
+13,20551,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Service,"Refuse, terminate, or suspend your access to all or part of the Services for any or no reason,"
+14,20552,100,good,You are not being tracked,Privacy Policy,"Minds does not track its users over time and across third party websites to provide targeted advertising.
+"
+15,20553,90,good,Features of the website are made available under a free software license,Privacy Policy,<b>Free and Open Source Software (FOSS) -</b> Minds software is free and open source
+16,20554,30,good,The service is open-source,Privacy Policy,Free and open source software enables user to “trust and verify” that Minds software operates as documented and advertised.
+17,20555,20,bad,Usernames can be rejected or changed for any reason,Terms of Service,Force forfeiture of any username for any reason.</p>
+18,20556,40,neutral,They may stop providing the service at any time,Terms of Service,"Modify, ban or terminate the Services for any reason, without notice, at any time, and without liability to you.
+"
+19,20557,20,good, Pseudonyms are allowed,Privacy Policy,"As a cornerstone to our privacy policy, Minds users have the right, and are encouraged, to be anonymous.
+"
+20,20558,50,bad,You are forced into binding arbitration in case of disputes,Terms of Service,"Instead, you and Minds will arbitrate Disputes through binding arbitration pursuant to the Federal Arbitration Act, 9 U.S.C.
+§ 1 et seq.
+(“FAA”), to the maximum extent permitted by applicable law."
+21,20559,40,neutral,The service can intervene in user disputes,Terms of Service,"Minds reserves the right, but has no obligation, to become involved in disputes between you and other Users.
+</p>
+<p>"

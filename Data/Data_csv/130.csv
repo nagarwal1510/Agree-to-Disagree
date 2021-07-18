@@ -1,0 +1,25 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,753,25,good,Your personal data is not sold,"Privacy Policy, Community Rules, and Terms of Service","No sale of personal information <p>LibraryThing will not sell or give personally-identifiable information to any third party.
+This would be evil, and we are not evil.
+Yes, still."
+1,9683,30,good,The service will only respond to government requests that are reasonable,"Privacy Policy, Community Rules, and Terms of Service","
+LibraryThing will not cooperate with non-US law enforcement unless compelled, or if we are convinced the law is at least as just, and applied as justly, as US standards."
+2,9684,50,good,The service promises to inform and/or notify you regarding government inquiries that may involve your personal data,"Privacy Policy, Community Rules, and Terms of Service","As of June 30, 2020, we have never received a National Security Letter, FISA order, or any other classified request for user information."
+3,9685,15,neutral,Your account can be suspended for several reasons,"Privacy Policy, Community Rules, and Terms of Service","LibraryThing staff are empowered to admonish, warn, suspend, and ban users for violations of these terms.
+We are happy to talk things through, but our decisions are final.</li>"
+4,9686,50,good,You maintain ownership of your content,"Privacy Policy, Community Rules, and Terms of Service","We do NOT assert copyright over the things you post to LibraryThing.
+The phrase ""non-exclusive"" above means you can post your content elsewhere.</b> By posting something to LibraryThing you let us use it, but you do not restrict what you can do with it."
+5,9688,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service","Privacy Policy, Community Rules, and Terms of Service","Despite our efforts, no security measure can be absolute, and there can be no guarantee that Your personal information will not be accessed through malicious means, inadvertent disclosure, or mistake.</p>
+<p>"
+6,9689,15,neutral,The posting of pornographic content is prohibited,"Privacy Policy, Community Rules, and Terms of Service",Do not upload X-rated or otherwise highly objectionable pictures.</li>
+7,9691,10,bad,Third-party cookies are used for statistics,"Privacy Policy, Community Rules, and Terms of Service","from Google to anonymously track web usage and analytics (Google).
+"
+8,10861,50,neutral,Blocking first party cookies may limit your ability to use the service,"Privacy Policy, Community Rules, and Terms of Service","If you choose to refuse our cookies, you may not be able to use some portions of this Service.</p> "
+9,11599,10,neutral,First-party cookies are used,"Privacy Policy, Community Rules, and Terms of Service","Domain Cookies <p>We use our own domain-specific cookies to store:</p>
+<ul>
+<li>Session status</li>
+<li>Login information</li>
+<li>General site setting preferences, such as language, display preferences, login, and notification status</li>
+</ul>
+<p>These cookies are not essential to using LibraryThing overall, but are essential to LibraryThing's ""logged in"" site functionality.
+Disabling them may prevent an individual from signing into the service, from seeing the content they want to see, from changing content, etc.</p> "

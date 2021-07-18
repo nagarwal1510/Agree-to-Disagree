@@ -1,0 +1,117 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,1338,40,bad,You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.,,
+1,17500,15,good,"When the service wants to change its terms, you are notified a week or more in advance.",Terms,"We can change these terms at any time by providing you at least 30 days' prior notice of the change, whether via email or via a message in any service we provide."
+2,17501,40,neutral,This service has a no refund policy with some exceptions,Terms,"If you have paid for a subscription that is due to expire after that 30 day notice period and you do not wish to continue to use our services under the new terms, you may terminate your subscription before the new terms come into force.
+We will then (but not otherwise) refund the unexpired portion of your subscription payment within 30 days and close your account."
+3,17502,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms,"You should keep your password and Recovery Key safe and confidential.
+You must not share your password with anyone else and should not release encryption keys to anyone else unless you wish them to have access to your data."
+4,17503,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms,"
+We do not make any guarantees that there will be no loss of data or the services will be bug free."
+5,17504,15,neutral,Your account can be suspended for several reasons,Terms,"If you choose to stop using our services, you must download your data first because after account closure we may, if we wish, delete all your data.
+<br>
+<br> If we suspend or terminate our services to you because you have breached these terms, or someone you have given access to has breached these terms, during the term of that suspension we may, if we wish, delete your data immediately or deny you access to your data but keep it for evidential purposes."
+6,17505,10,neutral,You cannot distribute or disclose your account to third parties,Terms,"You can't, and will ensure that no users within a business account, of which you are administrator: </p>
+<p> 15.1 assign or transfer any rights you have under these terms to any other person (including by sharing your password with someone else) without our prior written consent.
+"
+7,17506,25,bad,You shall not interfere with another person's enjoyment of the service,Terms," 15.2 do anything that would damage, disrupt or place an unreasonable burden on our service or anyone else's use of our service, including but not limited to denial of service attacks or similar.
+</p>
+"
+8,17507,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms," 15.7 use our service: </p>
+<p> 15.7.1 to store, use, download, upload, share, access, transmit, or otherwise make available, data in violation of any law in any country (including to breach copyright or other intellectual property rights held by us or anyone else).
+</p>
+<p> 15.7.2 to send unwelcome communications of any kind (including but not limited to unlawful unsolicited commercial communications) to anyone (e.g.
+spam or chain letters).
+</p>
+"
+9,17508,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms," 15.7.3 to abuse, defame, threaten, stalk or harass anyone, or to harm them as defined in the Harmful Digital Communications Act 2015 (NZ) or any similar law in any jurisdiction."
+10,17509,15,neutral,The posting of pornographic content is prohibited,Terms,"
+<p> 15.7.4 to store, use, download, upload, share, access, transmit, or otherwise make available, unsuitable, offensive, obscene or discriminatory information of any kind."
+11,17510,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms,"
+<p> 15.7.5 to run any network scanning software, spiders, spyware, robots, open relay software or similar software."
+12,17511,20,neutral,You are prohibited from attempting to gain unauthorized access to other computer systems,Terms," 15.7.8 to attempt to gain unauthorised access to any services other than those to which you have been given express permission to access.
+"
+13,17512,30,bad,This service assumes no liability for unauthorized access to your personal information,Terms,We are not responsible if someone else gains access to your computer or other device and/or your Mega password and/or encryption keys for any files.
+14,17513,90,good,Features of the website are made available under a free software license,Terms,"The open source code that we use, where we obtained it, and licences for that code, are all referenced on our websites and via our mobile apps."
+15,17514,50,good,You maintain ownership of your content,Terms,"You own, or undertake that you are authorised to use, any intellectual property in any data you store on, use, download, upload, share, access, transmit or otherwise make available to or from, our systems or using our services."
+16,17516,15,good,Copyright license limited for the purposes of that same service but transferable and sublicenseable,Terms,"You grant us a worldwide, royalty-free licence to use, store, back-up, copy, transmit, distribute, communicate, modify and otherwise make available, your data, solely for the purposes of enabling you and those you give access to, to use our services and for any other purpose related to provision of the services to you and them.
+"
+17,17518,10,neutral,Instructions are provided on how to submit a copyright claim,Terms,"If you believe that your content has been copied or used in a way that constitutes copyright infringement, please provide us with the following information:"
+18,17519,15,neutral,"If you are the target of a copyright claim, your content may be removed",Terms," We reserve the right to remove data alleged to be infringing without prior notice, at our sole discretion, and without liability to you.
+"
+19,17520,20,good,"If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",Terms,"Copyright Counter-Notices <p> 23 We process all takedown notices based on good faith acceptance of the representations from the party submitting the takedown notice.
+We do not review the material before processing the takedown notice.
+</p>
+<p> 24 You may file a counter-notice if you believe that access to a file you have uploaded has been wrongly disabled because it was the subject of an incorrect takedown notice.
+You should only do so if you are confident that no other party owns copyright in the material, or you have rights to store the material and, if you are sharing it, that you have the right to do so.
+</p>
+<p>"
+20,17521,15,good,You have the right to leave this service at any time,Terms,"You can terminate your access to our services at any time by following the 'Cancel your account' link in the Account section of our websites or the Settings section of our mobile apps.
+"
+21,17522,40,neutral,They may stop providing the service at any time,Terms," We may also terminate, suspend or limit our services or any part of our services, for all users or for groups of users, without notice, at any time, and as applicable for any duration of time(s) that we specify, for any reason or no reason, provided that in any such cases, to the greatest extent permitted at law, we will have no liability to you in any regard as a result of any such actions.
+"
+22,17523,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms,"WE DON'T GIVE YOU ANY WARRANTY OR UNDERTAKING ABOUT THE SERVICES WHICH ARE PROVIDED ""AS IS""."
+23,17524,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms,"TO AVOID DOUBT, ALL IMPLIED CONDITIONS OR WARRANTIES ARE EXCLUDED AS MUCH AS IS PERMITTED BY LAW, INCLUDING (WITHOUT LIMITATION) WARRANTIES OF MERCHANTABILITY, FITNESS FOR PURPOSE"
+24,17525,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms,"RELIABILITY, DURABILITY, TITLE AND NON-INFRINGEMENT.
+"
+25,17526,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms,"TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE (THIS INCLUDES OUR EMPLOYEES, OFFICERS, AGENTS AND AUTHORISED RESELLERS) ARE NOT LIABLE WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), EQUITY OR ON ANY OTHER GROUNDS TO YOU OR ANYONE ELSE FOR ANY DIRECT, INDIRECT OR CONSEQUENTIAL DAMAGE, LOSS, COST OR EXPENSE, DAMAGE TO PROPERTY, INJURY TO PERSONS, LOSS OF PROFITS, LOSS OF DATA OR REVENUE, LOSS OF USE, LOST BUSINESS OR MISSED OPPORTUNITIES, WASTED EXPENDITURE OR SAVINGS WHICH YOU MIGHT HAVE HAD, OCCURRING DIRECTLY OR INDIRECTLY FROM THE USE OR ABILITY OR INABILITY TO USE, OR RELIANCE ON, OUR SERVICES, AND BASED ON ANY TYPE OF LIABILITY INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), STATUTORY OR PRODUCT LIABILITY, OR OTHERWISE."
+26,17527,40,bad,You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.,Terms," YOU SHALL INDEMNIFY US AGAINST ALL CLAIMS, COSTS (INCLUDING ALL OUR LEGAL COSTS), EXPENSES, DEMANDS OR LIABILITY, DAMAGES AND LOSSES WHETHER DIRECT, INDIRECT, CONSEQUENTIAL, OR OTHERWISE, AND WHETHER ARISING IN CONTRACT, TORT (INCLUDING IN EACH CASE NEGLIGENCE), OR EQUITY OR OTHERWISE, ARISING DIRECTLY OR INDIRECTLY FROM BREACH BY YOU OR ANYONE YOU GIVE ACCESS TO YOUR DATA, OF ANY OF THESE TERMS OR ANY POLICY REFERENCED IN THESE TERMS.
+</p>"
+27,17528,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms,"DESPITE THE ABOVE, IF ANY COURT OR OTHER COMPETENT AUTHORITY HOLDS US (THIS INCLUDES OUR OFFICERS, STAFF AND AGENTS) LIABLE FOR ANY MATTER RELATED TO THESE TERMS OR OUR SERVICES, OUR TOTAL COMBINED LIABILITY WILL BE LIMITED TO THE MOST RECENT SUBSCRIPTION AMOUNT YOU HAVE PAID TO US."
+28,17529,50,bad,You are forced into binding arbitration in case of disputes,Terms,"Any and all disputes arising out of this agreement, its termination, or our relationship with you shall be determined by binding arbitration under the Arbitration Act 1996 in Auckland, New Zealand, by one arbitrator who shall be a lawyer knowledgeable in relevant technology matters appointed by the President for the time being of the Arbitrators’ and Mediators’ Institute of New Zealand Incorporated (AMINZ) on a request by either you or us."
+29,17530,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms,"We will charge the credit card associated with the business account with the applicable fees (including for any specified minimum) at the monthly billing date, on a recurring basis."
+30,17531,50,neutral,There is a date of the last update of the agreements,Terms,"
+<p>Last updated 18 December 2020, effective 18 January 2021.</p>"
+31,17532,50,good,"User-generated content is encrypted, and this service cannot decrypt it",Privacy Policy,"All Your Files remain encrypted at all times while they are on our system.
+They are never received, stored or otherwise dealt with by us in unencrypted form because any decryption takes place only on your device or that of another user to whom you have provided the file/folder links and keys that are created when you give them access."
+32,17533,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Policy,"We may, but shall not be obliged to, keep Your Files after your account has been suspended or terminated.
+In particular, we may, but shall not be obliged to, keep Your Files where we consider it necessary for evidential purposes relating to a breach of our Cookie Policy, Terms or with respect to current or anticipated action by any competent enforcement authority or other third party.
+"
+33,17534,15,good,Information is provided about security practices,Privacy Policy,"
+Every text message you send is stored as an encrypted binary large object (“<b>blob</b>”)."
+34,17535,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"8.3 When you use our services, our systems retain the following metadata in unencrypted form: </p>
+<p> 8.3.1 Browser type and operating system of the devices from which you have logged in to MEGA.
+</p>
+<p> 8.3.2 IP address and port information for logins, API usage, file uploads, folder creations and link exports."
+35,17536,40,bad,"The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",Privacy Policy,"Where there is no enforcement action likely or commenced and the 12 month period has expired, or after such longer period as is applicable in the case of records of financial transactions relating to your account that we are legally required to retain, Account Data that identifies you will be anonymised, but where you are a contact of, have had a folder shared with you by, or have chatted with, another MEGA user, those details will continue to be retained to allow services to continue for those other users.
+"
+36,17537,40,good,You can retrieve an archive of your data,Privacy Policy,"8.8 You can download your Account Data at https://mega.nz/fm/account/history while you are logged into your account.
+This will provide your Account Data but not Your Files.
+"
+37,17538,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"You can request correction of Account Data if it is considered incorrect, in accordance with the New Zealand Privacy Act 2020 and the GDPR.
+Any requests for access to, or correction of, Account Data that is not available to you when you are logged into your account, or if you cannot log in to your account, should be made to privacy@mega.nz specifying the information in question.
+The information will be provided promptly, and at least within one month, without charge unless the request is manifestly unfounded or excessive.
+Corrections will be promptly considered and actioned if appropriate.
+</p>
+"
+38,17539,50,bad,Many third parties are involved in operating the service,Privacy Policy,"9.1.4 serve advertisements or use third-party advertising companies to serve advertisements on our services and on third party sites, as well as to assist us in analysing our marketing and other business efforts."
+39,17540,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"We collect and keep Usage Data with your consent to provide services and support related to our services, for market and product research and to be able to give users promotional material and special offers on our services."
+40,17542,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Policy," 15 If we think it is necessary or we are obliged by law in any jurisdiction, then we are entitled to give Your Files, Your Chats, any Account Data and any Usage Data to competent authorities, even if those items are encrypted.
+We reserve the right to assist any law enforcement agency with investigations, including disclosure of information to them or their agents.
+We also reserve the right to comply with any legal processes, including but not limited to data breach notification processes, subpoenas, search warrants and court orders initiated by enforcement authorities or other third parties.
+We may disclose Your Files, Your Chats, any Account Data and any Usage Data to enforce or apply our Terms, our Cookie Policy, our Takedown Guidance Policy and this Policy or any other agreement we have with you, or to protect the rights, property, or safety of us or our other users, third parties or the operation of our services."
+41,17543,25,good,Your personal data is not sold,Privacy Policy," We will never sell Your Files, Your Chats, any Account Data or any Usage Data.
+"
+42,17544,10,good,You can opt out of promotional communications,Privacy Policy,"We may send invoices, security or service updates and various other notices by email to the email address listed in your account or using any of our chat or messaging systems.
+They will be deemed to be received in accordance with our Terms.
+</p>
+<p> 20 If appropriate, some of those notices will contain unsubscribe information so you can opt out of further receipt.
+We will abide by any email unsubscription request (other than those we need to send for invoicing, security or service updates and other service provider purposes)."
+43,17545,0,neutral,The court of law governing the terms is in location X,Privacy Policy," Subject to the rights that those in the European Union have under the GDPR, this Policy and its interpretation and operation are governed solely by New Zealand law.
+"
+44,17546,10,neutral,First-party cookies are used,Cookie Policy,Any browser cookies that we set when you visit our website or use our apps are called ‘first party cookies’ as we control them.
+45,17547,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Cookie Policy,"Based on the functionality they provide, we classify all the ‘Cookies’ we use (including browser cookies, local storage, web beacons, tracking URLs and device identifiers) into the following categories: </p>
+<ul>"
+46,17548,70,bad,Third-party cookies are used for advertising,Cookie Policy,"</ul> Advertising Cookies <p> These Cookies are used by us and our approved advertising partners to customise adverts which are shown by us on our services and by third parties on our services and on other websites and services.
+Not accepting these Cookies means you may be shown advertisements that are less relevant.
+We and our approved advertising partners use Advertising Cookies to: </p>
+<ul>
+<li> monitor how often you are displayed certain adverts.
+</li>
+<li> customise the adverts you see based on such things as your location and your actions on our services and the actions you have taken on other websites and services you have previously visited.
+and </li>
+<li> tell us when you click on a particular advert and then to track the following actions you take in response to that advert.
+<"
+47,17549,50,neutral,Blocking first party cookies may limit your ability to use the service,Cookie Policy,"Please note that if you choose to disable some or all Cookies in your browser, it will limit the functionality that different websites and services (including ours) can make available to you.
+"
+48,17550,5,bad,Tracking pixels are used in service-to-user communication,Cookie Policy," Tracking URLs <p> These are specially formatted URLs that let us know when they have been clicked.
+They help us track things like when a particular link in an email is clicked on or which option on a webpage is chosen more often."

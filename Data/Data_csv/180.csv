@@ -1,0 +1,102 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5613,50,good,The service promises to inform and/or notify you regarding government inquiries that may involve your personal data,Privacy Policy,"To the extent the law allows it, we will attempt to provide you with prior notice before disclosing your information in response to such a request."
+1,5615,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"Most modern web browsers give you the option to send a Do Not Track signal to the sites you visit, indicating that you do not wish to be tracked.
+However, there is no accepted standard for how a site should respond to this signal, and we do not take any action in response to this signal"
+2,8171,40,neutral,They may stop providing the service at any time,Reddit User Agreement,"We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time"
+3,8172,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Reddit User Agreement,"p>
+<p>You are solely responsible for the information associated with your Account and anything that happens related to your Account"
+4,8173,50,good,"If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",Reddit User Agreement,"Any ideas, suggestions, and feedback about Reddit or our Services that you provide to us are entirely voluntary, and you agree that Reddit may use such ideas, suggestions, and feedback without compensation or obligation to you."
+5,8175,50,good,You maintain ownership of your content,Reddit User Agreement,<p>You retain any ownership rights you have in Your Content
+6,8176,50,bad,Your content can be licensed to third parties,Reddit User Agreement,"This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit."
+7,8177,50,bad,A license is kept on user-generated content even after you close your account,Reddit User Agreement,"<p>When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license"
+8,8178,50,bad,Your content can be distributed through any media known now or in the future,Reddit User Agreement,"display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed"
+9,8179,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Reddit User Agreement,"we may, in our sole discretion, delete or remove Your Content at any time and for any reason"
+10,8181,10,neutral,You agree not to use the service for illegal purposes,Reddit User Agreement,Use the Services to violate applicable law
+11,9849,50,blocker,You waive your moral rights,Reddit User Agreement,you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content.
+12,9850,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Reddit User Agreement,Our failure to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision.
+13,9851,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Reddit User Agreement,"If any provision of these Terms is, for any reason, held to be illegal, invalid, or unenforceable, the rest of the Terms will remain in effect"
+14,9864,0,neutral,You agree to comply with the law of the service's country,Reddit User Agreement,"All disputes related to these Terms or the Services will be brought solely in the federal or state courts located in San Francisco, California."
+15,9892,20,neutral,The service is provided 'as is' and to be used at your sole risk,Reddit User Agreement,"THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED"
+16,9895,50,neutral,"You are responsible for any risks, damages, or losses that may incur by downloading materials",Reddit User Agreement,"ACCESS TO, AND USE OF, THE SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER SYSTEM, OR LOSS OF DATA RESULTING THEREFROM."
+17,13300,20,neutral,"You agree not to submit libelous, harassing or threatening content",Content Policy,"Rule 1</strong>
+<p>Remember the human.
+Reddit is a place for creating community and belonging, not for attacking marginalized or vulnerable groups of people.
+Everyone has a right to use Reddit free of harassment, bullying, and threats of violence.
+Communities and users that incite violence or that promote hate based on identity or vulnerability will be banned"
+18,13301,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Content Policy,"Rule 2</strong>
+<p>Abide by community rules.
+Post authentic content into communities where you have a personal interest, and do not cheat or engage in content manipulation (including spamming, vote manipulation, ban evasion, or subscriber fraud) or otherwise interfere with or disrupt Reddit communities."
+19,13302,20,good, Pseudonyms are allowed,Content Policy,"Rule 5</strong>
+<p>You don’t have to use your real name to use Reddit, but don’t impersonate an individual or an entity in a misleading or deceptive manner.</p>"
+20,13304,10,neutral,You cannot distribute or disclose your account to third parties,Reddit User Agreement,"You will not license, sell, or transfer your Account without our prior written approval.</p>"
+21,13305,35,neutral,This service does not condone any ideas contained in its user-generated contents,Reddit User Agreement,"The Services may contain information, text, links, graphics, photos, videos, or other materials (“<strong>Content</strong>”), including Content created or submitted to the Services by you or through your Account (“<strong>Your Content</strong>”).
+We take no responsibility for and we do not expressly or implicitly endorse, support, or guarantee the completeness, truthfulness, accuracy, or reliability of any of Your Content."
+22,13306,30,good,Details are provided about what kind of information they collect,Privacy Policy,What We Collect
+23,13307,30,good,Information is provided about how your personal data is used,Privacy Policy,(and How it is Used and Shared)
+24,13308,70,blocker,Private messages can be read,Privacy Policy,"This includes your posts and comments including saved drafts, videos you broadcast via RPAN, your messages with other users (e.g., private messages, chats, and modmail), and your reports and other communications with moderators and with us."
+25,13309,0,neutral,Third parties are involved in operating the service,Privacy Policy,"Reddit uses industry-standard payment processor services (for example, Stripe) to handle payment information."
+26,13310,50,bad,Extra data may be collected about you through promotions,Privacy Policy,"You may choose to provide other information directly to us.
+For example, we may collect information when you fill out a form, participate in Reddit-sponsored activities or promotions, apply for a job,"
+27,13312,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"<br>We may log information when you access and use the Services.
+This may include your IP address,"
+28,13313,50,bad,This service tracks which web page referred you to it,Privacy Policy,"referral URLs,"
+29,13314,10,neutral,First-party cookies are used,Privacy Policy,"We may receive information from cookies, which are pieces of data your browser stores and sends back to us when making requests, and similar technologies."
+30,13315,45,bad,This service receives your precise location through GPS coordinates,Privacy Policy,"We may receive and process information about your location.
+For example, with your consent, we may collect information about the specific location of your mobile device (for example, by using GPS or Bluetooth).
+We may also receive location information from you when you choose to share such information on our Services, including by associating your content with a location, or we may derive your approximate location from other information about you, including your IP address."
+31,13316,50,bad,Information is gathered about you through third parties,Privacy Policy,"
+<u>Information Collected from Other Sources</u>
+<br>We may receive information about you from other sources, including from other users and third parties, and combine that information with the other information we have about you."
+32,13317,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,"For example, we may receive demographic or interest information about you from third parties, including advertisers (such as the fact that an advertiser is interested in showing you an ad), and combine it with our own data using a common account identifier such as a hash of an email address or a mobile-device ID."
+33,13318,70,bad,Third-party cookies are used for advertising,Privacy Policy,"We also may receive information about you, including log and usage data and cookie information, from third-party sites that integrate our Services, including our embeds and advertising technology."
+34,13319,60,bad,This service tracks you on other websites,Privacy Policy,"For example, when you visit a site that uses Reddit embeds, we may receive information about the web page you visited.
+Similarly, if an advertiser incorporates Reddit’s ad technology, Reddit may receive limited information about your activity on the advertiser’s site or app, such as whether you bought something from the advertiser."
+35,13321,30,bad,Your personal data is used for advertising,Privacy Policy,"Programmatic ads</em>
+<br>We partner with third-party programmatic ad exchanges to show advertisements relevant to your interests."
+36,13322,10,bad,Third-party cookies are used for statistics,Privacy Policy,We partner with audience measurement companies (including Quantcast and Nielsen) to learn demographic information about the population that uses Reddit.
+37,13323,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"Communicate with you about products, services, offers, promotions, and events, and provide other news and information we think will be of interest to you"
+38,13324,40,good,You are informed about the risk of publishing personal info online,Privacy Policy,"Although some parts of the Services may be private or quarantined, they may become public (e.g., at the moderator’s option in the case of private communities) and you should take that into consideration before posting to the Services.</p>"
+39,13325,25,good,Your personal data is not sold,Privacy Policy,"Reddit only shares nonpublic information about you in the following ways.
+We do not sell this information."
+40,13326,70,bad,This service shares your personal data with third parties that are not essential to its operation,Privacy Policy,"With linked services.</em> If you link your Reddit account with a third-party service, Reddit will share the information you authorize with that third-party service.
+You can control this sharing as described in ""Your Choices"" below.</li>
+<li>
+<em>With our service providers.</em> We may share information with vendors, consultants, and other service providers who need access to such information to carry out work for us."
+41,13327,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Policy,Their use of personal data will be subject to appropriate confidentiality and security measures.
+42,13328,10,neutral,Your personal data is aggregated into statistics,Privacy Policy,"We may share information about you that has been aggregated or anonymized such that it cannot reasonably be used to identify you.
+For example, we may show the total number of times a post has been upvoted without identifying who the visitors were, or we may tell an advertiser how many people saw their ad."
+43,13329,50,good,The data retention period is kept to the minimum necessary for fulfilling its purposes,Privacy Policy,We store the information we collect for as long as it is necessary for the purpose(s) for which we originally collected it.
+44,13330,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Policy,We may retain certain information for legitimate business purposes or as required by law.
+45,13331,40,good,You can retrieve an archive of your data,Privacy Policy,You can also request a copy of the personal information Reddit maintains about you by following the process described here.
+46,13332,15,good,You have the right to leave this service at any time,Privacy Policy,You may delete your account information at any time from the user preferences page.
+47,13333,20,neutral,"You cannot delete your contributions, but it makes sense for this service",Privacy Policy,"Please note, however, that the posts, comments, and messages you submitted prior to deleting your account will still be visible to others unless you first delete the specific content.
+We may also retain certain information about you as required by law or for legitimate business purposes after you delete your account.<br>"
+48,13334,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,"If you prefer, you can usually choose to set your browser to remove or reject first- and third-party cookies.
+Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services."
+49,13335,25,good,You can opt out of targeted advertising,Privacy Policy,"We also offer you choices about receiving personalized advertisements.
+You can adjust how we personalize advertisements for you by visiting your ads preferences in your account settings, or here if you use Reddit in a web browser.
+You can also use device-level settings to control personalized advertisements on Android (“Reset advertising ID” and “Opt out of Ads Personalization”) and iOS (“Limit Ad Tracking”) devices.
+You may also generally opt out of receiving personalized advertisements from certain third-party advertisers and ad networks."
+50,13336,10,good,You can opt out of promotional communications,Privacy Policy,"You may opt out of receiving some or all categories of promotional communications from us by following the instructions in those communications or by updating your email options in your account preferences here.
+If you opt out of promotional communications, we may still send you non-promotional communications, such as information about your account or your use of the Services."
+51,13337,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,"We may store information on servers and equipment in other countries depending on a variety of factors, including the locations of our users and service providers.
+By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer, and storage of information in and to the U.S.
+and other countries, where you may not have the same rights as you do under local law."
+52,13387,15,neutral,This service is only available to users over a certain age,Terms of Service,"<p>Children under the age of 13 are not allowed to create an Account or otherwise use the Services.
+Additionally, you must be over the age required by the laws of your country to create an account or otherwise use the Services, or we need to have received verifiable consent from your parent or legal guardian.</p>
+<p>In addition, certain of our Services or portions of our Services require you to be 18 years of age or older, so please read all notices and any Additional Terms carefully when you access the Services."
+53,13391,15,neutral,"If you are the target of a copyright claim, your content may be removed",Terms of Service,"Because you alone are responsible for Your Content, you may expose yourself to liability if you post or share Content without all necessary rights."
+54,13396,50,bad,Your content can be distributed through any media known now or in the future,Terms of Service,"to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world."
+55,13398,50,neutral,The service is not responsible for linked or (clearly) quoted content from third-party content providers,Terms of Service,"<p>The Services may contain links to third-party websites, products, or services, which may be posted by advertisers, our affiliates, our partners, or other users (“<strong>Third-Party Content</strong>”).
+Third-Party Content is not under our control, and we are not responsible for any third party’s websites, products, or services."
+56,13399,10,neutral,Instructions are provided on how to submit a copyright claim,Terms of Service,"If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our Copyright Report Form or Trademark Report Form, or by contacting:</p>
+<p>Copyright Agent<br>Reddit, Inc.<br>1455 Market Street, Suite 1600<br>San Francisco, CA 94103<br>copyright@reddit.com</p>"
+57,13409,20,good,"If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",Terms of Service,"If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our Copyright Counter Notice Form or to our Copyright Agent (contact information provided above).
+Please see 17 U.S.C.
+§ 512(g)(3) for the requirements of a proper counter notification."
+58,13410,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Service,"If you submit your Payment Information, you agree to pay all costs that you incur, and you give us permission to charge you when payment is due for an amount that includes these costs and any applicable taxes and fees.</p>"
+59,13411,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service,"Except to the extent prohibited by law, you agree to defend, indemnify, and hold us, our directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the “<strong>Reddit Entities</strong>”) harmless from any claim or demand, including costs and attorneys’ fees, made by any third party due to or arising out of (a) your use of the Services, (b) your violation of these Terms, (c) your violation of applicable laws or regulations, or (d) Your Content.
+We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims."
+60,13412,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Service,"INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT."
+61,13413,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"WHILE REDDIT ATTEMPTS TO MAKE YOUR ACCESS TO AND USE OF OUR SERVICES SAFE, WE DO NOT REPRESENT OR WARRANT THAT OUR SERVICES OR SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.</p>"
+62,13414,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Service,"REDDIT ENTITIES DO NOT WARRANT THAT THE SERVICES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR FREE."

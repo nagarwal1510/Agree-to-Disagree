@@ -1,0 +1,74 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,9254,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Terms of Service,"We may modify the Terms at any time, at our sole discretion.
+If we do so, we'll let you know either by posting the modified Terms on the Site or through other communications."
+1,11657,25,good,Your personal data is not sold,Privacy Policy,We do not and will not sell your data to third parties.
+2,11658,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"<p>Information that we collect from users, including personal information, is considered a business asset.
+Accordingly, if we go out of business or enter bankruptcy, or if we are acquired, e.g., as a result of a transaction such as a merger, acquisition, or asset sale, your personal information may be disclosed or transferred to the third-party acquirer in connection with the transaction."
+3,11659,10,bad,Third-party cookies are used for statistics,Privacy Policy,"
+Google Analytics provides us with the analysis of such data.
+Google's privacy policy is available at http://www.google.com/policies/privacy.</p> Simply <p>Exception #1: We receive your website interaction information from Google for analytical purposes.</p> "
+4,11660,0,neutral,Third parties are involved in operating the service,Privacy Policy,"For our cloud-based Software, we utilize Amazon Web Services for our infrastructure.
+With such infrastructure, you are able to benefit from Amazon Web Services Cloud Compliance security and privacy measures,"
+5,11661,40,good,You are informed about the risk of publishing personal info online,Privacy Policy,"You should be aware that any information you provide in these areas may be read, collected, and used by others who access them."
+6,11662,70,bad,Third-party cookies are used for advertising,Privacy Policy,"<p>We partner with a third-party service provider to display advertising on our website or to manage our advertising on other sites.
+Our third-party service provider may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests"
+7,11664,25,good,You can opt out of targeted advertising,Privacy Policy,If you wish to opt out of interest-based advertising click here [or if located in the European Union click here].
+8,11665,10,good,You can opt out of promotional communications,Terms of Service,"In connection with your use of the Services, we may send you service announcements, administrative messages, and other information.
+You may opt out of some of those communications.
+</p>
+"
+9,17570,50,neutral,There is a date of the last update of the agreements,Terms of Service,"Last Updated: January 19, 2017"
+10,17571,15,neutral,This service is only available to users over a certain age,Terms of Service,You may use the Services only if you are 18 years or older
+11,17572,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"You agree that you won't disclose your Account password to anyone and that you will notify us immediately of any unauthorized use of your Account.
+You are responsible for all activities that occur under your Account, whether or not you know about them.
+</p>
+<p>"
+12,17573,50,good,"If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",Terms of Service,"Malwarebytes welcome feedback, comments and suggestions for improvements to the Services (""Feedback"").
+You can submit Feedback by emailing Malwarebytes at policies@malwarebytes.com .
+Any feedback you provide through the Services shall be deemed to be non-confidential.
+Malwarebytes shall be free to use such information on an unrestricted basis without any obligation to you.
+</p>
+<p>"
+13,17574,50,good,You maintain ownership of your content,Terms of Service,"Malwarebytes does not claim any ownership rights in your User Content and nothing in these Terms will be deemed to restrict any rights that you may have to use and exploit your User Content.
+"
+14,17575,15,good,Copyright license limited for the purposes of that same service but transferable and sublicenseable,Terms of Service,"By making any User Content available through Services you grant to Malwarebytes a non-exclusive, transferable, sublicenseable, worldwide, royalty-free license to use, copy, modify, create derivative works based upon, host, store, distribute, publicly display, and publicly perform your User Content in connection with operating and providing the Services and Content to you and to other users of the Services and to develop new Services."
+15,17576,50,bad,A license is kept on user-generated content even after you close your account,Terms of Service,"This license continues even if you stop using our Services.
+"
+16,17577,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"(iv) is defamatory, obscene, pornographic, vulgar or offensive.
+"
+17,17578,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms of Service,"● Attempt to access or search the Services or Content or download Content from the Services through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by Malwarebytes or other generally available third party web browsers."
+18,17579,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Terms of Service,"We reserve the right, but are not obligated, to remove or disable access to any Content, at any time and without notice, including, but not limited to, if we, at our sole discretion, consider any Content to be objectionable or in violation of these Terms.
+"
+19,17580,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Service," We may terminate your access to and use of the Services, at our sole discretion, at any time and without notice to you."
+20,17581,15,good,You have the right to leave this service at any time,Terms of Service,You can stop using our Services at any time.
+21,17582,40,bad,You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.,Terms of Service,"You will indemnify and hold harmless Malwarebytes and its officers, directors, employee and agents, from and against any claims, disputes, demands, liabilities, damages, losses, and costs and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with (i) your access to or use of the Services or Content, (ii) your User Content, or (iii) your violation of these Terms.
+</p>"
+22,17583,35,bad,"Defend, indemnify, hold harmless; survives termination",Terms of Service,"Upon any termination, discontinuation or cancellation of Services or your Account, all provisions of these Terms which by their nature should survive will survive, including, without limitation, ownership provisions, warranty disclaimers, limitations of liability, and dispute resolution provisions.
+"
+23,17584,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"TO THE EXTENT PERMITTED BY LAW, NEITHER MALWAREBYTES NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SERVICES OR CONTENT WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE SERVICES ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE SERVICES OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT MALWAREBYTES HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE."
+24,17585,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of Service,"<p> TO THE EXTENT PERMITTED BY LAW, IN NO EVENT WILL MALWAREBYTES' TOTAL LIABILITY ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE SERVICES OR CONTENT EXCEED FIFTY U.S.
+DOLLARS ($50 USD)."
+25,17586,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Terms of Service,"The laws of California, U.S.A., excluding California's conflict of laws rules, will apply to any disputes arising out of or relating to these Terms.
+"
+26,17587,50,good,You aren’t forced into binding arbitration in case of disputes,Terms of Service,"All claims arising out of or relating to these Terms will be litigated exclusively in the federal or state courts of Santa Clara County, California, U.S.A., and you and Malwarebytes consent to personal jurisdiction in those courts."
+27,17588,30,good,Your feedback is invited regarding changes to the terms.,Privacy Policy,"<p>Please, if you have any questions or suggestions, don't hesitate to contact us at privacy@malwarebytes.com.</p>"
+28,17589,50,good,Information is provided about how they collect personal data,Privacy Policy,When do we collect your information? 
+29,17590,30,good,Details are provided about what kind of information they collect,Privacy Policy,What information do we collect? 
+30,17591,20,bad,"You must provide your legal name, pseudonyms are not allowed",Privacy Policy,"We may collect the following personal information from you: Contact Information (such as name, email address, mailing address, or phone number).
+"
+31,17592,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"As is true of most websites, we gather certain information automatically.
+This information may include Internet protocol (IP) addresses, browser type, "
+32,17593,50,bad,This service tracks which web page referred you to it,Privacy Policy,"Internet service provider (ISP), referring/exit pages,"
+33,17594,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the unique device identifier.
+"
+34,17596,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,"
+If you prefer, you can always change your browser options to stop accepting cookies or to prompt you before accepting cookies.
+However, if you do not accept cookies you may not be able to access the entirety of our software and services.</p> "
+35,17597,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"<p>We may engage service providers to administer and provide our services.
+We may provide personal information to such service providers only for the purpose of performing services on our behalf"
+36,17598,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,sending marketing communications
+37,17599,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Policy,"Law Enforcement <p>We may disclose personal information to government agencies, law enforcement officials, and private parties as we, in our sole discretion, believe necessary: (1) to satisfy or comply with any applicable law, regulation or legal process.
+(2) to respond to lawful requests, including subpoenas, warrants or court orders.
+(3) to protect our property, rights and safety and the rights, property and safety of third parties or the public in general.
+and (4) to prevent or stop activity we consider to be illegal or unethical.</p>
+<p>"

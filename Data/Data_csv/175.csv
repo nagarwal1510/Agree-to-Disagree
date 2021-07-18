@@ -1,0 +1,14 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,6098,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Terms and Conditions,Customers will be informed of any changes.
+1,6099,30,good,You will be notified about website maintenance,Terms and Conditions,Outages due to possible maintenance work will be advised of in advance
+2,6101,30,good,You are entitled to a refund if certain thresholds or standards are not met by the service,Terms and Conditions,If the contract is ended prematurely (by either party) any remaining credit can be refunded.
+3,6102,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms and Conditions,Posteo does not guarantee that all services listed under item 3 will always be available and error-free.
+4,6103,0,neutral,The court of law governing the terms is in location X,Terms and Conditions,The complete legal relationship between Posteo and its customers is exclusively governed by the law of the Federal Republic of Germany.
+5,6104,15,good,The terms for this service are easy to read,Terms and Conditions,Terms and Conditions
+6,6105,0,neutral,You agree to comply with the law of the service's country,Terms and Conditions,not to break German laws</li>
+7,6107,50,good,IP addresses of website visitors are not tracked,Privacy Policy,"We also do not collect your IP address if you visit our website or if you use our contact form or webmailer.
+We also do not collect or save your IP address if you use an external client to retrieve your emails via IMAP or POP3 or to transmit messages via SMTP to be delivered by us."
+8,6109,100,good,You are not being tracked,Privacy Policy,<p>Posteo is free of tracking tools
+9,6111,50,good,Your personal data is not shared with third parties,Privacy Policy,At no point in time do we voluntarily give personal data to third party companies or service contractors.
+10,6112,40,good,You can retrieve an archive of your data,Privacy Policy,"You can export and save all of your data stored at Posteo (emails, contacts, calendars, notes) locally at any time with the help of open standards and freely available programs."
+11,6113,0,neutral,The service is transparent regarding government requests or inquiries that may involve your data.,Privacy Policy,We document how often government agencies have attempted to acquire such data from Posteo in our transparency reports.

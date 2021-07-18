@@ -1,0 +1,25 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5137,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Use Agreement,"Indemnity <p>You agree to defend, indemnify and hold harmless Company and its subsidiaries, agents, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from:</p>
+<ul>
+<li>Your use of and access to the Service, including any data or work transmitted or received by you.
+</li>
+<li>Your violation of any term of this Agreement, including without limitation, your breach of any of the representations and warranties above.
+</li>
+<li>Your violation of any third-party right, including without limitation any right of privacy, publicity rights or Intellectual Property Rights.
+</li>
+<li>Your violation of any law, rule or regulation of the United States or any other country.
+</li>
+<li>Any claim or damages that arise as a result of any of your User Content or any that are submitted via your account or profile.
+or </li>
+<li>Any other party's access and use of the Service with your unique username, password or other appropriate security code"
+1,6641,50,neutral,There is a date of the last update of the agreements,Terms of Use Agreement,"LAST UPDATED: October 9, 2020</p"
+2,6642,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Use Agreement,"Your subscription will automatically continue on a monthly basis, and you will continue to be charged on a monthly basis at the then-current price (including any applicable taxes), until you cancel your subscription or we terminate it.
+"
+3,6646,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"These third parties may collect information about you and your online activities, either on the Sites or on other websites, through cookies, web beacons, and other technologies to understand your interests and tailor certain advertisements to your interests.</p>
+<p"
+4,7438,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Use Agreement,"Our failure to exercise or enforce any right or provision of these Terms of Use will not operate as a waiver of such right or provision.
+"
+5,14016,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,the Sites do not currently respond to DNT
+6,18220,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Use Agreement,"If any provision of these Terms of Use is, for any reason, held to be illegal, invalid or unenforceable, you and the Company agree that the rest of the Terms of Use will remain in full force and effect, the provision in question may be replaced by the lawful provision that most nearly embodies the original intention of the parties, and that these Terms of Use shall in any event otherwise remain valid and enforceable."
+7,18222,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Use Agreement,"You are solely responsible for the activity that occurs on your profile or account, and you must keep the password for your profile or account secure at all times."
+8,18223,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Use Agreement,"Errors, mistakes, or inaccuracies of content."

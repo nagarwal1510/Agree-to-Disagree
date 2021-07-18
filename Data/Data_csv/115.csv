@@ -1,0 +1,60 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,6820,10,bad,Third-party cookies are used for statistics,Privacy Policy,"In consequence, Google, Inc.
+plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this Site)."
+1,6822,50,good,You can delete your content from this service,Privacy Policy,"3.2 Right to delete your data <p>
+You may at any time access and edit, update or delete your non-restricted contact details by logging into your ISODME platform Account.
+<br> Please note that you will only be able to delete your name during removal of your ISODME Account.
+To delete your Account, please send your request to help@isodme.com, and you will be provided with further guidance."
+2,6823,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,the right to erase any data concerning you.
+3,6825,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"If you would like to stop us using your personal information, you shall request that we erase your personal information and close your ISODME Account with all of its related Services."
+4,6826,30,good,A complaint mechanism is provided for the handling of personal data,Privacy Policy,"RETENTION AND DELETION <p>
+We generally retain your personal information for as long as is necessary for the performance of the contract between you and us and to comply with our legal obligations.
+"
+5,6827,50,good,You maintain ownership of your content,Terms of Service,"If you have a website or other content hosted by ISODME, you shall retain all of your ownership or licensed rights in User Content.<"
+6,6828,50,neutral,There is a date of the last update of the agreements,Terms of Service,Last Revised: 2019-06-15 18:03 EDT
+7,6829,50,neutral,There is a date of the last update of the agreements,Privacy Policy,Last Revised: 2019-03-20 20:48 EDT
+8,6830,50,neutral,There is a date of the last update of the agreements,Terms of Service,Last Revised: 2019-06-15 18:03 EDT
+9,6835,15,neutral,The posting of pornographic content is prohibited,Terms of Service,"ANY USER CONTENT OR CONTENT THAT IS DEFAMATORY, HARASSING, ABUSIVE, HARMFUL TO MINORS OR ANY PROTECTED CLASS, PORNOGRAPHIC, “X-RATED”, OBSCENE OR OTHERWISE OBJECTIONABLE"
+10,6836,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms of Service,"Promotes, encourages or engages in any spam or other unsolicited bulk emails, or computer or network hacking or cracking, cloaking or sneaky redirects.
+"
+11,6837,30,neutral,Alternative accounts are not allowed,Terms of Service,You agree to not create multiple accounts
+12,6838,0,neutral,You agree not to submit illegal content,Terms of Service,"Is illegal, or promotes or encourages illegal activity.
+"
+13,6841,0,neutral,The service is transparent regarding government requests or inquiries that may involve your data.,Privacy Policy,"When providing hosting and other services, personal data might be transferred to data recipients established in third countries and participating in the EU-U.S.
+Privacy Shield Framework.
+<br>
+In certain situations, ISODME may be asked to disclose personal data in response to lawful requests by public authorities, other competent authorities, including when it is required to meet national security or law enforcement requirements, and will do so where permitted by local data protection laws.
+<br>"
+14,6842,50,bad,Information is gathered about you through third parties,Privacy Policy,"9.
+SOURCES OF PERSONAL DATA <p>
+We collect and receive your Personal data from yourself (including your device) as well as from the following sources:
+</p>
+<ul>
+<li>
+Social network operators (such as Facebook, Google, etc.).
+</li>
+<li>
+Third-party service providers, suppliers and our partners."
+15,6843,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Policy,"After deletion of your Account, we will still retain the following data for the purposes of compliance with applicable legal requirements (such as tax, accounting, legal reporting, AML, other) for as long as we are legally required by virtue of the such legal requirements.
+<br>
+Please also note that we may further retain some of your personal information in such cases (i.e., after closure of your ISODME Account):
+</p>
+<ul>
+<li>
+as long as it is necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety."
+16,6844,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"We use cookies, beacons, tags, scripts and other similar technologies, such as CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes).
+We also automatically collect information about device's operating system, phone model, device ID and customer number."
+17,6845,30,bad,Your personal data is used for advertising,Privacy Policy,"To Personalize Advertising and Marketing: to provide targeted and interest based offers we conduct data profiling based on your characteristics, behavior and preferences (based on the information you provide to us, your interactions with the ISODME Platform and its Users, information obtained from third parties, and your search history)."
+18,6846,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT YOUR USE OF THIS SITE AND THE SERVICES FOUND AT THIS SITE SHALL BE AT YOUR OWN RISK AND THAT THIS SITE AND THE SERVICES FOUND AT THIS SITE ARE PROVIDED “AS-IS”, “AS AVAILABLE” AND “WITH ALL FAULTS”."
+19,6847,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Service,"<p>ISODME expressly reserves the right to deny, cancel, terminate, suspend, lock, or modify access to (or control of) any Account or Services (including the right to cancel or transfer any domain name registration) for any reason (as determined by ISODME in its sole and absolute discretion)"
+20,6848,35,bad,"Defend, indemnify, hold harmless; survives termination",Terms of Service,"By using our site, you agree to protect, defend, indemnify and hold harmless ISODME and its officers, directors, employees, agents, and third party service providers from and against any and all claims, demands, costs, expenses, losses, liabilities and damages of every kind and nature (including, without limitation, reasonable attorneys’ fees) imposed upon or incurred by ISODME directly or indirectly arising from (i) your use of and access to this Site or the Services found at this Site.
+(ii) your violation of any provision of this Agreement or the policies or agreements which are incorporated herein.
+and/or (iii) your violation of any third-party right, including without limitation any intellectual property or other proprietary right.
+The indemnification obligations under this section shall survive any termination or expiration of this Agreement or your use of this Site or the Services found at this Site."
+21,6849,40,neutral,They may stop providing the service at any time,Terms of Service,"DISCONTINUED SERVICES AND END OF LIFE POLICY <p>ISODME reserves the right to cease offering or providing any of the Services at any time, for any or no reason, and without prior notice."
+22,6850,10,good,You can opt out of promotional communications,Privacy Policy," <p>When creating an Account at our Platform, you are free to opt-out from receiving various offers directly to your e-mail, phone or in your Account."
+23,6851,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"We use provided contact details and your preferences for direct marketing by sending various offers or newsletters.
+<br>
+These direct marketing offers, depending on your preferences, may be personalized taking into account any other information which you have provided to us (e.g.
+location, social media profile information, purchase history etc.) or we have collected or generated from other sources as described below."
+24,6853,15,neutral,This service is only available to users over a certain age,Terms of Service,"By using this Site or the Services, you represent and warrant that you are (i) at least eighteen (18) years of age, (ii) otherwise recognized as being able to form legally binding contracts under applicable law"

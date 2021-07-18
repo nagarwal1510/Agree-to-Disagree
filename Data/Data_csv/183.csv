@@ -1,0 +1,34 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,1241,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Service, <p>riseup.net may terminate your service at any time for any reason.
+1,9011,50,good,Your personal data is not shared with third parties,Riseup and Government FAQ,We would like to clearly state that Riseup has never given any user information to any third party.
+2,9271,25,good,Your personal data is not sold,Privacy Policy,none of the information we do collect is ever shared.</p
+3,13421,60,good,The service will resist legal requests for your information where reasonably possible,Riseup and Government FAQ,"We would rather pull the plug than submit to repressive surveillance by our government, or any government.
+"
+4,13422,50,good,IP addresses of website visitors are not tracked,Riseup and Government FAQ, we do not keep IP identifying logs
+5,13423,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"We are not liable for any damages related to the use of this service.</li>
+"
+6,13424,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"<p>You may not engage in the following activities through the services provided by riseup.net:</p>
+<ul>
+<li>Harassing or abusing others by engaging in threats, stalking or sending spam."
+7,13425,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"You understand and agree that riseup provides online services “as is” and without any warranty, express, implied, or statutory.
+"
+8,16746,40,good,An onion site accessible over Tor is provided,,
+9,17337,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Service,"We specifically disclaim any implied warrannties of title, merchantability, fitness for a particularly purpose and non-infringement.
+"
+10,17338,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"We make no warranty as to the reliability, accessibility, or quality of our services.
+"
+11,17339,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Terms of Service," <p>We reserve the right to change this policy.
+If we make major changes, we will notify our users in a clear and prominent manner.
+"
+12,17340,25,good,No third-party analytics or tracking platforms are used,Privacy Policy,We do not use any third party cookies or tracking of any kind.</p>
+13,17341,100,good,You are not being tracked,Privacy Policy,"Your web browser communicates uniquely identifying information to all web servers it visits by allowing the site to know details about your operating system, browser information, plugins installed, fonts installed, screen resolution, and much more.
+We do not retain any of this information.</p>"
+14,17342,50,good,"User-generated content is encrypted, and this service cannot decrypt it",Privacy Policy,"<p>All of your data is stored in an encrypted format, and only Riseup has the keys to decrypt the data.
+Additionally, as of March 2017, the storage for all new accounts is personally encrypted.
+Riseup is unable to read any of the stored content for these accounts."
+15,17343,60,good,Your personal data is used for limited purposes,Privacy Policy,"<p>We retain only the bare minimum of information about each user that is required to make the service work.
+"
+16,17344,10,neutral,Your personal data is aggregated into statistics,Privacy Policy,"Anonymous, aggregated information that cannot be linked back to an individual user may be made available to experienced researchers for the sole purpose of developing better systems for anonymous and secure communication.
+For example, we may aggregate information on how many messages a typical user sends and receives, and with what frequency."
+17,17345,15,good,You have the right to leave this service at any time,Privacy Policy,<p>You may choose to delete your riseup.net account at any time.
+18,17346,0,neutral,The terms for this service are translated into different languages,Terms of Service,中文 Español English Português Pyccĸий Deutsch Français Italiano Polski Ελληνικά Català Hindi

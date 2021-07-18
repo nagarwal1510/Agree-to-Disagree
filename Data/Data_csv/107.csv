@@ -1,0 +1,28 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5040,50,good,You can delete your content from this service,Terms and Conditions,"<li>The right to be forgotten.
+You may at any time delete any materials you have uploaded and delete your Account, in which case all the information stored on the Account will be deleted completely and in full</li>"
+1,5041,15,good,You have the right to leave this service at any time,Terms and Conditions,The right to close and delete an Account at will</li>
+2,5043,50,good,The service promises to inform and/or notify you regarding government inquiries that may involve your personal data,Privacy Policy,"To the extent necessary, we may access and store your information in order to comply with instructions (such as search warrant, subpoena, etc.) received from and ordered by a competent authority, which may come from a legal jurisdiction outside of Sweden.
+Idka will inform you of such instructions to such an extent as it is permitted under applicable law."
+3,5046,50,good,You maintain ownership of your content,Terms and Conditions,"<p>The intellectual property rights to any shared digital resources remain with the User that created or uploaded the material.
+Any intellectual property rights to any digital resources such as posts, chats, texts, photos, videos, files, etc.
+created on or uploaded to the Service remain unchanged and rest with the person that uploaded or created the digital resource as it is, provided however that Idka and the Service are given the rights necessary to manipulate and manage the digital resources in order to provide the Service and provide functionality such as, but not limited to, encryption and “in-service” content search.</p>
+<p>We do not acquire any other rights to information that you have uploaded, stored or created on the Service, and such digital assets are not part of the Content.</p>"
+4,5047,20,bad,"You must provide your legal name, pseudonyms are not allowed",Privacy Policy,"When signing up for and using our service, we will collect the following information about you:</p>
+<ol>
+<li>Information that you provide when creating an Account to become a User.
+This information includes, but is not limited to:
+<ol>
+<li>Information, such as your name and address, that uniquely identifies you as a natural or legal person"
+5,5048,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"<li>Your mobile telephone number</li>
+<li>Your profile picture and handle name if supplied</li>
+<li>The date of the creation of your User and your subscription plans</li>
+</ol>
+</li>
+<li>Device information, uniquely identifying the device you use to connect to the Idka Service or the Website"
+6,5049,50,good,You can delete your content from this service,Privacy Policy,"You are entitled to information about the processing of your personal data upon request, in accordance with Swedish privacy legislation.
+Anyone registered in our systems will have the right to access the information we have registered about them, and the right to ask to correct, delete or supplement information that may be false or misleading.
+We will respond to such requests within 30 days.</p>"
+7,5050,10,neutral,First-party cookies are used,Cookie Policy,"We do not allow any third party to place cookies in connection with our services.</p>
+<p>We do, however, need to use persistent cookies to identify you, for instance to allow trusted devices (automatic re-login), to store certain preferences and for internal user statistics.
+We employ encrypted cookies that cannot be used by others."

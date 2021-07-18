@@ -1,0 +1,38 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5006,20,good, Pseudonyms are allowed,Legal and Service Information,"You are allowed to use a
+pseudonym if you so choose"
+1,5007,0,neutral,You agree not to submit illegal content,Legal and Service Information,"If we find objectionable content, it will be removed.
+Examples of such content: pornography, hate speech, pro-abortion or pro-gay
+“marriage” propaganda, illegal or illicit activities, and questionable drug use"
+2,5008,50,good,Third parties are not allowed to access your personal information without a legal basis,Legal and Service Information,"Sometimes we do take a peek to make sure everything goes smoothly for all our
+users, but we never tell anyone what we find (unless we find something very
+illegal"
+3,5009,15,good,The terms for this service are easy to read,,
+4,5010,15,neutral,The posting of pornographic content is prohibited,,
+5,5011,40,good,You can retrieve an archive of your data,,
+6,5012,30,good,This service provides a way for you to export your data,,
+7,5013,0,neutral,This service cannot be held responsible for disputes that you may have with other users,Legal and Service Information,"We are not responsible in any way for the activities of
+users on our online services"
+8,5014,50,good,User accounts can be terminated after having been in breach of the terms of service repeatedly,Legal and Service Information,"If you are misusing, abusing,
+or putting a large amount of strain on our systems, we will ask you to stop
+or to pay a small usage fee.
+If you disregard our requests, we reserve the
+right to terminate your account or otherwise block your access"
+9,5015,20,neutral,No guarantee is given regarding quality,Legal and Service Information,"We are not liable if bad stuff happens, even if it’s our software’s fault"
+10,5016,25,good,No third-party analytics or tracking platforms are used,Legal and Service Information,"Analytical
+data does not move outside Netsyms servers, and you cannot be identified with
+it"
+11,5017,50,good,"You can request access, correction and/or deletion of your data",Legal and Service Information,"If you wish to have
+your personal information removed from our systems, you want a copy of your
+data, or you want to change your information but can’t find a way to do so,
+contact us and we will be happy to assist you"
+12,5018,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Legal and Service Information,We will attempt to notify you via email of any major changes to this document.
+13,5020,50,good,Only necessary logs are kept by the service to ensure quality,Legal and Service Information,"We only retain data as needed to provide you with
+services"
+14,5021,80,good,Logs are deleted after a finite period of time,Legal and Service Information,"We only retain data as needed to provide you with
+services.
+We never log historical location data.
+any such data we receive
+overwrites the older data.
+Under normal conditions, we keep server access logs
+no longer than one month"

@@ -1,0 +1,48 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,16266,30,good,Details are provided about what kind of information they collect,Privacy Policy,What Personal Data do we collect? 
+1,16267,50,bad,Information is gathered about you through third parties,Privacy Policy,"Personal Data we collect from other sources</b>
+</p>
+<p>We also collect information about you from other sources including third parties from whom we purchase Personal Data and from publicly available information."
+2,16268,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"This information may include identifiers, commercial information, and internet activity information such as IP address (or proxy server information),"
+3,16269,50,bad,This service tracks which web page referred you to it,Privacy Policy," identification numbers and features, location, browser type, plug-ins, integrations, Internet service provider, mobile carrier, the pages and files viewed, searches, referring website, app or ad, operating system, system configuration information, advertising and language preferences, date and time stamps associated with your usage, and frequency of visits to the websites.
+"
+4,16270,5,bad,Tracking pixels are used in service-to-user communication,Privacy Policy,"
+<li>If you interact with our websites or emails, we automatically collect information about your device and your usage of our websites or emails (such as Internet Protocol (IP) addresses or other identifiers, which may qualify as Personal Data (please see the “What device and usage data we process” section, below) using cookies, web beacons, or similar technologies;</li>"
+5,16271,25,good,You can opt out of targeted advertising,Privacy Policy,"
+To opt-out of targeted advertising that is provided to us and to third parties by Salesforce DMP, click here.
+"
+6,16272,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"<p>While some internet browsers offer a “do not track” or “DNT” option that lets you tell websites that you do not want to have your online activities tracked, these features are not yet uniform and there is no common standard adopted by industry groups, technology companies, or regulators.
+Therefore, we do not currently commit to responding to browsers’ DNT signals with respect to our websites.
+"
+7,16273,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"This information may include identifiers, commercial information, and internet activity information such as IP address (or proxy server), mobile device number, device and application identification numbers,"
+8,16274,40,bad,Your personal data is used to employ targeted third-party advertising,Privacy Policy,"<li>Third party providers of business contact information, including mailing addresses, job titles, email addresses, phone numbers, intent data (or user behavior data), IP addresses, social media profiles, LinkedIn URLs and custom profiles, for purposes of targeted advertising, delivering relevant email content, event promotion and profiling, determining eligibility and verifying contact information.
+"
+9,16275,50,bad, You are being tracked via social media cookies/pixels,Privacy Policy,"Our websites may use social media features, such as the Facebook “like” button, the “Tweet” button and other sharing widgets (“Social Media Features”).
+"
+10,16279,0,neutral,The terms for this service are translated into different languages,Privacy Policy,"América Latina (Español) </li>
+<li> Brasil (Português) </li>
+<li> Canada (English) </li>
+<li> Canada (Français) </li>
+<li> United States (English) </li>
+</ul> Europe, Middle East, and Africa <ul>
+<li> España (Español) </li>
+<li> Deutschland (Deutsch) </li>
+<li> France (Français) </li>
+<li> Italia (Italiano) </li>
+<li> Nederland (Nederlands) </li>
+<li> Sverige (Svenska) </li>
+<li> United Kingdom (English) </li>
+<li> All other countries (English) </li>
+</ul> Asia Pacific <ul>
+<li> Australia (English) </li>
+<li> India (English) </li>
+<li> 日本 (日本語) </li>
+<li> 中国 (简体中文) </li>
+<li> 香港 (繁體中文) </li>
+<li> 台灣 (繁體中文) </li>
+<li> 한국 (한국어) </li>
+<li> Malaysia (English) </li>
+<li> ประเทศไทย (ไทย) </li>
+<li> All other countries (English) </li>"
+11,16281,10,bad,Third-party cookies are used for statistics,Privacy Policy,"<p>When you visit our websites, we, or an authorized third party, may place a cookie on your device that collects information, including Personal Data, about your online activities over time and across different sites.
+"

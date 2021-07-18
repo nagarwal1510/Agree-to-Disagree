@@ -1,0 +1,48 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,9809,60,bad,User-generated content can be blocked or censored for any reason,Terms of Service,"The service normally allows the user to increase the visibility of its profile
+in various way, but the organization reserves the right to disable the user's
+access to those features.</p>
+<p>"
+1,9811,15,good,You have the right to leave this service at any time,Terms of Service,"The user can quit the service by closing their account.
+"
+2,9812,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"The organization does not implicitly commit to
+anything, in particular it does not guarantee that the service will be
+operational at all times without interruptions"
+3,9814,10,neutral,First-party cookies are used,Terms of Service,"The user acknowledges that cookies are necessary for the service to function and
+agrees to their use."
+4,9815,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Terms of Service,"The organization may modify this contract at any time.
+It undertakes to inform
+the user of any changes."
+5,9816,0,neutral,The court of law governing the terms is in location X,Terms of Service,"This contract is subject to French law.
+Any dispute shall be submitted to the
+competent French jurisdiction.</p>"
+6,9817,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Service,"<p>If a part of this contract is nullified, that judgment does not nullify the rest
+of the agreement.</p> "
+7,9818,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"The organization cannot be held responsible for the consequences of negligence
+by the user, notably of failure by the user to secure their password."
+8,9819,15,neutral,Your account can be suspended for several reasons,Terms of Service,"The organization may close the user's account if it considers that they have
+violated this contract, or a contract with a partner of the organization, or any
+applicable law."
+9,9820,10,neutral,"You are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",Terms of Service,"The user commits to use the service in good faith, in particular the user
+commits not to lie about their identity and not to fill their profile in a
+deceptive way for the purpose of attracting more donations.</p>"
+10,9821,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"The organization does not guarantee that the user will be able to withdraw the
+money in its account without delay.
+"
+11,9822,30,bad,Your use is throttled,Terms of Service,"In particular, the organization may impose a
+delay to deter and protect itself from fraud.</p>"
+12,9823,50,good,Promises will be kept after a merger or acquisition,Terms of Service,"The organization guarantees that the funds the user has put in its custody will
+not be lost in case of bankruptcy of itself or of a third party to whom it has
+delegated the custody of the funds.</p>"
+13,9824,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy,"<p>Visitors of the liberapay.com website can also receive cookies sent by Cloudflare.
+Please read “Understanding the Cloudflare Cookies” if you want to learn more about them.</p>
+<p>On some payment pages, extra cookies may be set by the payment processor.
+Please read these documents if you want more information: Stripe's cookie policy and PayPal's cookie policy."
+14,9825,100,good,You are not being tracked,Privacy," we do not attempt to track people who visit our website, "
+15,9826,60,good,Your personal data is used for limited purposes,Privacy,"we strive to collect only the personal information we actually need,"
+16,9827,25,good,Your personal data is not sold,Privacy,we don't sell it to anyone.
+17,9828,60,good,Your personal data is used for limited purposes,Privacy,we strive to collect only the personal information we actually need
+18,9829,60,good,Your personal data is used for limited purposes,Privacy,collect only the personal information we actually need
+19,9830,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy,Please read these documents if you want more information: Stripe's privacy policy and PayPal's privacy policy.</p> 
+20,9831,15,good,Information is provided about security practices,Privacy,"<p>All network connections are encrypted, except for some communications between machines located in the same datacenter.</p>
+<p>As a precaution against identity theft in case of data leak, the identity information of Liberapay account owners is stored encrypted in our database.</p>"

@@ -1,0 +1,107 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,7034,0,neutral,Third parties are involved in operating the service,Privacy Policy,"We use third-party service providers to help us with various operations, such as payment processing, email automation, website and app diagnostics, analytics and other."
+1,7036,60,good,Your personal data is used for limited purposes,Privacy Policy,"Nord processes user data to a limited scope – for provision of the Services, processing payments for the Services, as well as the functioning of our websites and mobile applications.
+"
+2,7039,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,"Some cookies are essential for our website to operate smoothly.
+"
+3,7040,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,"f you’d like to edit your profile information, delete your account or data, or request to provide you with a copy of your personal information, please contact our support team."
+4,7044,10,neutral,You agree not to use the service for illegal purposes,Privacy Policy,"Under no circumstances is Nord liable for the consequences of your unlawful activities, your willful and negligent activities that violate applicable laws or third-party rights, and any circumstances that may not have been reasonably controlled or foreseen.</p>
+"
+5,7045,15,neutral,This service is only available to users over a certain age,Privacy Policy," is indicated at the top of the text.
+We ask all users to ensure that they are familiar with the most current wording of the Privacy Policy.
+The amendment of"
+6,7052,50,neutral,You authorise the service to charge a credit card supplied on re-occurring basis,Terms of Service,"Your service will automatically be renewed, and your chosen payment method will be charged at the end of each service period, unless you decide to cancel your automatic payments for the Services before the end of the then-current subscription.
+"
+7,7053,30,good,You are entitled to a refund if certain thresholds or standards are not met by the service,Terms of Service,"<p>If you wish to claim a refund, you can do so within 30 days following your purchase of our Services.
+We seek your full satisfaction with our Services."
+8,7054,40,neutral,They may stop providing the service at any time,Terms of Service,"We also reserve the right to modify or update the operation of the Services at our sole discretion, at any time, for any reason, and without notice or liability.
+We may even suspend the Services entirely, in which event we will notify you in advance unless extenuating circumstances, such as safety or security concerns, prevent us from doing so.</p>"
+9,7057,15,neutral,Your account can be suspended for several reasons,Terms of Service,"
+We may suspend your account for clarification, investigation or request you to explain your actions and provide additional information."
+10,7058,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"We give no warranty or representation that the Services will be wholly free from defects, errors and bugs, such as downtime, loss of data, corrupt data, service delay, mistakes, out-of-date information, or other.
+"
+11,7059,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"<p>THE SERVICES (INCLUDING, WITHOUT LIMITATION, OUR SOFTWARE, MOBILE APPLICATIONS, SERVICES AND WEBSITE) ARE PROVIDED “AS IS” AND WITH ALL FAULTS.
+"
+12,7061,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"NEITHER NORD NOR ANY OF ITS PARENTS, SUBSIDIARIES OR AFFILIATES, NOR ANY OF THEIR EMPLOYEES, OFFICERS OR DIRECTORS, SHALL BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF DATA OR INFORMATION OF ANY KIND, LOSS OF BUSINESS, LOST PROFITS, INTERRUPTION OF BUSINESS, COST OF COVER OR ANY OTHER DAMAGES) ARISING OUT OF OR IN ANY WAY RELATED TO THIS AGREEMENT OR THE USE OR INABILITY TO USE THE SERVICES, WHETHER BASED ON CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+13,7062,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service,"You agree, at your own expense, to indemnify, defend and hold harmless Nord, its parents, subsidiaries and affiliates, and their officers, directors, employees, agents, distributors and licensees, from and against any judgments, losses, deficiencies, damages, liabilities, costs, claims, demands, suits, and expenses (including, without limitation, reasonable attorneys’ fees, expert witness fees and expenses) incurred in, arising out of or in any way related to your breach of these Terms, your use of the Services, or any of your other acts or omissions.</p>"
+14,7063,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms of Service,"We reserve the right to modify and update these Terms at our sole discretion, at any time, for any reason, and without liability.</p>"
+15,11288,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"<p>Communication data</p>
+<ul>
+<li>Email address.
+We use your email address to: i) send you important updates and announcements related to your use of our Services.
+ii) respond to your requests or inquiries.
+iii) send you offers, surveys and other marketing content (you can opt-out of those at any time).</li>
+<li>"
+16,11289,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Privacy Policy,"Being based in Panama allows us to keep no logs of users’ online activity (no IP addresses, browsing data, traffic information, etc.).
+"
+17,15722,10,bad,Third-party cookies are used for statistics,Privacy Policy,"Some cookies are essential for our website to operate smoothly.
+others are used to improve website functionality or analyze aggregated usage statistics to improve website performance (as in the case of Google Analytics cookies).
+"
+18,15723,50,neutral,There is a date of the last update of the agreements,Terms of Service,"<p>Last updated: October 27, 2020"
+19,15724,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Terms of Service,"Nord may modify the Terms from time to time.
+The most recent version is the version that applies to your use of the Services.
+If the changes include material changes that affect your rights or obligations, we will notify you in advance of the changes by reasonable means, which could include notification through the client applications, website or via email.
+"
+20,15725,5,bad,Tracking pixels are used in service-to-user communication,Privacy Policy,"We use various tools to help us optimize our emailing campaigns.
+These tools may track events you perform with an email, such as open and unsubscribe.
+"
+21,15726,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"Cookies, pixels and other similar technologies are usually small text or image files that are placed on your device when you visit our website."
+22,15727,40,good, A list of all cookies set by the website is provided,Privacy Policy,You can check what cookies we use in the detailed cookie table that is accessible here.</li>
+23,15728,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"As a result, some of these providers may process personal information.</p>
+<p>Some of our main long-term service providers:</p>
+<ul>
+<li>Live chat and support service platform – Zendesk (provided by Zendesk Inc.);</li>
+<li>Emailing service providers – Iterable (by Iterable Inc.), Sendgrid (by Twilio Inc.);</li>
+<li>Application analytics and diagnostics – Google Analytics, Firebase Analytics (provided by Google);</li>
+<li>AppsFlyer (by AppsFlyer Ltd.), Bugsnag (by Bugsnag Inc.);</li>
+<li>Conversion attribution system – Hasoffers (provided by Tune Inc.);</li>
+"
+24,15729,10,neutral,The service informs you that its privacy policy does not apply to third party websites,Privacy Policy,"
+<p>Sometimes our service providers, for example, distributors, resellers, and app store partners, will be independent controllers of your data.
+Their terms and conditions and privacy policies will apply to such relationships.</p>
+<p>"
+25,15730,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,Your personal information may be processed in any country in which we engage service providers.
+26,15731,60,good,The service will resist legal requests for your information where reasonably possible,Privacy Policy,"
+In cases where, following an appropriate legal process, we are able to identify a specific person, we will provide the limited data we process per our Privacy Policy.
+"
+27,15732,10,good,You can opt out of promotional communications,Privacy Policy,"If you wish to unsubscribe from our communication, you can opt out at any time by clicking the unsubscribe link at the bottom of each message or contacting us at privacy@nordaccount.com.</p>
+"
+28,15733,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"<p>Some browsers have incorporated a “do-not-track” feature that can send a signal to the websites you visit, indicating you do not wish to be tracked.
+Currently, our systems do not recognize browser “do-not-track” requests."
+29,15734,50,bad,"Instead of asking directly, this Service will assume your consent merely from your usage.",Terms of Service,"You understand and agree that any continued use and access to the Services after any updates to these Terms are published, means that you voluntarily agree to be bound by the updated Terms.</p>
+<p>
+<strong>"
+30,15735,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"<p>You are responsible for maintaining the confidentiality of your Nord account username and password and for restricting access to your account.
+"
+31,15736,20,good,This Service provides a list of Third Parties involved in its operation.,Terms of Service,"<p>Only basic payment information is processed through our payment service providers and payment processing partners authorized to provide services within respective country (e.g., payments for the EU are processed by Mollymind AG, registered at Riedstrasse 7, 6330 Cham, Switzerland and by Moonflash Limited, registered at Regent House, 316 Beulah Hill, London, United Kingdom, SE19 3HF.
+For the US – Lagosec, Inc.
+registered at 2035 Sunset Lake Rd., Suite B-2, Newark, Delaware, United States, DE 19702.
+Brazillian payments are processed by CYBERPOST INERMEDIACAO DE NEGOCIOS S.A, tax ID number (CNPJ), - 14.009.852/0001-54, registered at R Fernando Machado 73, Sala 203, Centro, Florianopolis, 88.010-510, SC).</p>
+<p>"
+32,15737,15,good,You have the right to leave this service at any time,Terms of Service,"You have a right to cancel your account at any time.
+"
+33,15738,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Terms of Service,"You agree that you shall not:</p>
+<ul>
+<li>use, assist, encourage, or enable others to use the Services for any unlawful, illicit, illegal, criminal or fraudulent activities, including but not limited to port scanning, sending spam, "
+34,15739,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"share anything that is illegal, abusive, harassing, or otherwise objectionable;"
+35,15741,30,bad,Your use is throttled,Terms of Service,"<p>We reserve the right to refuse service, suspend accounts or limit access to the Services in our sole discretion."
+36,15742,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Service,"WE MAKE NO REPRESENTATION OR WARRANTY WHATSOEVER REGARDING THE COMPLETENESS, ACCURACY, ADEQUACY, SUITABILITY, FUNCTIONALITY, AVAILABILITY, OR OPERATION OF THE SERVICES."
+37,15743,50,bad,You waive your right to a class action.,Terms of Service,"Class action waiver</p>
+<p>Where permitted under the applicable law, class action lawsuits, class-wide arbitrations, private attorney-general actions, and any other proceeding where someone acts in a representative capacity are not allowed.
+"
+38,15744,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Service,"
+<p>If any provision of the Terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that the Terms shall otherwise remain in full force and effect and enforceable.</p>
+"
+39,15745,10,neutral,You cannot distribute or disclose your account to third parties,Terms of Service,"<p>You may not assign these Terms or any rights or interest under these Terms or delegate any obligations to be performed under these Terms, without the Nord’s prior written consent.
+"
+40,15746,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Terms of Service,"Nord can assign its rights and obligations under these Terms to selected third parties without your consent, including but not limited to, in cases of corporate reorganization, merger, acquisitions, sale or transfer of all or substantially all of company assets.</p>
+"
+41,15747,0,neutral,The court of law governing the terms is in location X,Terms of Service,"These Terms shall be governed in all respects by the substantive laws of Panama, without regard to its choice of law provisions.
+"
+42,15748,25,good,Your personal data is not sold,Privacy Policy,"As per definitions in the CCPA, please note that Nord does not sell your personal information.</p>"
+43,16035,20,good,An anonymous payment method is offered,Privacy Policy,"In addition to the traditional payment methods, such as credit cards, users can buy our Service with cryptocurrency."
+44,22300,20,bad, The service is only available in some countries approved by its government,Terms of Service,"You hereby represent and warrant that (1) you are not located in a country that is subject to a U.S.
+Government embargo, or that has been designated by the U.S.
+Government as a “terrorist supporting” country."
+45,22301,100,bad,Logs are kept for an undefined period of time,Privacy Policy,"Access logs.
+As most websites on the internet, our website collects access logs (such as IP address, browser type, operating system) to operate our services and ensure their secure, reliable, and robust performance."

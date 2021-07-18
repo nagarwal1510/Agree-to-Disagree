@@ -1,0 +1,36 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,6054,20,good, Pseudonyms are allowed,Terms of Service,"For User Accounts, any other information requested, such as your real name, is optional."
+1,6055,50,good,You maintain ownership of your content,Terms of Service,You retain ownership of and responsibility for Your Content.
+2,6056,0,neutral,You agree to comply with the law of the service's country,Terms of Service,governed by the federal laws of the United States of America and the laws of the State of California
+3,6057,0,neutral,The service is transparent regarding government requests or inquiries that may involve your data.,Terms of Service,"When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances."
+4,6059,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Service,"You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement."
+5,6060,0,neutral,You agree not to submit illegal content,Terms of Service,is unlawful or promotes unlawful activities
+6,6061,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from</p>
+<ul>
+<li>the use, disclosure, or display of your User-Generated Content"
+7,6062,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Service,"<p>If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent.
+The remaining portions will remain in full force and effect."
+8,6063,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Service,Any failure on the part of Observable to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision.
+9,6064,50,neutral,The service has a no refund policy,Terms of Service,"There will be no refunds for partial months or partial years of service, downgrade refunds, or refunds for months or years unused with an open Team Account."
+10,6065,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"<p>Observable provides the Website and the Service “as is” and “as available,” without warranty of any kind."
+11,6066,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms of Service,"the Service will be uninterrupted, timely, secure, or error-free"
+12,6067,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Service,"that the information provided through the Service is accurate, reliable or correct"
+13,6068,50,bad,The service does not guarantee that software errors will be corrected,Terms of Service,that any defects or errors will be corrected
+14,6069,50,neutral,"You are responsible for any risks, damages, or losses that may incur by downloading materials",Terms of Service,"You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.</p>"
+15,6071,30,good,Details are provided about what kind of information they collect,Terms of Service,Information Observable Collects
+16,6073,50,neutral,There is a date of the last update of the agreements,Terms of Service,"Effective date: March 12, 2019"
+17,6074,50,good,You aren’t forced into binding arbitration in case of disputes,,
+18,6075,15,good,You have the right to leave this service at any time,Terms of Service,You may close your account at any time.
+19,6076,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Terms of Service,">As Observable grows and continues to add features, we may update these Terms of Service.
+When a material change is made, we’ll post notice of the update on the Website.</em>"
+20,6077,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"You are responsible for all content posted and activity that occurs under your account (even if the content is posted by others).</li>
+<li>You are responsible for maintaining the security of your account."
+21,6078,15,neutral,The posting of pornographic content is prohibited,Terms of Service,is or contains sexually obscene content
+22,6079,20,neutral,"You agree not to submit libelous, harassing or threatening content",Terms of Service,"you will not under any circumstances:</p>
+<ul>
+<li>harass, abuse, threaten, or incite violence towards any individual or group"
+23,6083,20,bad,"You must provide your legal name, pseudonyms are not allowed",Terms of Service,"To complete signup for Team Accounts, a company name, your real name, and valid payment information must also be provided."
+24,11252,50,blocker,You waive your moral rights,Terms of Service,"You retain all moral rights to Your Content that you upload, publish, or submit to any part of the Service, including the rights of integrity and attribution.
+However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted in Section E.4, but not otherwise.</p>"
+25,11253,30,bad,Your use is throttled,Terms of Service,"<p>If we determine your bandwidth usage to be excessive in relation to other Observable users, we reserve the right to suspend your account or throttle your notebook hosting until you can reduce your bandwidth consumption.</p>"
+26,11254,30,neutral,Alternative accounts are not allowed,Terms of Service,One person or legal entity may maintain no more than one free account.</li>

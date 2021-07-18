@@ -1,0 +1,49 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4689,20,good, Pseudonyms are allowed,Privacy Policy,"You do not have to give your personal or legal name to create an npm
+account.
+You can use a pseudonym instead."
+1,4723,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,npm does not respond to the Do Not Track HTTP header
+2,4724,50,good,You maintain ownership of your content,Open-Source Terms,">Nothing in this Agreement gives npm any ownership rights in intellectual
+property that you share with npm Services, such as your Account
+information or any Packages you share with npm Services (<em>Your
+Content</em>)."
+3,4725,50,good,You are free to choose the type of copyright license that you want to use over your content,Open-Source Terms,You decide whether and how to license it.
+4,4726,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Open-Source Terms,">You will indemnify npm, its officers, directors, employees,
+representatives, and agents, and hold them harmless for, all liability,
+expenses, damages, and costs from any third-party claims, demands,
+lawsuits, or other proceedings alleging that Your Content, your use
+of npm Services, or both, violate the intellectual property right of
+a third party, this Agreement, or applicable law."
+5,4747,15,neutral,This service is only available to users over a certain age,Open-Source Terms,>You must be at least 13 years of age to use npm Services.
+6,4748,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Open-Source Terms,"You will be responsible for all action taken using your account, whether
+authorized by you or not, until you either close your account or give
+npm notice that the security of your Account has been compromised.
+You will notify npm immediately if you suspect the security of your
+Account has been compromised.
+You will select a secure password for your
+Account.
+You will keep your password secret."
+7,4749,15,neutral,Your account can be suspended for several reasons,Open-Source Terms,"npm may restrict, suspend, or terminate your Account according to the
+Copyright Policy, if npm reasonably believes that you are in breach of
+these Terms, or if npm reasonably believes that you have misused npm
+Services.</p>"
+8,4750,20,neutral,The service is provided 'as is' and to be used at your sole risk,Open-Source Terms,"Use of npm Services is at your sole risk.
+npm Services are provided
+on an ""as is"" and ""as available"" basis."
+9,4751,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Open-Source Terms,"npm makes no warranty that npm Services will meet your requirements,
+operate in an uninterrupted, timely, secure, or error-free manner"
+10,4752,50,bad,The service does not guarantee that software errors will be corrected,Open-Source Terms,"or
+that errors in npm Services will be corrected.</em>"
+11,4753,50,neutral,"You are responsible for any risks, damages, or losses that may incur by downloading materials",Open-Source Terms,"You will be
+solely responsible for any damage to your computer system and network,
+as well as any data loss that may result from use of npm Services or
+material received via npm Services."
+12,4754,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Open-Source Terms,">npm Services may provide information and software that is inaccurate,
+incomplete, misleading, illegal, offensive, or otherwise harmful."
+13,4755,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Open-Source Terms,"Neither npm nor any third-party service provider used by npm to
+provide npm Services will, under any circumstances, be liable to you
+for any indirect, incidental, consequential, special, or exemplary
+damages related to your use of npm Services"
+14,4756,50,bad,You waive your right to a class action.,Open-Source Terms,"You will settle any Dispute as an
+individual, and not as part of a class action or other representative
+proceeding, whether as the plaintiff or a class member."

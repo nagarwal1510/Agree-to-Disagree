@@ -1,0 +1,65 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5213,15,neutral,This service is only available to users over a certain age,Terms of Use,"You must be at least 13 years old to register for an account.
+You are responsible for your account.<p>
+</p>
+<p>When you create an account you must provide us with accurate information, in good faith, and you agree to keep your information updated if it changes.</p>
+<p>To create an account you must be at least 13 years old.
+To join a creator’s membership as a patron, or provide a membership as a creator, you must be at least 18 years old or have your parent’s permission.</"
+1,6957,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Cookie Policy,"Do-not-track” technologies<p>
+</p>
+<p>We do not respond to web browser “Do-Not-Track” signals."
+2,7333,50,neutral,There is a date of the last update of the agreements,Terms of Use,Effective immediately for users on Patreon from
+3,13506,15,good,Information is provided about security practices,Security Policy,"We use reasonable and appropriate physical, technical, and administrative industry safeguards to protect information from unauthorized access, use, loss, misuse or unauthorized alteration.</p>"
+4,13508,10,neutral,You agree not to use the service for illegal purposes,Security Policy,Don’t break the law or encourage others to break the law.</li>
+5,13509,10,neutral,First-party cookies are used,Cookie Policy,"Patreon uses cookies and other tracking technologies to provide our service.
+Cookies are not strictly necessary for the website to work, but it will provide you with a better browsing experience."
+6,13510,50,neutral,Blocking first party cookies may limit your ability to use the service,Cookie Policy,"If you choose to delete or block these cookies, some features of this site may not work as intended."
+7,13511,50,good,The cookies used by this service do not contain information that would personally identify you,Cookie Policy,Cookies are not used to identify you personally and are not used for any purpose other than those described here.
+8,13512,50,bad, You are being tracked via social media cookies/pixels,Cookie Policy,"Social Networks / Marketing:</p>
+<p>Some technologies help you to interact with social networks you are signed into while using Patreon, such as logging in with the social network and other features you employ with the social network, or that are allowed in the social network’s privacy policy.
+These may be set and controlled by the social networks, and your preferences with those social networks.</p>"
+9,13514,30,bad,Your use is throttled,Terms of Use,"<p>We try to provide timely access to your funds, but you may occasionally experience delays in accessing your funds.
+We may also block or hold payments for violations of our policies or for compliance reasons, including collecting tax reporting information.
+When payments are delayed or blocked we try to communicate the reason to you promptly."
+10,13515,10,neutral,You cannot distribute or disclose your account to third parties,Terms of Use,<p>An account is tied to your creative output and cannot be sold or transferred for use by another creator.</p>
+11,13516,40,neutral,This service has a no refund policy with some exceptions,Terms of Use,"Our policy is No Refunds, though we will allow for some exceptions where refunds are granted in our sole discretion.</p>"
+12,13517,15,good,You have the right to leave this service at any time,Terms of Use,To summarize: You can delete your account here.
+13,13518,60,bad,Your account can be deleted without prior notice and without a reason,Terms of Use,"We can disable your account at our discretion.<p>
+</p>
+<p>You can permanently delete your account at any time by going to our Privacy Center.
+On that page you can also see what information is deleted and what we continue to store after the account is deleted.</p>
+<p>We can terminate or suspend your account at any time at our discretion.
+We can also cancel any membership subscriptions and remove any descriptions, posts or benefits at our discretion."
+14,13519,50,good,You maintain ownership of your content,Terms of Use,"To summarize: You keep complete ownership of all creations, but you give us permission to use them on Patreon.
+Make sure you have permission to use creations that you offer on Patreon.<p>
+</p>
+<p>You keep full ownership of all creations that you offer on Patreon, but we need licenses from you to operate Patreon effectively."
+15,13520,50,bad,A license is kept on user-generated content even after you close your account,Terms of Use,"By posting creations on Patreon you grant us a royalty-free, perpetual, irrevocable,"
+16,13521,10,good,The service has non-exclusive use of your content,Terms of Use,"non-exclusive,"
+17,13522,50,bad,Your content can be licensed to third parties,Terms of Use,"sublicensable, worldwide license"
+18,13523,15,good,Copyright license limited for the purposes of that same service but transferable and sublicenseable,Terms of Use,"to use, reproduce, distribute, perform, publicly display or prepare derivative works of your creation.
+The purpose of this license is strictly limited to allow us to provide and promote memberships to your patrons.
+We will never try to steal your creations or use them in an exploitative way.</p>"
+19,13524,20,good,This Service provides a list of Third Parties involved in its operation.,Terms of Use,"You may grant Patreon permission to access third-party apps.
+You may also revoke that permission.<p>
+</p>
+<p>You may grant Patreon access to your third-party accounts, such as Google, YouTube, Facebook, Instagram, Twitter, and Twitch, in order for some Patreon features to operate.
+Each time you connect your third-party account, that third-party account will present a page that describes the information that Patreon can access.</p>
+<p>At any time, you can revoke Patreon’s access to those accounts using the respective third party’s security settings page.</p>
+<p>These are the links for each service:</p>GoogleTerms of ServicePrivacy PolicyRevoke Patreon's AccessYouTubeTerms of ServicePrivacy PolicyRevoke Patreon's AccessFacebookTerms of ServicePrivacy PolicyRevoke Patreon's AccessInstagramTerms of ServicePrivacy PolicyRevoke Patreon's AccessTwitterTerms of ServicePrivacy PolicyRevoke Patreon's AccessTwitchTerms of ServicePrivacy PolicyRevoke Patreon's Access<p>"
+20,13525,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms of Use,"<p>You will indemnify us from all losses and liabilities, including legal fees, that arise from these terms or relate to your use of Patreon.
+We reserve the right to exclusive control over the defense of a claim covered by this clause.
+If we use this right then you will help us in our defense.</p>
+<p>Your obligation to indemnify under this clause also applies to our subsidiaries, affiliates, officers, directors, employees, agents and third party service providers.</p>"
+21,13526,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Use,Patreon is provided “as is” and without warranty of any kind.
+22,13527,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Use,"Any warranty of merchantability, fitness for a particular purpose, non-infringement, and any other warranty is excluded to the greatest extent permitted by law."
+23,13528,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms of Use,"If you lose money as a result of using Patreon, any payment to you is limited to the amount of money we have earned through your use of Patreon."
+24,13529,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Use,"To the extent permitted by law, we are not liable to you for any incidental, consequential or punitive damages arising out of these terms, or your use or attempted use of Patreon."
+25,13530,0,neutral,The court of law governing the terms is in location X,Terms of Use,"California law, excluding its conflict of law provisions, governs these terms, all other Patreon policies, and any dispute that arises between you and Patreon.</p>"
+26,13531,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Use,"If any provision of these terms is held to be unenforceable, then that provision is modified to the extent necessary to enforce it.
+If a provision cannot be modified, it is severed from these terms, and all other provisions remain in force."
+27,13532,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Use,"If either party fails to enforce a right provided by these terms, it does not waive the ability to enforce any rights in the future.</p>"
+28,13533,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify",Terms of Use,"<p>We may sometimes make changes to these terms and policies.
+If we make material changes that adversely affect your rights, then we will let you know before the changes come into effect."
+29,13534,50,good,Archives of their agreements are provided so that changes can be viewed over time,Terms of Use,You can find the old terms of use here.
+30,13535,50,bad,"Instead of asking directly, this Service will assume your consent merely from your usage.",Terms of Use,Continuing to use Patreon after a change means you accept the new terms or policies.

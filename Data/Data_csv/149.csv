@@ -1,0 +1,37 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,13999,50,bad,You are forced into binding arbitration in case of disputes,Services Agreement," you and we agree to <strong>binding individual arbitration before the American Arbitration Association (""AAA"") under the Federal Arbitration Act (""FAA""), and not to sue in court in front of a judge or jury</strong>."
+1,14000,50,bad,You waive your right to a class action.,Services Agreement,"Binding Arbitration and Class Action Waiver If You Live In (or, If a Business, Your Principal Place of Business Is In) the United States.</strong> "
+2,14009,20,neutral,The service is provided 'as is' and to be used at your sole risk,Services Agreement,"WE PROVIDE THE SERVICES ON AN ""AS IS"" BASIS "
+3,14010,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Services Agreement,"
+MICROSOFT DOESN'T GUARANTEE THE ACCURACY OR TIMELINESS OF THE SERVICES.
+"
+4,14011,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Services Agreement,"TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAW, WE EXCLUDE ANY IMPLIED WARRANTIES, INCLUDING FOR MERCHANTABILITY,"
+5,14012,20,neutral,No guarantee is given regarding quality,Services Agreement,"SATISFACTORY QUALITY,"
+6,14013,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Services Agreement,"WE DO NOT GUARANTEE THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE"
+7,14014,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Services Agreement,"
+If you have any basis for recovering damages (including breach of these Terms), you agree that your exclusive remedy is to recover, from Microsoft or any affiliates, resellers, distributors, Third-Party Apps and Services providers, and vendors, direct damages up to an amount equal to your Services fee for the month during which the loss or breach occurred (or up to $10.00 if the Services are free)."
+8,14051,50,bad,"Instead of asking directly, this Service will assume your consent merely from your usage.",Services Agreement,"You accept these Terms by creating a Microsoft account, through your use of the Services, or by continuing to use the Services after being notified of a change to these Terms.
+"
+9,14052,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Services Agreement,"We may change these Terms at any time, and we’ll tell you when we do.
+"
+10,14053,15,good,You have the right to leave this service at any time,Services Agreement,"
+You can cancel specific Services or close your Microsoft account at any time and for any reason.
+To close your Microsoft account, please visit https://account.live.com/closeaccount.aspx."
+11,14054,40,neutral,This service has a no refund policy with some exceptions,Services Agreement,"
+No refunds will be given for any charges more than 90 days old.
+We reserve the right to issue refunds or credits at our sole discretion.
+"
+12,14055,25,neutral,This service is only available for use individually and non-commercially.,Services Agreement,The Program is solely for your personal and noncommercial use.
+13,15369,30,good,Details are provided about what kind of information they collect,Privacy Policy,Personal data we collect
+14,15370,30,good,Information is provided about how your personal data is used,Privacy Policy,How we use personal data
+15,15371,50,bad,Information is gathered about you through third parties,Privacy Policy,We also obtain data from third parties.
+16,15372,50,bad,Many third parties are involved in operating the service,Privacy Policy,"These third-party sources vary over time and include:</p>
+<ul>
+<li>Data brokers from which we purchase demographic data to supplement the data we collect.</li>
+<li>Services that make user-generated content from their service available to others, such as local business reviews or public social media posts.</li>
+<li>Communication services, including email providers and social networks, when you give us permission to access your data on such third-party services or networks.</li>
+<li>Service providers that help us determine your device’s location.</li>
+<li>Partners with which we offer co-branded services or engage in joint marketing activities.</li>
+<li>Developers who create experiences through or for Microsoft products.</li>
+<li>"
+17,19852,50,neutral,There is a date of the last update of the agreements,Privacy Policy,Last Updated: January 2021

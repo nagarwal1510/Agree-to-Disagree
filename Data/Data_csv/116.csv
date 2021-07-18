@@ -1,0 +1,32 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5349,10,neutral,First-party cookies are used,Privacy Policy,"We use cookies on our website for analytics purposes.
+Pages on our website include a small script that sends to us basic device information (like device screen resolution, country and duration of a visit).</p>"
+1,5350,30,good,Details are provided about what kind of information they collect,Privacy Policy,What information does iStudiez Team collect? <p>We collect the following information from you:
+2,5351,50,good,Information is provided about how they collect personal data,Privacy Policy,"<p>Your information can be collected by iStudiez Team only if you:
+</p>
+<ul>
+<li>Use iStudiez Pro Cloud Sync service;</li>
+<li>Contact us;</li>
+<li>Send us your iStudiez Pro data backup (for support purposes)."
+3,5352,25,good,Your personal data is not sold,Privacy Policy,"<li>We do not sell, trade, or otherwise transfer your personal information and/or your iStudiez Pro data to any third parties"
+4,5353,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Policy,"<li>We may disclose the minimum of your information with trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential"
+5,5354,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"We may also release your information when we believe release is appropriate to comply with the law, enforce our corporate policies, or protect ours or others rights, property, or safety."
+6,5355,0,neutral,The service is transparent regarding government requests or inquiries that may involve your data.,Privacy Policy,How does iStudiez Team respond to legal requests for my information?
+7,5356,50,good,Third parties are not allowed to access your personal information without a legal basis,Privacy Policy,"We vigilantly protect the privacy of your account.
+We will not disclose your information to law enforcement or other governmental authorities unless we believe it is required to comply with warrants, court orders, subpoenas, or other lawful government requests.
+In rare cases, we may share your information as necessary to investigate or take action regarding illegal activities, suspected fraud, or as otherwise necessary to comply with our legal obligations.</p>"
+8,5357,50,good,You can delete your content from this service,Privacy Policy,"The data from your iStudiez Pro Cloud Sync account is stored on our servers.
+It is accessible to you until you make the decision to delete it.</p>"
+9,5358,15,neutral,Your account can be suspended for several reasons,Privacy Policy,"<p>We may delete your Cloud Sync account including all your iStudiez Pro data stored on our servers if you do not log into it for more than six months.
+If that happens, we will try to notify you before taking any action.</p>"
+10,5359,30,good,The service reviews its privacy policy on a regular basis,Privacy Policy,<p>This Privacy Policy is subject to revision from time to time on a going-forward basis.
+11,5360,70,bad," Terms may be changed any time at their discretion, without notice to you ",Privacy Policy,"If we decide to change our Privacy Policy, we will post those changes on this page.</p>
+<p>By using Cloud Sync service or contacting us (by email, social media or any other way) you consent to our Privacy Policy.</p"
+12,5361,15,neutral,This service is only available to users over a certain age,Privacy Policy,"iStudiez Pro has 4+ age rating on the Stores, where it is present.
+It means, that there are no age limitations if you don’t use iStudiez Pro Cloud Sync service or contact us (where your contact details are required).</p>
+<p>To create iStudiez Pro Cloud Sync account you must be at least 13 years old."
+13,5362,50,good,You maintain ownership of your content,Privacy Policy,"<li>We do not own or pretend for the ownership of your information.
+Everything you put in iStudiez Pro is yours.
+By using iStudiez Pro Cloud Sync service, you give us the permission to do certain things with your data so that we can run our service."
+14,5363,60,good,You can access most of the pages on the service's website without revealing any personal information,Privacy Policy,"We get an access to your personal information only when you create iStudiez Pro Cloud Sync account or contact us.
+Otherwise, your personal information or the data you enter into iStudiez Pro is not collected by iStudiez Team."

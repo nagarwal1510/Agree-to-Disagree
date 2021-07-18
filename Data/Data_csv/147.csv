@@ -1,0 +1,91 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,833,50,bad,This service reserves the right to disclose your personal information without notifying you,Terms of Use,"Microsoft reserves the right at all times to disclose any information as Microsoft deems necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in Microsoft's sole discretion."
+1,1248,50,bad,The service disables software that you are not licensed to use.,Services Agreement,"The application is licensed, not sold.
+This agreement only gives you some rights to use the application.
+If Microsoft disables the ability to use the applications on your devices pursuant to your agreement with Microsoft, any associated license rights will terminate.
+The application publisher reserves all other rights.
+Unless applicable law gives you more rights despite this limitation, you may use the application only as expressly permitted in this agreement."
+2,1255,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Services Agreement,"We may also block delivery of a communication (like email, file sharing or instant message) to or from the Services in an effort to enforce these Terms or we may remove or refuse to publish Your Content for any reason.
+"
+3,1440,0,neutral,The service is transparent regarding government requests or inquiries that may involve your data.,,
+4,1581,60,bad,Your account can be deleted without prior notice and without a reason,Privacy Statement,"Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract.
+or if this relates to an existing product you’re using, we may have to suspend or cancel it.
+We will notify you if this is the case at the time."
+5,10057,50,good,"You can request access, correction and/or deletion of your data",Privacy Statement,<li>Access and clear some of your data through the Microsoft privacy dashboard.
+6,10894,50,bad,Information is gathered about you through third parties,Privacy Statement,We also obtain data from third parties.
+7,10895,50,bad,Your personal data may be used for marketing purposes,Privacy Statement,"<p>Microsoft uses the data we collect to provide you rich, interactive experiences.
+In particular, we use data to:</p>
+<ul>
+<li>Provide our products, which includes updating, securing, and troubleshooting, as well as providing support.
+It also includes sharing data, when it is required to provide the service or carry out the transactions you request.</li>
+<li>Improve and develop our products.</li>
+<li>Personalize our products and make recommendations.</li>
+<li>Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you relevant offers.</li>
+</ul>"
+8,10896,10,neutral,Your personal data is aggregated into statistics,Privacy Statement,"We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research."
+9,14257,25,bad,Your data may be processed and stored anywhere in the world,Privacy Statement,"<p>We transfer personal data from the European Economic Area, the United Kingdom, and Switzerland to other countries, some of which have not yet been determined by the European Commission to have an adequate level of data protection.
+"
+10,14258,25,good,You can opt out of targeted advertising,Services Agreement,Controls for how Microsoft personalizes advertising are available at http://choice.live.com (https://go.microsoft.com/fwlink/?LinkId=286759).
+11,14259,50,bad,Many third parties are involved in operating the service,Privacy Statement,"These third parties may place cookies on your computer and collect data about your online activities across websites or online services.
+These companies currently include, but are not limited to: AppNexus, Facebook, Media.net, Outbrain, Taboola and Verizon Media.
+"
+12,14312,15,neutral,The posting of pornographic content is prohibited,2019-08-30 Microsoft Services Agreement,"Don’t publicly display or use the Services to share inappropriate content or material (involving, for example, nudity, bestiality, pornography"
+13,14316,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms of Use,"MICROSOFT CORPORATION HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH REGARD TO THE SOFTWARE, INCLUDING ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, WHETHER EXPRESS, IMPLIED OR STATUTORY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT."
+14,14322,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms of Use,"FOR YOUR CONVENIENCE, MICROSOFT MAY MAKE AVAILABLE AS PART OF THE SERVICES OR IN ITS SOFTWARE PRODUCTS, TOOLS AND UTILITIES FOR USE AND/OR DOWNLOAD.
+MICROSOFT DOES NOT MAKE ANY ASSURANCES WITH REGARD TO THE ACCURACY OF THE RESULTS OR OUTPUT THAT DERIVES FROM SUCH USE OF ANY SUCH TOOLS AND UTILITIES.
+"
+15,14323,20,neutral,"You agree not to submit libelous, harassing or threatening content",2019-08-30 Microsoft Services Agreement,"
+<li>ii.
+Don’t engage in any activity that exploits, harms, or threatens to harm children.</li>"
+16,14324,20,neutral,The service is provided 'as is' and to be used at your sole risk,2019-08-30 Microsoft Services Agreement,"YOU UNDERSTAND THAT USE OF THE SERVICES IS AT YOUR OWN RISK AND THAT WE PROVIDE THE SERVICES ON AN ""AS IS"" BASIS ""WITH ALL FAULTS"" AND ""AS AVAILABLE."""
+17,14325,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",2019-08-30 Microsoft Services Agreement,"WE DO NOT GUARANTEE THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE"
+18,14326,10,neutral,You agree not to use the service for illegal purposes,2019-08-30 Microsoft Services Agreement,Don’t do anything illegal
+19,14327,15,neutral,This service is only available to users over a certain age,2019-08-30 Microsoft Services Agreement,"By creating a Microsoft account or using the Services, you accept and agree to be bound by these Terms and represent that you have either reached the age of “majority” where you live or your parent or legal guardian agrees to be bound by these Terms on your behalf"
+20,14328,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",2019-08-30 Microsoft Services Agreement,"
+<li>iii.
+Don’t send spam or engage in phishing."
+21,14329,50,bad,You waive your right to a class action.,2019-08-30 Microsoft Services Agreement,"Class action lawsuits, class-wide arbitrations, private attorney-general actions, and any other proceeding where someone acts in a representative capacity aren’t allowed."
+22,14330,50,bad,You are forced into binding arbitration in case of disputes,2019-08-30 Microsoft Services Agreement," If You Live In (or, If a Business, Your Principal Place of Business Is In) the United States.</strong> We hope we never have a dispute, but if we do, you and we agree to try for 60 days to resolve it informally.
+If we can’t, you and we agree to <strong>binding individual arbitration before the American Arbitration Association (""AAA"") under the Federal Arbitration Act (""FAA""), and not to sue in court in front of a judge or jury</strong>."
+23,19234,25,good,Two factor authentication is provided for your account,Privacy Statement,multi-factor authentication
+24,23350,30,bad,Your personal data is used for advertising,Privacy Statement,"How we use personal data<p>Microsoft uses the data we collect to provide you with rich, interactive experiences.
+In particular, we use data to:</p>
+<ul>
+<li>Provide our products, which includes updating, securing, and troubleshooting, as well as providing support.
+It also includes sharing data, when it is required to provide the service or carry out the transactions you request.</li>
+<li>Improve and develop our products.</li>
+<li>Personalize our products and make recommendations.</li>
+<li>Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers.</li>"
+25,23351,50,bad,Voice data is collected and shared with third-parties,Privacy Statement,"For example, we manually review short snippets of voice data that we have taken steps to de-identify to improve our speech recognition technologies.
+This manual review may be conducted by Microsoft employees or vendors who are working on Microsoft’s behalf.</p>
+"
+26,23352,70,bad,Many different types of personal data are collected,Privacy Statement,"<p>Microsoft uses the data we collect to provide you rich, interactive experiences.
+In particular, we use data to:</p>
+<ul>
+<li>Provide our products, which includes updating, securing, and troubleshooting, as well as providing support.
+It also includes sharing data, when it is required to provide the service or carry out the transactions you request.</li>
+<li>Improve and develop our products.</li>
+<li>Personalize our products and make recommendations.</li>
+<li>Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you relevant offers.</li>
+</ul>
+<p>We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research"
+27,23353,50,bad,Your profile is combined across various products,Privacy Statement,"For these purposes, we combine data we collect from different contexts (for example, from your use of two Microsoft products).
+For example Cortana may use information from your calendar to suggest action items in a heads-up email, and Microsoft Store uses information about the apps and services you use to make personalized app recommendations.
+"
+28,23354,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Statement, Microsoft services do not currently respond to browser DNT signals
+29,23355,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Statement,"
+Microsoft apps use additional identifiers, such as the advertising ID in Windows described in the Advertising ID section of this privacy statement, for similar purposes.</p>
+<p>We also use “web beacons” to help deliver cookies and gather usage and performance data.
+Our websites may include web beacons, cookies, or similar technologies from third-party service providers.</p>"
+30,23356,70,bad,Third-party cookies are used for advertising,Privacy Statement,"Some cookies are placed by third parties acting on our behalf.
+We use cookies and similar technologies to store and honor your preferences and settings, enable you to sign-in, provide interest-based advertising"
+31,23357,50,bad, You are being tracked via social media cookies/pixels,Privacy Statement,"Some of our websites include social media cookies, including those that enable users who are signed in to the social media service to share content via that service."
+32,23358,10,bad,Third-party cookies are used for statistics,Privacy Statement,"Analytics</strong>.
+We use first- and third-party cookies and other identifiers to gather usage and performance data.
+For example, we use cookies to count the number of unique visitors to a web page or service and to develop other statistics about the operations of our products.</li>"
+33,23359,75,bad,"This service may collect, use, and share location data",Privacy Statement,"
+<li>Service providers that help us determine your device’s location.</li>
+"
+34,23360,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Statement,"
+We also share personal data with vendors or agents working on our behalf for the purposes described in this statement.
+For example, companies we've hired to provide customer service support or assist in protecting and securing our systems and services may need access to personal data to provide those functions."

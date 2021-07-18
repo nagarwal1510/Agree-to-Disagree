@@ -1,0 +1,67 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,6157,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,Terms of Service,IMDb has the right but not the obligation to monitor and edit or remove any activity or content.
+1,19615,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms of Service,"If you use any IMDb Service, you are responsible for maintaining the confidentiality of log-in information and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password"
+2,19616,20,good,The service claims to be CCPA compliant for California users,Privacy Policy,California Consumer Privacy Act <p>Click here to read additional disclosures required under the California Consumer Privacy Act.</p> 
+3,19617,50,bad,The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.,Privacy Policy," <p>If you choose to use IMDb Services, your use and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington.</p>"
+4,24084,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms of Service,"</b> You may not use data mining, robots, screen scraping, or similar data gathering and extraction tools on this site, except with our express written consent as noted below."
+5,24085,10,neutral,Instructions are provided on how to submit a copyright claim,Terms of Service,"
+If you believe that your work has been copied in a way that constitutes copyright infringement, please provide IMDb's copyright agent the written information specified below."
+6,24086,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms of Service,"THE IMDB SERVICES AND ALL INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) AND OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE IMDB SERVICES ARE PROVIDED BY IMDB ON AN ""AS IS"" AND ""AS AVAILABLE"" BASIS"
+7,24087,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms of Service,"IMDB WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF ANY IMDB SERVICE, OR FROM ANY INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH ANY IMDB SERVICE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES.</p>"
+8,24089,50,bad,You are forced into binding arbitration in case of disputes,Terms of Service,"<p>Any dispute or claim relating in any way to your use of any IMDb Service, or any products or services sold or distributed by IMDb or through the IMDb Services will be resolved by binding arbitration, rather than in court, except that you may assert claims in small claims court if your claims qualify.
+"
+9,24090,50,bad,You waive your right to a class action.,Terms of Service,"You and IMDb each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action.
+If for any reason a claim proceeds in court rather than in arbitration you and IMDb each waive any right to a jury trial.
+"
+10,24105,0,neutral,Third parties are involved in operating the service,Privacy Policy,"We employ other companies and individuals to perform functions on our behalf.
+"
+11,24106,30,bad,Your personal data is used for advertising,Privacy Policy,"We use your personal information to display interest-based ads for features, products, and services that might be of interest to you."
+12,24107,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"Examples include processing payments, removing repetitive information from user lists, analyzing data, providing marketing assistance, and transmitting content.
+They have access to personal information needed to perform their functions"
+13,24108,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Policy,"Examples include processing payments, removing repetitive information from user lists, analyzing data, providing marketing assistance, and transmitting content.
+They have access to personal information needed to perform their functions, but may not use it for other purposes.</li>
+<li>
+"
+14,24109,10,bad,Third-party cookies are used for statistics,Privacy Policy,"Third parties include providers of measurement and analytics services, social media networks, and advertising companies."
+15,24110,70,bad,Third-party cookies are used for advertising,Privacy Policy,"Third parties use cookies in the process of delivering content, including ads relevant to your interests, to measure the effectiveness of their ads, and to perform services on behalf of IMDb."
+16,24111,25,good,Your personal data is not sold,Privacy Policy," <p>Information about our users is an important part of our business, and we are not in the business of selling our users' personal information to others."
+17,24112,10,neutral,This service is a subsidiary of Company X,Privacy Policy,"We share user information with our parent corporation (Amazon.com, Inc.)"
+18,24113,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"Business Transfers</strong>: As we continue to develop our business, we might sell or buy other businesses or services.
+In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise)."
+19,24114,50,good,Promises will be kept after a merger or acquisition,Privacy Policy,"Business Transfers</strong>: As we continue to develop our business, we might sell or buy other businesses or services.
+In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise)"
+20,24115,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Policy,"We release account and other personal information when we believe release is appropriate to comply with the law.
+enforce or apply our Conditions of Use and other agreements.
+or protect the rights, property, or safety of IMDb, our users, or others.
+This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</li>
+</ul>
+<p>Other than as set out above, you will receive notice when personal information about you might be shared with third parties, and you will have an opportunity to choose not to share the information.</p> "
+21,24116,25,good,You can opt out of targeted advertising,Privacy Policy,"
+<li>If you do not want to see interest-based ads, please adjust your Advertising Preferences."
+22,24117,70,bad,Many different types of personal data are collected,Privacy Policy,"<p>As a result of those actions, you might supply us with such information as:</p>
+<ul>
+<li>identifying information such as your name, e-mail address, physical address, and phone number;</li>
+<li>payment information;</li>
+<li>your age;</li>
+<li>your gender;</li>
+<li>your location information;</li>
+<li>your IP address;</li>
+<li>your acting experience and unique acting skills;</li>
+<li>your educational background and professional training;</li>
+<li>your physical attributes;</li>
+<li>your general movie preferences;</li>
+<li>the movies and actors you like or dislike;</li>
+<li>people, addresses and phone numbers of professional contacts on your IMDbPro name page;</li>
+<li>content of reviews, posts to on-site forums, and e-mails to us;</li>
+<li>personal description and photographs you submit about yourself;</li>
+<li>images and videos uploaded to IMDb Services.
+and</li>
+<li>information and documents regarding identity (e.g., driver's license numbers).</li>"
+23,24118,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,"<p>Examples of the information we collect and analyze include:</p>
+<ul>
+<li>the internet protocol (IP) address used to connect your computer to the internet;</li>
+"
+24,24119,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"
+<p>We may also use device identifiers, cookies, and other technologies on devices, applications, and our web pages to collect browsing, usage, or other technical information.</p>"
+25,24120,75,bad,"This service may collect, use, and share location data",Privacy Policy,"
+<li>the location of your device or computer;"

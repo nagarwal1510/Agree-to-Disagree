@@ -1,0 +1,7 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,10786,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Cookies & Other Technologies,"Some browsers have “do not track” features that allow you to tell a website not to track you.
+These features are not all uniform.
+We do not currently respond to those signals."
+1,10787,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms of Use,The failure of either you or Kickstarter to exercise any right provided for in these Terms in any way won’t be deemed a waiver of any other rights.
+2,10788,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms of Use,"If any provision of these Terms is found to be invalid under the law, that provision will be limited or eliminated to the minimum extent necessary so that the Terms otherwise will remain in full force and effect and enforceable."
+3,10789,20,neutral,"Spidering, crawling, or accessing the site through any automated means is not allowed",Terms of Use,Don’t use any kind of software or device (whether it’s manual or automated) to “crawl” or “spider” any part of the Site.</li>
