@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "name": "Agree To Disagree 2",
+    "version": "0.2",
+    "content_scripts": [
+      {
+        "matches": [
+          "<all_urls>"
+        ],
+        "js": ["jquery-3.3.1.min.js","content.js"]
+      }
+    ],
+    
+    "background": {
+      "scripts": ["jquery-3.3.1.min.js","background.js"],
+      "persistent": true
+    },
+    "permissions": ["https://*/*","http://*/*","tabs"],
+
+    "browser_action": {
+      "default_icon": "ct.png",
+      "default_popup": "index.html",
+      "default_title": "Safe Web"
+    }
+    
+  } 
