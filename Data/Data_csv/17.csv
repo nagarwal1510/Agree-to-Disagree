@@ -1,0 +1,47 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,4241,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",,
+1,5197,15,neutral,This service is only available to users over a certain age,Atlassian Cloud ToS,"strong>&nbsp;<u>Age Requirement for End Users</u>.&nbsp;The Cloud Products are not intended for, and should not be used by, anyone under the age of"
+2,5198,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Atlassian Cloud ToS,"strong>&nbsp;<u>Credentials</u>.&nbsp;You must require that all End Users keep their user IDs and passwords for the Cloud Products strictly confidential and do not share such information with any unauthorized person.
+User IDs are granted to individual, named persons and may not be shared.
+You are responsible for any and all actions taken using End User Accounts and passwords, and you agree to immediately notify us of any unauthorized use of which you become aware.</p>
+<p>
+<strong"
+3,5200,5,bad,"Third party cookies are employed, but with opt out instructions",Privacy Policy,"Atlassian and our third-party partners, such as our advertising and analytics partners, use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices.
+For more information, please see our Cookies and Tracking Notice, which includes information on how to control or opt out&nbsp;of these cookies and tracking technologies.</p"
+4,5201,70,bad,Third-party cookies are used for advertising,Cookies & Tracking Notice,"Targeting Cookies or Advertising Cookies.</strong>&nbsp.
+These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
+They remember the websites you have visited and that information is shared with other parties such as advertising technology service providers and advertisers.</li"
+5,5202,10,bad,Third-party cookies are used for statistics,Cookies & Tracking Notice,"For&nbsp;performance and analytics.</strong>&nbsp.
+These cookies&nbsp;and similar technologies&nbsp;collect information on how users interact with the Services and enable us to improve how the Services operate.
+For example, we use&nbsp;Google Analytics cookies to help us understand how visitors arrive at&nbsp;and browse&nbsp;our products and&nbsp;website&nbsp;to&nbsp;identify areas for improvement such as navigation,&nbsp;user&nbsp;experience, and marketing campaigns"
+6,5203,50,neutral,Blocking first party cookies may limit your ability to use the service,Cookies & Tracking Notice,"If you do not accept cookies, however, you may not be able to use all aspects of our Services."
+7,5204,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Cookies & Tracking Notice,"Atlassian and our third party partners also collect information using web beacons (also known as ""tracking pixels"").</p>"
+8,5205,10,neutral,First-party cookies are used,Cookies & Tracking Notice,You will not be able to opt-out of any cookies or other technologies that are “strictly necessary” for the Services.</p>
+9,5207,30,good,Information is provided about how your personal data is used,Privacy Policy,"How we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us.&nbsp.
+Below are the specific purposes for which we use the information we collect about you.</p"
+10,5208,10,good,You can opt out of promotional communications,Privacy Policy,"We also communicate with you about new Services, product offers, promotions, and contests.&nbsp.
+You can control whether you receive these communications as described below under ""Opt-out of communications.""</p"
+11,5209,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,Privacy Policy,"Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations."
+12,5210,50,bad, You are being tracked via social media cookies/pixels,Cookies & Tracking Notice,"<li>
+<strong>Social media cookies.</strong> These cookies are used when you share information using a social media sharing button or “like” button on our websites or you link your account or engage with our content on or through a social media site.
+The social network will record that you have done this.
+This information may be linked to targeting/advertising activities."
+13,7391,50,bad,Information is gathered about you through third parties,Trello Privacy Policy,"We receive information about you and your activities on and off the Services from third-party partners, such as&nbsp;advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements"
+14,7392,50,good,"You can request access, correction and/or deletion of your data",Trello Privacy Policy,"You have the right to request a copy of your information, to object to our use of your information (including for marketing purposes), to request the deletion or restriction of your information, or to request your information in a structured, electronic format."
+15,7709,0,neutral,The court of law governing the terms is in location X,Atlassian Cloud ToS,"Each party irrevocably agrees that any legal action, suit or proceeding arising out of or related to these Terms must be brought solely and exclusively in, and will be subject to the service of process and other applicable procedural rules of, the State or Federal court in San Francisco, California, USA, and each party irrevocably submits to the sole and exclusive personal jurisdiction of the courts in San Francisco, California, USA, generally and unconditionally, with respect to any action, suit or proceeding brought by it or against it by the other party."
+16,24005,30,good,Details are provided about what kind of information they collect,Privacy Policy,What information we collect about you
+17,24007,0,neutral,"Your IP address is collected, which can be used to view your approximate location",Privacy Policy,We use your IP address and/or country preference in order to approximate your location to provide you with a better Service experience.
+18,24008,20,good,The service claims to be CCPA compliant for California users,Privacy Policy,"If you are a California resident, there are some additional rights that may be available to you under the California Consumer Protection Act (“CCPA”)."
+19,24009,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"
+</em>We use your contact information and information about how you use the Services to send promotional communications that may be of specific interest to you, including by email and by displaying Atlassian ads on other companies' websites and applications."
+20,24011,50,bad,Your profile is combined across various products,Privacy Policy,"Where you&nbsp;use multiple Services, we combine information about you and your activities to provide an integrated experience, such as to allow you to find information from one Service while searching from another&nbsp;or to present relevant product information as you travel across our websites."
+21,24012,20,good,The service claims to be GDPR compliant for European users,Privacy Policy,"<p>If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws"
+22,24013,40,good,You can retrieve an archive of your data,Privacy Policy,"Data portability is the ability to obtain some of your information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier).&nbsp.
+Depending on the context, this applies to some of your information, but not to all of your information.&nbsp.
+Should you request it, we will provide you with an electronic file of your basic account information and the information you create on the spaces under your sole&nbsp;control, like your personal Bitbucket repository."
+23,24014,60,bad,Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.,Privacy Policy,"Because there is not yet a common understanding of how to interpret the DNT signal, our Services do not currently respond to browser DNT signals."
+24,24015,25,good,Your personal data is not sold,Privacy Policy,"We are not in the business of selling&nbsp;information about you to advertisers or other third parties.</p>
+"
+25,24016,5,bad,Tracking pixels are used in service-to-user communication,Cookies & Tracking Notice,"
+to&nbsp;determine whether an email has been opened and acted upon."
+26,24017,30,bad,Your personal data is used for advertising,Privacy Policy,"IP addresses and social media profiles, for the purposes of targeted advertising of products that may interest you, delivering personalized communications, event promotion, and profiling."

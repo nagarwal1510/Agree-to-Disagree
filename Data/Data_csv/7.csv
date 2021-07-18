@@ -1,0 +1,109 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5837,0,neutral,Third parties are involved in operating the service, AWS Privacy Notice,"Third-Party Service Providers:</b> We employ other companies and individuals to perform functions on our behalf.
+Examples include: delivering AWS hardware, sending communications, processing payments, assessing credit and compliance risks, analyzing data, providing marketing and sales assistance (including advertising and event management), conducting customer relationship management, and providing training.
+These third party service providers have access to personal information needed to perform their functions, but may not use it for other purposes.
+Further, they must process that information in accordance with this Privacy Notice and as permitted by applicable data protection law."
+1,10885,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction, AWS Privacy Notice,"As we continue to develop our business, we might sell or buy businesses or services.
+In such transactions, personal information generally is one of the transferred business assets"
+2,10886,50,bad,Your personal data may be used for marketing purposes, AWS Privacy Notice,"We use your personal information to recommend AWS Offerings that might be of interest to you, identify your preferences, and personalize your experience with AWS Offerings"
+3,10887,25,bad,Your data may be processed and stored anywhere in the world, AWS Privacy Notice,"Location of Personal Information <p>Amazon Web Services, Inc.
+is located in the United States, and our affiliated companies are located throughout the world"
+4,10888,50,neutral,Your content can be deleted if you violate the terms, AWS Service Terms,"
+If we reasonably believe any of Your Content violates the law, infringes or misappropriates the rights of any third party, or otherwise violates a material term of the Agreement (including the documentation, the Service Terms, or the Acceptable Use Policy) (“Prohibited Content”), we will notify you of the Prohibited Content and may request that such content be removed from the Services or access to it be disabled.
+If you do not remove or disable access to the Prohibited Content within 2 business days of our notice, we may remove or disable access to the Prohibited Content or suspend the Services to the extent we are not able to remove or disable access to the Prohibited Content."
+5,11376,20,neutral,The service is provided 'as is' and to be used at your sole risk, AWS Service Terms,AWS IS PROVIDING BETA SERVICES AND BETA REGIONS TO YOU “AS IS.” 
+6,11377,50,good,"You can request access, correction and/or deletion of your data", AWS Privacy Notice,"Subject to applicable law, you have the right to:</p>
+<ul>
+<li>ask whether we hold personal information about you and request copies of such personal information and information about how it is processed;</li>
+<li>request that inaccurate personal information is corrected;</li>
+<li>request deletion of personal information that is no longer necessary for the purposes underlying the processing"
+7,11378,40,bad,Your personal data is used to employ targeted third-party advertising, AWS Privacy Notice,"We use your personal information to market and promote AWS Offerings.
+We might display interest-based ads for AWS Offerings.
+To learn more, please read our Interest-Based Ads notice."
+8,14300,70,bad,Third-party cookies are used for advertising, AWS Service Terms,"We use cookies and similar tools to enhance your experience, provide our services, deliver relevant advertising, and make improvements.
+Approved third parties also use these tools to help us deliver advertising and provide certain site features.</p>"
+9,14301,30,bad,Your biometric data is collected, AWS Service Terms,"
+If you use Amazon Connect Voice ID in a jurisdiction that has legal requirements related to the collection, possession, processing, use, disclosure, storage of any biometric information or identifiers (“biometric data”)"
+10,14302,45,bad,This service receives your precise location through GPS coordinates, AWS Privacy Notice,"<li>geolocation data, such as the location of your device or computer, for example if you enable location services to enhance your experience through event applications we offer;"
+11,14303,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements, AWS Service Terms,"
+EXCEPT TO THE EXTENT PROHIBITED BY LAW, AWS AND ITS AFFILIATES AND LICENSORS DISCLAIM ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR QUIET ENJOYMENT, "
+12,14304,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user, AWS Service Terms,"AWS’S AND ITS AFFILIATES’ AND LICENSORS’ AGGREGATE LIABILITY FOR ANY BETA SERVICES AND BETA REGIONS WILL BE LIMITED TO THE AMOUNT YOU ACTUALLY PAY US UNDER THIS AGREEMENT FOR THE SERVICES THAT GAVE RISE TO THE CLAIM DURING THE 12 MONTHS PRECEDING THE CLAIM.<br>
+</p>"
+13,14305,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service", AWS Service Terms,"AWS AND ITS AFFILIATES AND LICENSORS MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE REGARDING BETA SERVICES AND BETA REGIONS, INCLUDING ANY WARRANTY THAT THE BETA SERVICES AND BETA REGIONS WILL BECOME GENERALLY AVAILABLE, BE UNINTERRUPTED, ERROR FREE, OR FREE OF HARMFUL COMPONENTS, OR THAT ANY CONTENT, INCLUDING YOUR CONTENT, WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED."
+14,14307,10,good,The service has non-exclusive use of your content, AWS Service Terms,"
+You grant (i) us a non-exclusive,"
+15,14308,50,bad,A license is kept on user-generated content even after you close your account, AWS Service Terms,perpetual
+16,14309,50,bad,Your content can be licensed to third parties, AWS Service Terms," transferrable, sublicensable, royalty-free, and fully paid up license"
+17,17206,30,good,You will be notified about website maintenance, AWS Service Terms,"From time to time, we may apply upgrades, patches, bug fixes, or other maintenance to the Services and AWS Content (“Maintenance”).
+We agree to use reasonable efforts to provide you with prior notice of any scheduled Maintenance (except for emergency Maintenance), and you agree to use reasonable efforts to comply with any Maintenance requirements that we notify you about.</p>
+<p>
+"
+18,17207,50,good,You can delete your content from this service, AWS Service Terms,"Following closure of your AWS account, we will delete Your Content in accordance with the Documentation.</p>
+<p>"
+19,17208,35,bad,This service gives your personal data to third parties involved in its operation, AWS Service Terms,"You agree that by using the Currency Service, information related to your payment, including your name and address, may be used by our banking partners to process your payments in jurisdictions other than the United States.</p>"
+20,17209,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account, AWS Service Terms,"YOU ARE SOLELY RESPONSIBLE FOR APPLYING APPROPRIATE SECURITY MEASURES TO YOUR DATA AND YOUR USE OF MEDIA, APPLIANCES AND SNOWMOBILE MATERIALS, INCLUDING ENCRYPTING SENSITIVE DATA AND NOT ALLOWING UNAUTHORIZED ACCESS TO ANY MEDIA, APPLIANCE OR SNOWMOBILE MATERIALS.</p>"
+21,17210,50,neutral,The service has a no refund policy, AWS Service Terms,"Amazon DynamoDB Reserved Capacity is nontransferable and all amounts paid in connection with the Amazon DynamoDB Reserved Capacity are nonrefundable, except that if we terminate the Agreement"
+22,17211,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages", AWS Service Terms,"You agree not to use Amazon WorkMail for sending:</p>
+<ul>
+<li>Bulk emails, such as mass marketing emails</li>
+<li>Unsolicited and unwanted emails</li>
+<li>Phishing emails<"
+23,17212,15,good,The terms for this service are easy to read, AWS Service Terms,"However, this restriction will not apply in the event of the occurrence (certified by the United States Centers for Disease Control or successor body) of a widespread viral infection transmitted via bites or contact with bodily fluids that causes human corpses to reanimate and seek to consume living human flesh, blood, brain or nerve tissue and is likely to result in the fall of organized civilization.</p>"
+24,17213,30,good,Details are provided about what kind of information they collect, AWS Privacy Notice,Personal Information We Collect</li>
+25,17214,30,blocker,This service holds onto content that you've deleted, AWS Privacy Notice,"Account Information:</b> If you want to add, update, or delete information related to your account, please go to the AWS Management Console.
+When you update or delete any information, we usually keep a copy of the prior version for our records.</li>
+<li>
+"
+26,17215,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure, AWS Privacy Notice,"We keep your personal information to enable your continued use of AWS Offerings, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law (including for tax and accounting purposes), or as otherwise communicated to you.
+"
+27,17216,50,neutral,"You should revisit the terms periodically, although in case of material changes, the service will notify", AWS Privacy Notice,"Our business changes constantly, and our Privacy Notice may also change.
+You should check our website frequently to see recent changes.
+You can see the date on which the latest version of this Privacy Notice was posted.
+Unless stated otherwise, our current Privacy Notice applies to all personal information we have about you and your account.
+We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of personal information collected in the past without informing affected customers and giving them a choice.<br>
+"
+28,17217,70,bad,Many different types of personal data are collected, AWS Privacy Notice,"The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Consumer Privacy Act, depending on how you engage with the AWS Offerings:</p>
+<ul>
+<li>Identifiers, such as your name, alias, address, phone numbers, or IP address;</li>
+<li>personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number;</li>
+<li>characteristics of protected classifications under California or US federal law, such as age or gender, for example if we conduct user surveys or analysis;<br>
+</li>
+<li>commercial information, such as purchase activity;</li>
+<li>Internet or other electronic network activity information, including content interaction information, such as content downloads, streams, and playback details;</li>
+<li>biometric information, such as your voice or appearance, for example if you choose to participate in a demonstration of a speech or image recognition service;<br>
+</li>"
+29,17218,50,bad,Extra data may be collected about you through promotions, AWS Privacy Notice,"your age, gender, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third party service provider;<br>"
+30,17219,75,bad,"This service may collect, use, and share location data", AWS Privacy Notice,"geolocation data, for example if we enable transportation services from a third party in connection with an AWS event;<br>
+"
+31,17220,25,good,Your personal data is not sold, AWS Privacy Notice,"No sale of personal information</b>.
+In the preceding twelve months, we have not sold any personal information of consumers, as those terms are defined under the California Consumer Privacy Act.</p>
+"
+32,17221,10,bad,Third-party cookies are used for statistics, AWS Privacy Notice,"Performance cookies provide anonymous statistics about how customers navigate our site so we can improve site experience and performance.
+Approved third parties may perform analytics on our behalf, but they cannot use the data for their own purposes."
+33,17222,50,neutral,Blocking first party cookies may limit your ability to use the service, AWS Privacy Notice,"
+If you do not allow these cookies, then some or all of these services may not function properly.</p>"
+34,17223,50,bad,Information is gathered about you through third parties, AWS Privacy Notice,"Information from Other Sources <p>Examples of information we receive from other sources include:</p>
+<ul>
+<li>marketing, sales generation, and recruitment information, including your name, email address, physical address, phone number, and other similar contact information;"
+35,17224,50,bad,This service tracks which web page referred you to it, AWS Privacy Notice,"<li>the full Uniform Resource Locators (URL) clickstream to, through, and from our website (including date and time)"
+36,17225,0,neutral,"Your IP address is collected, which can be used to view your approximate location", AWS Privacy Notice,"<p>Examples of the information we automatically collect include:</p>
+<ul>
+<li>network and connection information, such as the Internet protocol (IP) address used to connect your computer or other device to the Internet and information about your Internet service provider;"
+37,17226,50,blocker,Your browsing history can be viewed by the service, AWS Privacy Notice,"
+<li>search results and links, including paid listings (such as Sponsored Links)."
+38,17227,0,neutral,The terms for this service are translated into different languages, AWS Privacy Notice,"Bahasa Indonesia </li>
+<li> Deutsch </li>
+<li> Español </li>
+<li> Français </li>
+<li> Italiano </li>
+<li> Português </li>
+</ul>
+<ul>
+<li> Tiếng Việt </li>
+<li> Türkçe </li>
+<li> Ρусский </li>
+<li> ไทย </li>
+<li> 日本語 </li>
+<li> 한국어 </li>
+<li> 中文 (简体) </li>
+<li> 中文 (繁體)"

@@ -1,0 +1,46 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5222,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms and Conditions,"YOU UNDERSTAND, AGREE AND ACKNOWLEDGE THAT THE PLATFORM IS PROVIDED ""AS IS"" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES OF ANY KIND"
+1,5223,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms and Conditions,"INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, NON-INFRINGEMENT, SECURITY, FITNESS FOR A PARTICULAR PURPOSE OR ACCURACY."
+2,5225,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Terms and Conditions,"You agree, confirm and acknowledge that you are responsible for maintaining the confidentiality of your password and any other security information related to your account (collectively ""Account Access"").
+We advise you to change your password frequently and to take extra care in safeguarding your password.</p>
+<p>You agree to notify us immediately of any unauthorized use of your Account Access or any other concern for breach of your account security.</p>
+<p>You agree, confirm and acknowledge that we will not be liable for any loss or damage that incurred as a result of someone else using your account, either with or without your consent and/or knowledge.</p>
+<p>You agree, confirm and acknowledge that you are solely and fully liable and responsible for all activities performed using your Account Access.
+You further acknowledge and agree that we will hold you liable and responsible for any damage or loss incurred as a result of the use of your Account Access by any person whether authorized by you or not, and you agree to indemnify us for any such damage or loss.</p>"
+3,5226,25,neutral,This service is only available for use individually and non-commercially.,Terms and Conditions,"You agree and confirm that your use of the Platform, including the Counselor Services, are for your own personal use only and that you are not using the Platform or the Counselor Services for or behalf of any other person or organization.</p>"
+4,5227,50,neutral,This service assumes no responsibility and liability for the contents of links to other websites,Terms and Conditions,"The Platform may contain other content, products or services which are offered or provided by third parties (""Third Party Content""), links to Third Party Content (including but not limited to links to other websites) or advertisements which are related to Third Party Content.
+We have no responsibility for the creation of any such Third Party Content, including (but not limited to) any related products, practices, terms or policies, and we will not be liable for any damage or loss caused by any Third Party Content.</p>"
+5,5230,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms and Conditions,"You will indemnify us, defend us, and hold us harmless from and against any and all claims, losses, causes of action, demands, liabilities, costs or expenses (including, but not limited to, litigation and reasonable attorneys' fees and expenses) arising out of or relating to any of the following: (a) your access to or use of the Platform.
+(b) any actions made with your account or Account Access whether by you or by someone else.
+(c) your violation of any of the provisions of this Agreement.
+(d) non-payment for any of the services (including Counselor Services) which were provided through the Platform.
+(e) your violation of any third party right, including, without limitation, any intellectual property right, publicity, confidentiality, property or privacy right.
+This clause shall survive expiration or termination of this Agreement."
+6,5231,40,neutral,They may stop providing the service at any time,Terms and Conditions,"You understand, agree and acknowledge that we may modify, suspend, disrupt or discontinue the Platform, any part of the Platform or the use of the Platform, whether to all clients or to you specifically, at any time with or without notice to you."
+7,5232,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms and Conditions,"While we make commercially reasonable efforts to ensure the Platform’s reliability and accessibility, you understand and agree that no platform can be 100% reliable and accessible and so we cannot guarantee that access to the Platform will be uninterrupted or that it will be accessible, consistent, timely or error-free at all times.</p>"
+8,5233,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms and Conditions,"
+<p>We may change this Agreement by posting modifications on the Platform.
+Unless otherwise specified by us, all modifications shall be effective upon posting.
+Therefore, you are encouraged to check the terms of this Agreement frequently."
+9,5235,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms and Conditions,"<p>If any provision of this Agreement is held by a court of competent jurisdiction to be illegal, invalid, unenforceable, or otherwise contrary to law, the remaining provisions of this Agreement will remain in full force and effect."
+10,5237,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"Like many websites, we use ""cookies"" and ""web beacons"" to collect information."
+11,5238,10,neutral,First-party cookies are used,Privacy Policy,"
+We use cookies and web beacons to enable the technical operation of the Platform, to administer your log-in to your account and to collect the Log Data."
+12,5239,10,bad,Third-party cookies are used for statistics,Privacy Policy,"We may also use third party cookies for the purposes of web analytics, attribution and error management.</p>"
+13,5240,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,if you do not accept cookies you may not be able to use the Platform.
+14,5242,15,neutral,This service is only available to users over a certain age,Privacy Policy,"We do not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to become our user.
+The Platform is not directed and not intended to be used by children under the age of 13.
+If you're aware that we have collected Personal Information from a child under age 13 please let us know by contacting us and we will delete that information.</p>"
+15,5243,0,neutral,The service is transparent regarding government requests or inquiries that may involve your data.,Privacy Policy,"<p>We cooperate with government and law enforcement officials to enforce and comply with the law.
+We may disclose information necessary or appropriate to protect the safety of the public or any person, to respond to claims and legal process (including but not limited to subpoenas), and to prevent or stop activity that may be illegal or dangerous."
+16,5244,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"You should also be aware that Counselors may be obliged to disclose information to law enforcement or other authorities to conform to their professional and legal responsibilities.
+Specifically, and without limitation, you should be aware that the law requires mental health professionals to disclose information and/or take action in the following cases: (a) reported or suspected abuse of a child or vulnerable adult.
+(b) serious suicidal potential.
+(c) threatened harm to another person.
+(d) court-ordered presentation of treatment."
+17,5245,25,good,Your personal data is not sold,Privacy Policy,"We will never sell or rent any Information you shared in the Platform.
+"
+18,5247,0,neutral,The court of law governing the terms is in location X,Terms and Conditions,"<p>You irrevocably agree that the exclusive venue for any action or proceeding arising out of relating to this Agreement or our relationship with you, regardless of theory, shall be the U.S.
+District Court for the Northern District of California, or the state courts located in Santa Clara County in California.
+You irrevocably consent to the personal jurisdiction of the aforementioned courts and hereby waive any objection to the exercise of jurisdiction by the aforementioned courts.</p>"
+19,5248,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,"<p>Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction."

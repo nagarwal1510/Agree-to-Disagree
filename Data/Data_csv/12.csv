@@ -1,0 +1,72 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,1494,70,bad," Terms may be changed any time at their discretion, without notice to you ",Website Terms of Service,"Apple reserves the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time.
+It is your responsibility to check these Terms of Use periodically for changes.
+Your continued use of the Site following the posting of changes will mean that you accept and agree to the changes."
+1,1595,40,bad,You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.,Website Terms of Service,"You agree to indemnify and hold Apple, its officers, directors, shareholders, predecessors, successors in interest, employees, agents, subsidiaries and affiliates, harmless from any demands, loss, liability, claims or expenses (including attorneys’ fees), made against Apple by any third party due to or arising out of or in connection with your use of the Site."
+2,1799,0,neutral,The court of law governing the terms is in location X,Website Terms of Service,"You agree to the personal jurisdiction by and venue in the state and federal courts in Santa Clara County, California, and waive any objection to such jurisdiction or venue."
+3,1819,40,neutral,They may stop providing the service at any time,Website Terms of Service,"Apple reserves the right to do any of the following, at any time, without notice: (1) to modify, suspend or terminate operation of or access to the Site, or any portion of the Site, for any reason.
+(2) to modify or change the Site, or any portion of the Site, and any applicable policies or terms.
+and (3) to interrupt the operation of the Site, or any portion of the Site, as necessary to perform routine or non-routine maintenance, error correction, or other changes.</p>"
+4,2058,15,neutral,Your account can be suspended for several reasons,Website Terms of Service,"You agree that Apple may, in its sole discretion and without prior notice, terminate your access to the Site and/or block your future access to the Site if we determine that you have violated these Terms of Use or other agreements or guidelines which may be associated with your use of the Site."
+5,2094,25,good,You can opt out of targeted advertising,Privacy Policy,"
+If you do not wish to receive ads targeted to your interests from Apple's advertising platform, you can choose to enable Limit Ad Tracking, which will opt your Apple ID out of receiving such ads regardless of what device you are using.
+If you enable Limit Ad Tracking on your mobile device, third-party apps cannot use the Advertising Identifier, a non-personal device identifier, to serve you targeted ads."
+6,2210,15,neutral,This service is only available to users over a certain age,Privacy Policy,"If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, outside the above circumstances we will take steps to delete the information as soon as possible."
+7,5536,40,good,"When the service wants to make a material change to its terms, you are notified at least 30 days in advance",iCloud Terms of Service,"Apple reserves the right at any time to modify this Agreement and to impose new or additional terms or conditions on your use of the Service, provided that Apple will give you 30 days’ advance notice of any material adverse change to the Service or applicable terms of service, unless it would not be reasonable to do so due to circumstances arising from legal, regulatory, or governmental action."
+8,5540,15,good,You have the right to leave this service at any time,iCloud Terms of Service,You may delete your Apple ID and/or stop using the Service at any time.
+9,5542,15,good,30 days of notice are given before closing your account,iCloud Terms of Service,Apple will be permitted to terminate only after giving you 30 days’ notice and only if you have not cured the breach within such 30-day period.
+10,5544,50,good,"You can request access, correction and/or deletion of your data",Privacy Policy,or delete the data if Apple is not required to retain it by law or for legitimate business purposes.
+11,5545,50,good,The data retention period is kept to the minimum necessary for fulfilling its purposes,Privacy Policy,"We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy and our service specific privacy summaries.
+When assessing these periods we carefully examine our need to collect personal information at all and if we establish a relevant need we only retain it for the shortest possible period to realize the purpose of collection unless a longer retention period is required by law"
+12,10056,0,neutral,You agree to comply with the law of the service's country,iTunes Terms of Service,"You agree to comply with all local, state, federal, and national laws, statutes, ordinances, and regulations that apply to your use of the Services.
+Your use of the Services may also be subject to other laws."
+13,10287,0,neutral,"The terms may be changed at any time, but you will receive notification of the changes",Privacy Policy,"Apple may update its Privacy Policy from time to time.
+When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy."
+14,11297,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",Privacy Policy,"Apple’s websites, online services, interactive applications, email messages, and advertisements may use ""cookies"" and other technologies such as pixel tags and web beacons."
+15,11298,50,bad,Your personal data may be used for marketing purposes,Privacy Policy,"They may also combine it with other information to provide and improve our products, services, content, and advertising."
+16,11299,25,bad,Your data may be processed and stored anywhere in the world,Privacy Policy,"<p>All the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy.
+"
+17,11300,50,neutral,Blocking first party cookies may limit your ability to use the service,Privacy Policy,Please note that certain features of the Apple website will not be available once cookies are disabled.</p>
+18,11301,50,blocker,Specific content can be deleted without reason and may be removed without prior notice,iCloud Terms of Service,"However, Apple reserves the right at all times to determine whether Content is appropriate and in compliance with this Agreement, and may screen, move, refuse, modify and/or remove Content at any time, without prior notice and in its sole discretion, if such Content is found to be in violation of this Agreement or is otherwise objectionable.</p"
+19,11717,35,bad,This service gives your personal data to third parties involved in its operation,Privacy Policy,"At times Apple may provide third parties with certain personal information to provide or improve our products and services, including to deliver products at your request, or to help Apple market to consumers.
+When we do, we require those third parties to handle it in accordance with relevant laws."
+20,16636,50,bad,A license is kept on user-generated content even after you close your account,iTunes Terms of Service,"You hereby grant Apple a worldwide, royalty-free, perpetual, nonexclusive license to use the materials you submit within the Services and related marketing, and Apple internal purposes."
+21,19712,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",iTunes Terms of Service,"<p>APPLE DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE"
+22,19713,20,neutral,The service is provided 'as is' and to be used at your sole risk,iTunes Terms of Service,YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE LICENSED APPLICATION IS AT YOUR SOLE RISK.
+23,19714,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,iTunes Terms of Service,In no event shall Licensor’s total liability to you for all damages (other than as may be required by applicable law in cases involving personal injury) exceed the amount of fifty dollars ($50.00).
+24,19715,50,neutral,There is a date of the last update of the agreements,iTunes Terms of Service,"Last Updated: September 16, 2020"
+25,19963,70,bad,Many different types of personal data are collected,,
+26,20936,30,bad,Your personal data is used for advertising,Privacy Policy,"
+<li>We also use personal information to help us create, develop, operate, deliver, and improve our products, services, content and advertising"
+27,20937,50,bad,This service tracks which web page referred you to it,Privacy Policy,"We may collect information such as occupation, language, zip code, area code, unique device identifier, referrer URL"
+28,20938,75,bad,"This service may collect, use, and share location data",Privacy Policy,"<p>To provide location-based services on Apple products, Apple and our partners and licensees, such as maps data providers, may collect, use, and share precise location data, including the real-time geographic location of your Apple computer or device."
+29,20939,50,good,The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.,Website Terms of Service,"<p>You agree that all matters relating to your access to or use of the Site, including all disputes, will be governed by the laws of the United States and by the laws of the State of California without regard to its conflicts of laws provisions."
+30,20940,50,good,You maintain ownership of your content,iCloud Terms of Service,Apple does not claim ownership of the materials and/or Content you submit or make available on the Service.
+31,20941,10,good,The service has non-exclusive use of your content,iCloud Terms of Service,"However, by submitting or posting such Content on areas of the Service that are accessible by the public or other users with whom you consent to share such Content, you grant Apple a worldwide, royalty-free, non-exclusive license"
+32,20942,70,blocker,Content you post may be edited by the service for any reason,Game Center Terms and Conditions,"
+Apple reserves the right to not post or publish any materials and to remove or edit any material, at any time in its sole discretion without notice or liability."
+33,20943,40,neutral,They may stop providing the service at any time,Game Center Terms and Conditions,"<p>Apple reserves the right to modify, suspend, or discontinue the Service (or any part or content thereof) at any time with or without notice to you, and Apple will not be liable to you or to any third party should it exercise such rights."
+34,20944,5,bad,Tracking pixels are used in service-to-user communication,Privacy Policy,"Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened.
+"
+35,20945,25,good,Your personal data is not sold,Privacy Policy,"Apple does not sell personal information, and personal information will never be shared with third parties for their marketing purposes."
+36,20946,20,good,Third parties used by the service are bound by confidentiality obligations,Privacy Policy,"When we do, we require those third parties to handle it in accordance with relevant laws."
+37,20947,50,bad,This service reserves the right to disclose your personal information without notifying you,Privacy Policy,"
+<p>It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Apple to disclose your personal information.
+We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate."
+38,20948,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.</p>
+<p>"
+39,20949,15,good,Information is provided about security practices,Privacy Policy,"Apple takes the security of your personal information very seriously.
+Apple online services such as the Apple Online Store and iTunes Store protect your personal information during transit using encryption such as Transport Layer Security (TLS).
+When your personal data is stored by Apple, we use computer systems with limited access housed in facilities using physical security measures.
+With the exception of iCloud Mail, iCloud data is stored in encrypted form including when we utilize third-party storage.</p>
+"
+40,21072,50,bad,Voice data is collected and shared with third-parties,Privacy Policy,"For research and development purposes, we may use datasets such as those that contain images, voices or other data that could be associated with an identifiable person."
+41,21073,20,bad, The service is only available in some countries approved by its government,iCloud Terms of Service,"In particular, but without limitation, the Software may not be exported or re-exported (a) into any U.S.
+embargoed countries or (b) to anyone on the U.S.
+Treasury Department’s list of Specially Designated Nationals or the U.S.
+Department of Commerce Denied Person’s List or Entity List.
+By using the Software or Service, you represent and warrant that you are not located in any such country or on any such list."
+42,23306,40,good,You are informed about the risk of publishing personal info online,Privacy Policy,"When you use some Apple products, services, or applications or post on an Apple forum, chat room, or social networking service, the personal information and content you share is visible to other users and can be read, collected, or used by them.
+You are responsible for the personal information you choose to share or submit in these instances.
+For example, if you list your name and email address in a forum posting, that information is public.
+Please take care when using these features."

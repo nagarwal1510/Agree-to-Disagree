@@ -1,0 +1,59 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,5514,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Privacy Policy,"To any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets.</li>
+"
+1,9518,10,neutral,Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision,Terms & Conditions,BitChute's failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision.
+2,9519,0,neutral,The court of law governing the terms is in location X,Terms & Conditions,"The Terms, and your relationship with BitChute under the Terms, shall be governed by English law.
+You and BitChute agree to submit to the exclusive jurisdiction of the courts of England to resolve any legal matter arising from the Terms."
+3,14724,20,neutral,The service is provided 'as is' and to be used at your sole risk,Terms & Conditions,"THE SERVICE AND CONTENT ARE PROVIDED ""AS IS,"" WITHOUT WARRANTY OF ANY KIND.
+"
+4,14725,60,bad,"You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",Terms & Conditions,"You will indemnify, defend and hold harmless BitChute and it's affiliates, directors, officers, employees and agents, from and against all third party actions that:</p>
+<ul>
+<li>arise from your activities on the Service,</li>
+<li>assert a violation by you of any of these Terms, or</li>
+<li>assert that any content you submitted to the Service violates any law or infringes any third party right, including any intellectual property or privacy right.</li>
+</ul>"
+5,14726,60,bad,Your account can be deleted without prior notice and without a reason,Terms & Conditions,"We may terminate your access to and use of the Service at our sole discretion, at any time and without notice to you."
+6,14727,15,neutral,The posting of pornographic content is prohibited,Community Guidelines,"Any material that is sexually explicit, portraying sexual acts or showing sexual arousal is not permitted and will not be tolerated on the platform.
+"
+7,14728,15,good,You have the right to leave this service at any time,Terms & Conditions,"You may cancel your Account at any time from within the Service.
+"
+8,14729,50,good,You maintain ownership of your content,Terms & Conditions,"BitChute does not claim any ownership rights to any Content posted to the Service.
+"
+9,14730,50,bad,"Instead of asking directly, this Service will assume your consent merely from your usage.",Terms & Conditions,"Your continued use of the Service following the posting of changes to these Terms will be deemed as your acceptance of those changes.
+"
+10,14731,70,bad," Terms may be changed any time at their discretion, without notice to you ",Terms & Conditions,"BitChute has the discretion to update these Terms at any time.
+When we do, we will revise the updated date at the bottom of this page.
+It is important that you frequently review the Terms for any changes to stay informed.
+"
+11,14732,40,neutral,They may stop providing the service at any time,Terms & Conditions,"As our Service is constantly evolving over time, we may change or discontinue all or any part of the Service, at any time and without notice, at our sole discretion.</p>"
+12,14733,15,neutral,This service is only available to users over a certain age,Terms & Conditions,"If you are aged 16 years or over, but still a minor or lack the required legal capacity to enter into a contract where you live, then you must have a parent or legal guardian's permission to use the Service, and your parent or legal guardian must agree to be bound by these Terms on your behalf.</p>"
+13,14734,50,good,"If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",Terms & Conditions,"Feedback on the Service is always welcome.
+If you have any comments, feedback or suggestions for the Service, then you can submit them by emailing us at <strong>support@bitchute.com</strong>.
+By doing so you grant us a perpetual, free and transferable license, with a right to sublicense, use, copy, modify, create derivative works and/or otherwise exploit the feedback in any form and media and for any purpose.</p>"
+14,14735,15,neutral,"If you are the target of a copyright claim, your content may be removed",Terms & Conditions,"Furthermore, you agree not to remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Service or Content.</p>
+<p>BitChute reserves the right to restrict or remove any Content posted to the Service that does not comply with these Terms or the <strong>Community Guidelines</strong>.</p>"
+15,14736,15,good,Copyright license limited for the purposes of that same service but transferable and sublicenseable,Terms & Conditions,"By making any Content available through the Service you grant to BitChute a worldwide, royalty-free, transferable license, with the right to sublicense, to use, copy, modify, create derivative works, display, perform and distribute your Content in order to operate, provide and promote the Service and Content to you and other users of the Service.</p>
+"
+16,14737,30,blocker,This service holds onto content that you've deleted,Terms & Conditions,"You can remove your Content by specifically deleting it.
+However, in certain instances, some of your Content (such as comments or messages you make) may not be completely removed and copies of your Content may continue to exist on the Service.
+"
+17,14738,0,neutral,This service does not guarantee that it or the products obtained through it meet your expectations or requirements,Terms & Conditions,"WITHOUT LIMITING THE FOREGOING, WE EXPLICITLY DISCLAIM ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+"
+18,14739,30,bad,"The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",Terms & Conditions,"WE MAKE NO WARRANTY THAT THE SERVICE WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS.
+"
+19,14740,10,neutral,The service does not guarantee accuracy or reliability of the information provided,Terms & Conditions,"WE MAKE NO WARRANTY REGARDING THE QUALITY, ACCURACY, TIMELINESS, TRUTHFULNESS, COMPLETENESS OR RELIABILITY OF ANY CONTENT.</p>"
+20,14741,50,bad,This service assumes no liability for any losses or damages resulting from any matter relating to the service,Terms & Conditions,"NEITHER BITCHUTE NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SERVICE OR CONTENT WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE SERVICES ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE SERVICE OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT BITCHUTE HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE."
+21,14742,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Terms & Conditions,"<p>IN NO EVENT WILL BITCHUTE'S TOTAL LIABILITY ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE SERVICE (OR CONTENT) EXCEED THE AMOUNTS YOU HAVE PAID TO BITCHUTE FOR USE OF THE SERVICE (OR CONTENT), OR ONE HUNDRED DOLLARS ($100) IF YOU HAVE NOT HAD ANY PAYMENT OBLIGATIONS TO BITCHUTE, AS APPLICABLE."
+22,14743,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Terms & Conditions,"
+If for any reason a court of competent jurisdiction finds any provision of these Terms invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms will remain in full force and effect.
+"
+23,14745,20,neutral,"You agree not to submit libelous, harassing or threatening content",Community Guidelines,"<p>Any harassment that is determined to be unlawful within the domiciles of either the originator&nbsp;or the target is not permitted and will not be tolerated on the platform.</p>
+"
+24,14746,20,neutral,You are prohibited from posting content which promotes violence or politically or religiously extremist values.,Community Guidelines,"Violent Extremist List</strong> that is utilised when identifying terrorist and violent extremist material.
+As this list will evolve over time, we suggest that all users regularly check it to ensure they are not breaching the guidelines.</p>
+<p>We acknowledge that showing and/or referencing acts of terrorist and/or violent extremism may be necessary to hold the perpetrators to account.
+"
+25,16926,25,good,Your personal data is not sold,Privacy Policy,"We do not sell, trade, or rent Users personal identification information to others."
+26,16927,15,good,Information is provided about security practices,Privacy Policy,Sensitive and private exchange between the Service and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.</p>
+27,16928,30,good,Information is provided about how your personal data is used,Privacy Policy,How we use the information<p>
+28,16929,30,good,Details are provided about what kind of information they collect,Privacy Policy,</p>What information do we collect<p>

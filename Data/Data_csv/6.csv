@@ -1,0 +1,43 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,622,50,bad,Your content can be licensed to third parties,Conditions of Use,"If you do post content or submit material, and unless we indicate otherwise, you grant Amazon a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, perform, translate, create derivative works from, distribute, and display such content throughout the world in any media.
+You grant Amazon and sublicensees the right to use the name that you submit in connection with such content, if they choose."
+1,645,50,bad,Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction,Amazon Privacy Notice," </strong>As we continue to develop our business, we might sell or buy other businesses or services.
+In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise).
+Also, in the unlikely event that Amazon.com, Inc.
+or substantially all of its assets are acquired, customer information will of course be one of the transferred assets."
+2,706,40,neutral,They may stop providing the service at any time,Conditions of Use,"Amazon reserves the right to refuse service, terminate accounts, terminate your rights to use Amazon Services, remove or edit content, or cancel orders in its sole discretion."
+3,793,60,bad,This service tracks you on other websites,Amazon Privacy Notice,"
+Like many websites, we use ""cookies"" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites."
+4,1122,30,bad,Your personal data is used for advertising,Interest-Based Ads,"To serve you interest-based ads, we use information such as your interactions with Amazon sites, content, or services."
+5,1370,10,neutral,You are responsible for maintaining the security of your account and for the activities on your account,Conditions of Use,"You are responsible for maintaining the confidentiality of your account and password and for restricting access to your account, and you agree to accept responsibility for all activities that occur under your account or password.
+"
+6,1582,35,bad,This service gives your personal data to third parties involved in its operation,Amazon Privacy Notice,This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+7,5922,20,neutral,The service is provided 'as is' and to be used at your sole risk,Conditions of Use,"THE AMAZON SERVICES AND ALL INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) AND OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE AMAZON SERVICES ARE PROVIDED BY AMAZON ON AN ""AS IS"" AND ""AS AVAILABLE"" BASIS, UNLESS OTHERWISE SPECIFIED IN WRITING.
+AMAZON MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE AMAZON SERVICES, OR THE INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE AMAZON SERVICES, UNLESS OTHERWISE SPECIFIED IN WRITING.
+YOU EXPRESSLY AGREE THAT YOUR USE OF THE AMAZON SERVICES IS AT YOUR SOLE RISK"
+8,5923,50,bad,You are forced into binding arbitration in case of disputes,Conditions of Use,"Any dispute or claim relating in any way to your use of any Amazon Service, or to any products or services sold or distributed by Amazon or through Amazon.com will be resolved by binding arbitration, rather than in court</strong>, except that you may assert claims in small claims court if your claims qualify."
+9,5925,0,neutral,Separate policies are employed for different parts of the service,Conditions of Use,"Please review our other policies, such as our pricing policy, posted on this site.
+These policies also govern your use of Amazon Services"
+10,5926,70,bad," Terms may be changed any time at their discretion, without notice to you ",Conditions of Use,"We reserve the right to make changes to our site, policies, Service Terms, and these Conditions of Use at any time"
+11,5929,35,bad,This service gives your personal data to third parties involved in its operation,EU-US and Swiss-US Privacy Shield,"The Amazon Group Companies are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements."
+12,5930,60,bad,Your account can be deleted without prior notice and without a reason,Amazon Maps Terms of Use,"We may terminate the Agreement or restrict, suspend or terminate your use of the Service at our discretion at any time without notice.</p>"
+13,10790,10,neutral,Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder,Conditions of Use,"If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition."
+14,10791,25,neutral,"You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",Conditions of Use,"commercial solicitation, chain letters, mass mailings, or any form of ""spam"" or unsolicited commercial electronic messages.
+"
+15,10792,30,neutral,Political discussions or campaining are prohibited,Conditions of Use,"political campaigning,"
+16,14306,50,bad,You waive your right to a class action.,Amazon Music Terms of Use,"Any dispute or claim arising from or relating to the Agreement or the Services is subject to the governing law, disclaimer of warranties and limitation of liability, binding arbitration and class action waiver (if applicable), and all other terms in the Conditions of Use applicable to you (noted here)."
+17,20752,50,bad,Voice data is collected and shared with third-parties,Amazon Privacy Notice,"
+<strong>Provide voice, image and camera services.</strong> When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services."
+18,20753,0,neutral,Third parties are involved in operating the service,Amazon Privacy Notice,"We employ other companies and individuals to perform functions on our behalf.
+"
+19,20754,50,bad,Your personal data may be used for marketing purposes,Amazon Privacy Notice,"Examples include fulfilling orders for products or services, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing payments, transmitting content, scoring, assessing and managing credit risk, and providing customer service.
+These third-party service providers have access to personal information needed to perform their functions"
+20,20755,30,good,Details are provided about what kind of information they collect,Amazon Privacy Notice,</p> What Personal Information About Customers Does Amazon Collect? 
+21,20756,70,bad,Third-party cookies are used for advertising,Amazon Privacy Notice,"Use of Third-Party Advertising Services:</strong> We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness.
+We never share your name or other information that directly identifies you when we do this.
+Instead, we use an advertising identifier like a cookie or other device identifier.
+"
+22,20757,10,bad,Any liability on behalf of the service is only limited to the fees you paid as a user,Amazon Prime Terms,"<p>IN ADDITION TO OTHER LIMITATIONS AND EXCLUSIONS IN AMAZON.COM'S CONDITIONS OF USE, OUR TOTAL LIABILITY, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, WILL NOT EXCEED THE LAST MEMBERSHIP FEE YOU PAID."
+23,20758,10,good,You can opt out of promotional communications,Amazon Privacy Notice,"
+If you do not want to receive email or other communications from us, please adjust your Customer Communication Preferences"

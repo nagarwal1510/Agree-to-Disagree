@@ -1,0 +1,22 @@
+,point_id,score,point,case,quoteDoc,quoteText
+0,10903,45,bad,This service receives your precise location through GPS coordinates,,
+1,11268,50,neutral,There is a date of the last update of the agreements,,
+2,11269,0,neutral,The terms for this service are translated into different languages,,
+3,11271,70,bad,Many different types of personal data are collected,,
+4,11280,50,bad,Many third parties are involved in operating the service,,
+5,11282,70,bad,Some personal data may be kept after the end of the data retention period or a request for erasure,,
+6,11283,50,bad,"You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",,
+7,11302,35,neutral,This service does not condone any ideas contained in its user-generated contents,Terms of Use,"Alibaba.com does not endorse, verify or otherwise certify the contents of any comments or other material or information (including User Content) created, submitted, posted, displayed or otherwise made by any Member."
+8,11303,50,bad,Your content can be distributed through any media known now or in the future,Terms of Use,"and otherwise use any or all of the User Content in any form, media, or technology now known or not currently known in any manner, on the Sites, Alibaba Channels and/or Third Party Channels and for any purpose which may be beneficial, whether directly or indirectly, to Alibaba.com,"
+9,11306,30,neutral,Alternative accounts are not allowed,Terms of Use,Alibaba.com may cancel or terminate a User’s member account if Alibaba.com has reasons to suspect that the User has concurrently registered or is in control of two or more member accounts.
+10,11307,20,neutral,You are prohibited from attempting to gain unauthorized access to other computer systems,Terms of Use,You agree not to undertake any action to undermine the integrity of the computer systems or networks of Alibaba.com and/or any other User nor to gain unauthorized access to such computer systems or networks.<br>
+11,11315,10,bad,Third-party cookies are used for statistics,,
+12,11318,10,neutral,First-party cookies are used,,
+13,11319,5,bad,"Third party cookies are employed, but with opt out instructions",,
+14,11320,50,bad, You are being tracked via social media cookies/pixels,,
+15,11321,60,bad,This service tracks you on other websites,,
+16,11322,30,good,A complaint mechanism is provided for the handling of personal data,,
+17,11323,50,bad,This service tracks which web page referred you to it,,
+18,11331,50,good,The service promises to inform and/or notify you regarding government inquiries that may involve your personal data,,
+19,11332,30,good,You will be notified if personal data has been affected by data breaches,,
+20,11333,50,good,Information is provided about how they collect personal data,,
