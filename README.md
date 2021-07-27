@@ -1,5 +1,13 @@
-Basic: It contains Baisc pt=ython and Machine lLearning libraries like numpy, matplotlib, pandas etc practice code
+Basic: It contains Baisc python and Machine lLearning libraries like numpy, matplotlib, pandas etc practice code
+
+
 Small projects: this folder contain small tasks that we have performed like making scrappers for different websites, football predictor etc
+
+
 Data: This file contains all the data. Data in both json and csv version
+
+
 Web Extension: it contains code part and the ui part of the web extension
+
+
 Final Model: It contains all the codes of the final model
