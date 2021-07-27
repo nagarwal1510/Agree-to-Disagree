@@ -80,12 +80,86 @@ for (var i = 0; i < $divs.length; i++) {
 
 
 
+      var msg2 = {
+        receiver: 'background',
+        data: final_link
+    };
+  
+    
+chrome.runtime.sendMessage(msg2, function(response) {});
+// Whole notification popup message is enclosed in the following block
+                      {  var newDiv = $("<div id='modal' class='modal'>");
+                         var newContent = $("<div class='modal-content'>");
+                         newContent.html("<h2>Take a Quick Privacy Check before you agree to anything</h2>");
+                         var closeSpan = $("<span class='close'>");
+                         // closeSpan.html("&times;");
+    
+                         newContent.append(closeSpan);
+                         newDiv.append(newContent);
+                         $("body").append(newDiv);
+    
+                          newDiv.css({
+                           "display": "none", 
+                          "position": "fixed", 
+                         "z-index": "4", 
+                          "padding-top": "10px", 
+                         "left": "70%",
+        
+                         "top": "50px",
+                         "width": "30%", 
+                         "height": "80%", 
+                         "overflow": "auto", 
+                         "background-color": "rgb(0,0,0)", 
+                          "background-color": "rgba(0,0,0,0)" 
+                         });
 
+                        newContent.css({
+                        "background-color": "rgb(0,0,0)", 
+                        "background-color": "rgba(0,0,0,0.3)",
+                        "margin": "auto",
+                        "padding": "20px",
+        
+        
+                      "border": "1px solid #888",
+                      "text-align": "center",
+                      "width": "80%", 
+                      "font-weight": "bold",
+                      "font-size": "20px"
+                       });
 
+                          closeSpan.css({
+                          "color": "#aaaaaa",
+                          "float": "right",
+                         "font-size": "30px",
+                          "font-weight": "bold"
+                         })
 
+                        newDiv.css("display", "block");
+      
+                        var span = $(".close")[0];
+                         span.onclick = function(){
+                          newDiv.css("display", "none");
+        
+                        } 
 
+                         window.onclick = function(event) {
+        
+                          newDiv.css("display", "none");
+        
+                         }
+   
+
+                        }
+       //Notification block ends
+    
     }
-   var nul = ["null", "null", "null"];
-    if(agree_check)
-    {chrome.runtime.sendMessage(final_link, function(response) {});}
-    else {chrome.runtime.sendMessage(nul, function(response) {});}
+
+
+
+
+    var nul = ["null", "null", "null"];
+    var msg1 = {
+        receiver: 'background',
+        data: nul
+    };
+    

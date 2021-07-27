@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Agree To Disagree 2",
-    "version": "0.2",
+    "version": "1.2",
     "content_scripts": [
       {
         "matches": [
@@ -18,9 +18,9 @@
     "permissions": ["https://*/*","http://*/*","tabs"],
 
     "browser_action": {
-      "default_icon": "ct.png",
+      "default_icon": "ct1.png",
       "default_popup": "index.html",
-      "default_title": "Safe Web"
+      "default_title": "Made with ❤️ at IIT B"
     }
     
   } 
