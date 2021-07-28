@@ -12,4 +12,6 @@ Web Extension: it contains code part and the ui part of the web extension
 
 Final Model: It contains all the codes of the final model
 
-My work repo: https://docs.google.com/document/d/12QpWkrGQUEm-tDRZTj7FfKRCD8Z_Qd2DprsCgQW_mvE/edit?usp=sharing
+Naman work report: https://docs.google.com/document/d/12QpWkrGQUEm-tDRZTj7FfKRCD8Z_Qd2DprsCgQW_mvE/edit?usp=sharing
+
+Abhinav Work report : https://docs.google.com/document/d/19UCqf3nHFv2T5OG7_D4IHfi-LUElAhmFDjYj2UqkVgY/edit?usp=sharing
